@@ -43,4 +43,4 @@ to the `config` folder inside this project.
     ./*.postman_collection.json
     
 # Attribution
-* Made with ♥ in Munich
+* Made with ♥, Skill & Power in Munich
