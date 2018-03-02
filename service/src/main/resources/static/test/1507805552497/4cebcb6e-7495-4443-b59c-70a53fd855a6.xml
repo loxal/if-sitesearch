@@ -1,0 +1,1027 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!--
+  ~ Copyright 2017 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<documents count="50">
+    <Document>
+        <url>http://www.intrafind.de/loesungen/produktivitaetssteigernde-loesungen/enterprise-search</url>
+        <id>D1B5296E3F20C837CB561A82B922E0AD</id>
+        <title>Enterprise Search</title>
+        <body>Unternehmensweite Suche - Ihr Start in den Informationsalltag Der wichtigste Aspekt einer Enterprise
+            Search-Lösung ist die Anbindung unterschiedlichster Datenquellen. Ihr Nutzen: Erhalten Sie mit nur wenigen
+            Klicks eine vollständige Trefferliste rund um Ihren Suchbegriff mit den für Sie wichtigsten Treffer ganz
+            oben. Zudem profitieren Sie als Anwender von folgenden Punkten: Die Enterprise Search-Lösung iFinder5
+            elastic verfügt über eine anwenderfreundliche und intuitiv bedienbare Benutzeroberfläche, die es jedem
+            Mitarbeiter ohne Schulungsaufwand ermöglicht seinen Informationsalltag zu gestalten. Wissensarbeiter, die
+            ständig mit aufwendigen innerhalb aber auch außerhalb eines Unternehmens mit Recherchen beschäftigt sind
+            werden zudem von intelligenten Filtermechanismen, semantischen Wortwolken und der eigens für Recherchezwecke
+            entwickelten Wissenslandkarte unterstützt. IntraFind beschäftigt seit Jahren Experten für Computerlinguistik
+            und ist Profi für linguistische Verfahren, die jede Suche für Sie als Anwender zum Erfolg werden lassen. Wir
+            benötigen für den Suchvorgang weder exakte Suchbegriffe noch müssen Sie sich an Schreibweisen halten. Unsere
+            Lösung unterstützt Sie bereits bei der Eingabe Ihres Begriffes mit einer intelligenten und ACL geprüften
+            Autovervollständigung und erledigt viele Arbeiten im Hintergrund - in dem Suchprozess selbst. Ihre
+            Enterprise Search-Lösung wächst natürlich mit Ihrem Unternehmen mit. Sie entscheiden welche Datenquellen für
+            Ihre tägliche Arbeit wichtig sind. Sollte es in der Zukunft interessant für Sie sein, weitere Datenquellen
+            an unsere Suchlösung anzuschließen, werden wir dies umsetzen. Dafür verfügt IntraFind über ein umfangreiches
+            Set an Konnektoren.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/suchen-finden/sitesearch</url>
+        <id>4A6E835F75887072E71191B089120701</id>
+        <title>Sitesearch</title>
+        <body>IntraFind Sitesearch.cloud - die einfach integrierbare, schnelle Suche für Ihren Webauftritt Sie möchten,
+            dass die Besucher auf Ihrer Webseite noch schneller das finden, was sie brauchen? Dann setzen Sie auf eine
+            Suchfunktion, die alle wichtigen Inhalte Ihrer Webseite erfasst. Mit unserer Sitesearch bieten wir Ihnen
+            eine Suchlösung für Ihre Webseite, die zuverlässig und schnell arbeitet und mit der Sie auf der sicheren
+            Seite sind. Die Sitesearch können Sie einfach und ohne Expertenwissen installieren. Profitieren Sie von
+            einer Suche in Echtzeit: Wenn Sie neue Seiten erstellen oder Änderungen an Ihrer Webseite vornehmen, sind
+            diese sofort im Index der Suchmaschine und damit für die Suche verfügbar.   Sitesearch – die wichtigsten
+            Funktionen auf einem Blick: Suche as a Service: Die Cloud-Lösung basiert auf Elasticsearch. Darüber hinaus
+            profitieren Sie von sämtlichen IntraFind-Features wie Linguistik und Autovervollständigung bei der
+            Suchanfrage. Sichere Suche: Ihre Daten sind bei uns sicher: Die Sitesearch.cloud wird in einem deutschen
+            Rechenzentrum gehostet und erfüllt damit alle wichtigen Standards und Richtlinien zum Thema Datenschutz.
+            Responsive: Egal ob Desktop-PC, Tablet oder Smartphone: Die Suche funktioniert auf allen Geräten. Das Layout
+            passt sich an die jeweilige Displaygröße an. Ihre Vorteile: Suche in Echtzeit: Aktualisierte Seiten sind
+            sofort im Index und über die Suche auffindbar. Einfache Installation: Dank der einfachen Infrastruktur der
+            API lässt sich die Sitesearch schnell und einfach in bestehende Websites integrieren. Hohe Performance: Egal
+            ob 1 Nutzer oder 1000 Nutzer – die Suche bleibt auch bei vielen gleichzeitigen Suchanfragen gleich schnell.
+            Individuell: Komplett anpassbares User Interface – vom Suchfeld bis hin zur Trefferliste Flexibel:
+            Profitieren Sie von unseren flexiblen Abo- und Freemium-Modellen. Gesucht. Gefunden. Fragen Sie uns nach
+            Sitesearch.Cloud.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/events</url>
+        <id>F54C40A1C30DFB64AF1B10234A65110D</id>
+        <title>Veranstaltungen von und mit IntraFind</title>
+        <body>News &amp; Events</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/content-analytics</url>
+        <id>8AF07B60445F55E685798D00BB3546D3</id>
+        <title>Content &amp; Text Analytics Technologien</title>
+        <body>Mit den IntraFind Content Analytics-Technologien werden Ihre Unternehmensinformationen sichtbar. Mehrwert
+            aus Ihrem Content generieren: Content Analytics Suite IntraFind bietet mit der Content Analytics Suite den
+            kompletten Technologie-Stack für Artificial Intelligence (AI) an. Praktische Anwendung finden diese
+            Technologien zum Beispiel als Chatbots im Online-Support, bei der automatischen Analyse von Verträgen und
+            Ausschreibungen oder bei der Wettbewerbsbeobachtung (Technologie Scouting). Anwendungsgebiete von Artificial
+            Intelligence Texte, Sätze, Begriffe erkennen: Linguistik Analyzer IntraFind&apos;s Linguistik Analyzer
+            vereinen zahlreiche morphologische Verfahren und Technologien, die ein inhaltliches Erschließen von
+            unstrukturierten Texten ermöglichen. Integriert in Applikationen, wie in Suchlösungen oder in Business
+            Intelligence-Systemen werden diese durch das Erkennen und Verarbeiten von Begriffen und Sprachen qualitativ
+            verbessert. Mehr erfahren Qualitativ hochwertige Metadaten erzeugen: Tagging Service IntraFind verarbeitet
+            unstrukturierten Text und elaboriert Entitäten wie Namen von Personen, Orten, Autoren, Organisationen,
+            Städten sowie Bankdaten und Postleitzahlen. Gefundene Metadaten können dann automatisch in Ihre Applikation
+            (CMS-, Collaboration- oder Redaktions- systeme) integriert werden. Texte strukturieren Automatische
+            Textklassifikation: TopicFinder Identifizieren Sie auf der Basis Ihres bestehenden Informationsbestandes
+            (Big Content) alle wichtigen Themenbereiche und fügen Sie neue Dokumente automatisch diesen Themenbereichen
+            zu. Steuern Sie Workflows, Innovationsmanagement, Ihren Customer Service oder auch Ihren Posteingang über
+            diese technologischen Verfahren. Klassifizieren Sie jetzt
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/anfahrt</url>
+        <id>41B42E8E4B8D1912328FB1C1138D3501</id>
+        <title>Anfahrt</title>
+        <body>Anfahrt IntraFind Software AG Landsberger Straße 368 (4. Stock) 80687 München Telefon 49 89 3090446-0
+            Fax      49 89 3090446-29 E-Mail   info@intrafind.de Unser Büro befindet sich in der Landsberger Straße 368
+            im Stadtteil Laim (Westen Münchens). Der Haupteingang befindet sich auf der rechten Seite des blauen
+            Bürogebäudes (Innenhof). Für die Anreise mit dem Auto stehen Ihnen Parkplätze in unserer Tiefgarage zur
+            Verfügung - bitte beachten Sie hierzu die detaillierte Anfahrtsbeschreibung.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen</url>
+        <id>00FF3CDC3D102364F2608359C1B32277</id>
+        <title>Über IntraFind</title>
+        <body>INTRAFIND Ihr Einstieg in Ihre Unternehmensinformationen Wer ist IntraFind? Seit über 15 Jahren sind
+            unsere Suchlösungen und Textanalyseverfahren für mehr als 1.000 Kunden der Einstieg in wichtige
+            Informationen und vorhandenes Unternehmenswissen. Wir bieten Ihnen hochwertige, innovative Produkte und ein
+            Expertenteam, welches Sie in jeder Phase Ihres Projektes von der Planung über die Umsetzung bis hin zur
+            Integration begleitet. Investieren Sie in eine intelligente, hochskalierbare und äußerst leistungsfähige
+            Suchlösung von IntraFind und profitieren Sie von einem schnellen, vollständigen und rechtegeprüften
+            Informationszugang. Gestalten Sie Ihren Informationsalltag Unser Erfahrungsschatz Ein Blick in unsere
+            Referenzen verrät es: IntraFind gestaltet bereits den Informationsalltag von zahlreichen DAX-Unternehmen,
+            Hidden Champions, kleinen, innovativen Unternehmen sowie von Öffentlichen Auftraggebern. Wir freuen uns
+            darauf, auch Ihren Arbeitsalltag in punkto Informationsgewinn leichter zu gestalten. Namhafte Unternehmen
+            setzen auf IntraFind
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/forschungsprojekte</url>
+        <id>B81FA915375EE7F99C8CEFDFC7E4D146</id>
+        <title>Forschungsprojekte - die wissenschaftliche Weiterentwicklung bei IntraFind</title>
+        <body>IntraFind Forschungsprojekte Aktuelle Forschungsprojekte: Forschungsprojekt OntoPMS - Folgeprojekt zu
+            OntoVigilance Anknüpfend an das erfolgreich abgeschlossene Projekt OntoVigilance konnte Intrafind das
+            Projekt OntoPMS zur Entwicklung einer ontologiegestützten Risiko-Identifikationssoftware für die Beobachtung
+            auf dem Markt befindlicher Medizinprodukte (Post Market Surveillance, PMS) gewinnen. Durch die Verwendung
+            dieser Software sollen Medizinprodukte sicherer werden, da mögliche Risiken zum Teil schon während der
+            Entwicklung identifiziert werden können. Auch dieses Projekt wird im Rahmen des Förderprogramms
+            KMU-innovativ des Bundesministeriums für Bildung und Forschung (BMBF) gefördert.   Im Vergleich zu
+            OntoVigilance sollen im Projekt OntoPMS weitaus mehr Dokumente und risiko-spezifische Datenquellen
+            einbezogen werden. Hierfür konnte das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) als neuer
+            zusätzlicher Partner gewonnen werden.   IntraFind wird im Rahmen des Projekts an ontologiegestützten
+            Verfahren zur Relations- und Ereignis-Extraktion arbeiten. Diese Verfahren werden ganz neue Content
+            Analyse-Möglichkeiten für die IntraFind Produkte liefern. Insbesondere wird das Konzept der Search Ontology
+            weiterentwickelt, mit dem der domänen-abhängige und ontologiegestützte Anteil der Informationsextraktion
+            weitgehend über komplexe neue Such-Operatoren auf einem linguistisch angereicherten Volltextindex erfolgt.
+            Dieser Ansatz hat den Vorteil, dass auf Änderungen der Ontologie wesentlich flexibler reagiert werden kann.
+            Abgeschlossene Forschungsprojekte: Forschungsprojekt OntoVigilance - Verbesserung von Medizinprodukten Im
+            Rahmen des Förderprogramms KMU-innovativ des Bundesministeriums für Bildung und Forschung (BMBF) konnte
+            IntraFind das Forschungsprojekt OntoVigilance (Start: 1. März 2013, Projektdauer: zwei Jahre) gewinnen.  
+            Projektziel war die Entwicklung einer ontologiegestützten Vigilanz-Software zur effizienten Auswertung
+            wissenschaftlicher Veröffentlichungen und Erfahrungsberichte hinsichtlich der Anwendung technischer
+            Medizingeräte. Die in den Texten beschriebenen Mängel, Komplikationen und Risiken im Umgang mit den Geräten
+            wurden softwaregestützt erkannt und extrahiert. Auf dieser Grundlage bietet das im Projekt entwickelte
+            System eine Entscheidungsunterstützung zur Optimierung von Medizinprodukten.   Im Vergleich zur bisher
+            gängigen Praxis der manuellen Bearbeitung von Supportfällen ermöglicht die Unterstützung durch
+            softwarebasierte Verfahren den Herstellern technischer Medizingeräte eine frühzeitige Erkennung und Reaktion
+            auf Produktmängel. Dies spart wertvolle Zeit und Geld in der Produktentwicklung und kann nicht zuletzt einen
+            wichtigen Wettbewerbsvorteil bedeuten.   IntraFind entwickelte hierzu ontologiegestützte Recherche- und
+            Informationsextraktionsverfahren in enger Zusammenarbeit mit dem Institut für Medizinische Informatik,
+            Statistik und Epidemiologie der Universität Leipzig und den Firmen Novineon und MT2IT. Zum Einsatz kamen die
+            auf einer SOA-Architektur basierenden IntraFind Produkte Tagging Service und NAMER (Entitätenerkennung) zur
+            Erzeugung von Ontologien und Metainformationen aus den bereitgestellten medizintechnischen Dokumentationen
+            (Zielsprachen: Deutsch, Englisch). Social CRM-Intelligence Das erfolgreich abgeschlossene Forschungsprojekt
+            SCRM-I beschäftigte sich mit der Entwicklung innovativer Services zur Erweiterung bisheriger CRM-Software
+            unter Einbeziehung des semantischen Text Mining. Die Services sollen die Identifikation von Nachrichten,
+            Anfragen, Trends, Meinungen und Entwicklungen erheblich vereinfachen und Unternehmen in der Interaktion mit
+            dem Social Web maßgeblich unterstützen. So vermittelt das Social CRM beispielsweise einen Einblick, wie
+            Unternehmen, Marken und Produkte von Konsumenten auf öffentlichen Social-Media-Plattformen bewertet werden.
+            IntraFind steuerte in der Zusammenarbeit mit den Universitäten Leipzig und Hohenheim langjähriges Know-how
+            im Bereich Textanalyse bei. Wer war der Erfinder der Espressomaschine? Fragen stellen – Antworten bekommen
+            Im Forschungprojekt NL-Search (KMU-innovativ / IKT) wurde während der zweijährigen Projektlaufzeit zusammen
+            mit der Universität des Saarlandes eine Suchmaschine entwickelt, die in der Lage ist, in Echtzeit
+            natürlichsprachliche Anfragen zu beantworten. Anstelle der Eingabe von Schlüsselwörtern, wie bei gängigen
+            Suchmaschinen üblich, kann der Anwender einfache Anfragen in natürlicher Sprache stellen. Als Suchergebnisse
+            werden nicht komplette Dokumente, sondern kurze Passagen oder Sätze geliefert, die eine Antwort auf die
+            gestellte Frage enthalten. Basis der Suchmaschine ist das IntraFind Enterprise Search-Produkt iFinder.   Ein
+            wichtiger Punkt für unternehmerische Entscheidungen ist, dass man immer ein Ohr hat für wissenschaftliche
+            Weiterentwicklungen außerhalb der Marktwirtschaft. Was passiert im universitären Bereich, was sind die
+            Themen, die Studenten und Professoren heute gemeinsam entwickeln? Um diese Impulse nicht zu verpassen,
+            engagiert IntraFind von Beginn an ein Team aus Wissenschaftlern, die Forschungsprojekte aktiv begleiten.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/blog/der-ifinder5-elastic-als-content-delivery-portal</url>
+        <id>50D5F62605DBD6E9641A2BCCBBAAFAEC</id>
+        <title>Der iFinder5 elastic als Content Delivery Portal (CDP)</title>
+        <body>Der iFinder5 elastic als Content Delivery Portal (CDP) Ein Produkt - vielfältige
+            Anwendungsmöglichkeiten... Mit der Markteinführung der neuen Produktgeneration iFinder5 elastic ergeben sich
+            immer wieder neue Anwendungsmöglichkeiten. Eine davon ist &quot;Content Delivery&quot;, die auf den Aspekt
+            der anwendungs- und anwendergerechten Bereitstellung relativ statischer und vor allem qualitätsgesicherter
+            Informationen abzielt. Dazu zählen beispielsweise mehrsprachige Bedienungsanleitungen, Schaltpläne,
+            Handbücher - letztlich jede Art von final freigegebenen Informationen, z.B. für die Bedienung und Wartung
+            einer komplexen Anlage oder Maschine. Diese Dokumente und Inhalte werden am Ende eines
+            Content-Management-Prozesses von der iFinder-basierten Content-Delivery-Lösung mit wertvollen
+            Zusatzinformationen angereichert und anwendergerecht bereitgestellt. Stellen Sie sich das Ganze als
+            zweistufigen Prozess vor: Zuerst werden Informationen, meist aus unterschiedlichen Datenquellen, aggregiert
+            und mit Hilfe von Suchtechnologien dargestellt. Der iFinder5 elastic setzt hier im Backend mit Elasticsearch
+            auf die State-of-the-Art NoSQL Indextechnologie und kombiniert diese mit neuesten semantischen und
+            linguistischen Textanalyseverfahren. Der iFinder5 elastic identifiziert alle relevanten Inhalte, der Content
+            Verantwortliche wählt aus und stellt so das für den Anwendungsfall benötige Informationspaket zusammen.
+            Dieses wird anschließend im eigenen Datastore des iFinder abgelegt. Im zweiten Schritt erfolgt die
+            maßgeschneiderte Content-Nutzung - mit IntraFind als Online-Portal, auch responsive auf dem Smartphone oder
+            dem iPad. Der darauf installierte iFinder stellt nun alle Inhalte anwendungs- und anwendergerecht dar.
+            Anwendungsgerecht bedeutet, dass Schaltpläne anders dargestellt werden als komplexe mehrsprachige
+            Handbücher. Anwendergerecht heißt, dass der iFinder den Arbeitsprozess unterschiedlich unterstützt: Der
+            Wissensarbeiter kann über Inhalte und Kontexte navigieren, für ein schnelles Nachschlagen wird eine schlanke
+            Trefferliste mit dem besten Dokument an erster Stelle angezeigt. Ein Techniker kann sich über die Auswahl
+            von Kategorien wie Produkt oder Baugruppe bis zum defekten Einzelbauteil über die Wissenslandkarte
+            navigieren. Jeder Benutzer kann aktiv recherchieren, wird wie in einem modernen Online-Shop geführt und
+            während seiner gesamten Recherche automatisch unterstützt. Dokumente und Metadaten, normalerweise getrennt
+            gepflegt, werden bei der Erfassung der Daten zusammengeführt und dadurch Informationen mühelos in einen
+            Kontext gesetzt. Aus strukturierten Datenquellen wie z.B. PLM-Datenbanken können zum Zeitpunkt der
+            Informationszusammenstellung unstrukturierte Inhalte wie Bedienungsanleitungen mit Metadaten angereichert
+            werden. Ein weiterer Nutzen der Lösung ist die Möglichkeit der automatischen Vernetzung der Inhalte, die
+            einfaches Navigieren ermöglicht. Ein Beispiel soll dies verdeutlichen: Die gesuchte Baugruppe wird als
+            Navigationsobjekt in der Trefferliste angezeigt. Durch Klick auf die Baugruppe werden alle anderen Inhalte
+            auf diese Baugruppe hin gefiltert und der Benutzer sieht zentral und übersichtlich alle Fundstellen - sogar
+            farblich hervorgehoben - im gesamten Dokumentenbestand. Innerhalb eines Dokuments erleichtert eine
+            zusätzliche Übersicht aller Fundstellen die schnelle Erfassung aller Inhalte. Das ist dann &quot;information
+            in context at your fingertips&quot;, fasst IntraFind Vorstand Franz Kögl den Mehrwert der neuen IntraFind
+            Lösung zusammen. Der Autor Manuel Brunner ist Experte für das Thema Suchtechnologien. Seit 2008 ist er für
+            die IntraFind Software AG tätig und leitete u.a. viele Jahre lang das Team Professional Services, bevor er
+            in seiner neuen Rolle die Bereiche Partner Management &amp; Business Development übernahm. Manuel Brunner is
+            an expert in search technologies. He has been working at IntraFind Software AG since 2008 and has managed
+            the team Professional Services for many years. In his new role he took over the divisions Partner Management
+            &amp; Business Development.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/content-analytics/content-analytics-fuer-big-data</url>
+        <id>4F20A8C87F02A0D405E878323D0106DA</id>
+        <title>Content Analytics für Big Data</title>
+        <body>Mehr Wissen aus Daten: Content Analytics für Big Data Vielen Unternehmen fällt der produktive Umgang mit
+            großen Datenmengen schwer. Mit der Converged Data Platform von MapR können alle Daten über eine einzige
+            Plattform gespeichert werden - ohne Datensilos. Mit dem iFinder5 elastic von IntraFind lassen sich diese Big
+            Data Bestände ganz einfach durchsuchen und analysieren - egal, ob die Daten strukturiert oder unstrukturiert
+            vorliegen. Von Gigabyte zu Terabyte bis Petabyte: Auf den Unternehmensservern sammeln sich immer mehr Daten
+            an – Tendenz steigend. Zur Speicherung dieser großen Datenmengen gibt es leistungsfähige Big Data
+            Applikationen wie die Converged Platform von MapR. Doch das sichere Speichern von großen Datenmengen ist
+            erst der erste Schritt: Damit Führungskräfte fundierte Geschäftsentscheidungen treffen können, müssen sie
+            die relevanten Daten kennen und auswerten. Vielen Unternehmen fällt der Umgang mit Big Data immer noch
+            schwer, weil die Daten unstrukturiert in irgendwelchen Verzeichnissen oder Fileshares vorliegen. Der
+            Anwender weiß oftmals nicht, dass es Dokumente gibt, die für ihn wertvoll sein könnten. Mit dem iFinder5
+            elastic große Datenbestände von MapR durchsuchen Mit den Lösungen von IntraFind können sowohl strukturierte
+            als auch unstrukturierte Daten, die auf der MapR Converged Data Platform gespeichert sind, schnell und
+            effizient aufbereitet, durchsucht und auch flexibel analysiert werden. Dadurch gehen Informationen, die für
+            das Unternehmen mitunter sehr wertvoll und geschäftskritisch sind, nicht verloren. Vor allem geht es darum,
+            Daten richtig zu interpretieren und sie sinnvoll für Geschäftsentscheidungen zu nutzen. Dafür bietet
+            IntraFind ein komplettes Content-Analyse-Produkt für Artificial Intelligence an. Es unterstützt Machine
+            Learning und Deep Learning Verfahren und Firmen können damit in Big Data Beständen Entwicklungen ablesen,
+            Beziehungen erkennen und Trends vorhersehen. Dokumente, deren Inhalt nicht bekannt ist, können mit Metadaten
+            versehen und damit auffindbar gemacht werden. MapR Converged Platform und iFinder5 elastic – Ihre Vorteile
+            auf einem Blick: Mehr Ordnung Eine Plattform für alle Applikationen ohne Datensilos. Mehr Wissen Kein
+            Informationsverlust mehr durch professionelle Aufbereitung von Daten und Ergänzung fehlender Metadaten.   
+            Mehr Datenqualität Filterung von Dubletten und redundanten Daten. Mehr Wachstum Der iFinder5 elastic ist
+            mandantenfähig und kann für unterschiedliche Datensätze von verschiedenen Nutzergruppen verwendet werden.
+            Mehr Sicherheit Nutzer können nur die Dateien finden, für die sie auch eine Berechtigung haben. Bessere
+            Geschäftsentscheidungen Fundierte Analyse der Daten durch Semantische Suche, suchgetriebene Recommendations
+            und Content Analytics Verfahren.   Weniger Kosten Mehr Produktivität durch schnellere Bereitstellung aller
+            wichtigen Informationen. Erhalten Sie ein perfektes Einstiegspaket vom iFinder5 elastic und profitieren Sie
+            von: Einem barrierearmen und intuitiv bedienbaren Benutzeroberfläche und Admin UI Natural Language
+            Processing (NLP): Natürlichsprachliche Suchanfragen Intelligentem Autocomplete und zahlreichen
+            Linguistik-Funktionen 600 unterstützten Dateiformaten einer Lösung, die hoch skalierbar ist und mit Ihren
+            Datenbeständen mitwächst
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar</url>
+        <id>F0150435E67821D27B6B762C5988FB8F</id>
+        <title>Glossar</title>
+        <body>Glossar A Ähnlichkeitssuche Artificial intelligence (AI) / Künstliche Intelligenz (KI) Algorithmus
+            Annotation API Autoklassifikation Autovervollständigung   B Best Practice Big Data Boolesche Suche Boolesche
+            Operatoren C CMS Committer Content Analytics Corpus Crawler CRM Crosslinguale Suche D Dashlet Deep Learning
+            Deskriptor DMS Dublette   E Early Binding E-Commerce E-Discovery Elasticsearch Enterprise Search Enterprise
+            Segment Entität Entitätenerkennung   F Facette Finite State-Technologie G Grid Search Guided Search GUI H
+            Homograph I Index Information Access Information Retrieval Intranet IPMA J - K KMU Knowledge Retrieval
+            Kompositazerlegung Konnektor Korpus Kreuzvalidierung L Lemmatisierung Linguistik Logfile Lucene Lucene.NET M
+            Machine Learning Metadaten Metadatengenerierung Morphologie   N Natural Language Processing     O Ontologie
+            Open Source P Proof of Concept (PoC) PST-Indexer Q - R Realtime Analysis Redundanz Relevanz Return on
+            Investment (ROI) S SDK Search-Based Applications / Search-Driven Applications Semantik Semantische
+            Deskriptoren Semantische Suche Semistrukturierte Daten Sentiment Analysis Skalierbarkeit Software made in
+            Germany Solr Stakeholder Strukturierte Daten Suchergonomie T Tag Tag Cloud Tagging Service Taxonomie
+            Term-Substitution Testkorpus Textanalyse Text Analytics Textklassifikation Text Mining Themenbasierte Suche
+            Thesaurus Total Cost of Ownership (TCO) Trainingskorpus U Unified Information Access Unstrukturierte Daten V
+            Verschlagwortung Volltextsuche W Wissenslandkarte Wissensnetz X - Y - Z Zugriffsrechte      
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/research-projects</url>
+        <id>F4272168C3F8ADCE034A7C7E79DA4716</id>
+        <title>Research projects - scientific development at IntraFind</title>
+        <body>IntraFind Research Projects Ongoing Research Projects: Research Project OntoPMS – Follow-Up Project of
+            OntoVigilance Following on from the successfully completed project OntoVigilance, IntraFind could win the
+            project OntoPMS to develop an ontology-based risk identification software for monitoring medical products on
+            the market (Post Market Surveillance, PMS). This project is funded in the context of the support program
+            KMU-innovativ of the Federal Ministry of Education and Research (BMBF).   Compared to OntoVigilance, in the
+            OntoPMS project more documents and risk-specific data sources should be included. Also the Federal Institute
+            for Drugs and Medical Devices (BfArM) has joined the project as additional partner.   In this project
+            IntraFind will be working on an ontology-based process for relation and event extraction. In particular, the
+            concept of Ontology Search will be developed, with which the domain-dependent and ontology-based share of
+            information extraction is mainly carried out on complex new search operators on a linguistically enriched
+            full-text index. This approach has the advantage that it can respond much more flexible to changes in the
+            ontology.  Completed Research Projects: Research project Ontovigilance - improvement of medical devices As
+            part of the funding innovative KMU-innovativ of the Federal Ministry of Education and Research, IntraFind
+            could win the research project Ontovigilance (Start: March 1, 2013 Project duration: two years).   The goal
+            of the project is to develop an ontology-based vigilance software for efficient evaluation of scientific
+            publications and reports regarding the use of technical medical equipment. The deficiencies, complications
+            and risks associated with the devices described in the texts, are software-supported detected and extracted.
+            On this basis, the system developed in the project will provide a decision support for the optimization of
+            medical devices.   Compared to manual handling of support cases the support by software-based methods helps
+            manufacturers of technical medical equipment to detect and respond early to product defects. This saves
+            valuable time and money in product development and represents a competitive advantage.   For this purpose
+            IntraFind develops these ontology-based search and information extraction methods in close cooperation with
+            the Institute for Medical Computer Science, Statistics and Epidemiology at the University of Leipzig and the
+            companies Novineon and MT2IT. Employed are the IntraFind products Tagging Service and NAMER (entity
+            recognition) based on a SOA architecture, for generating ontologies and metadata from the provided medical
+            documentation (target languages: German, English). Social CRM Intelligence The succesfully completed
+            research project SCRM-I dealt with the development of innovative services for the expansion of existing CRM
+            software including semantic text mining. The services should simplify the identification of messages,
+            requests, trends, opinions and developments, and support businesses in the interaction with the social web.
+            Thus, the Social CRM gives an insight into how companies, brands and products are evaluated by consumers on
+            public social media platforms. IntraFind contributed their long-standing know-how in the area of text
+            analysis in the cooperation with the Universities of Leipzig and Hohenheim. Who was the inventor of the
+            espresso machine? Ask questions - get answers In the research project NL-Search (KMU-innovativ / ICT) a
+            search engine that is able to answer natural language questions in real time was developed during a two
+            years project with the University of Saarland. Instead of entering keywords, as in popular search engines,
+            the user can ask simple questions in natural language. The search results are not complete documents but
+            short passages or phrases, containing an answer to the question asked. Basis of the search engine is the
+            IntraFind Enterprise Search product iFinder. An important point for business decisions is that one always
+            has an ear for scientific advancements outside the market economy. What happens at the university level,
+            what are the topics that develop students and professors together today? In order not to miss these impulses
+            IntraFind involved from the outset, a team of scientists actively support the research projects.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/ontologie</url>
+        <id>5A9F3ADAE1CE81E5F9631B5E3602975A</id>
+        <title>Ontologie</title>
+        <body>Ontologie   Der Begriff Ontologie stammt ursprünglich aus der (theoretischen) Philosophie und bezeichnet
+            eine Disziplin, die sich als Teilgebiet der Metaphysik mit den Grundfragen des Seins beschäftigt.   In der
+            Informatik versteht man unter Ontologie eine Abbildung domänenspezifischen Wissens, d.h. eine Sammlung von
+            Begrifflichkeiten zu einem bestimmten Thema sowie deren Beziehungen, Relationen und strukturelle
+            Zusammenhänge. Die Ontologie besteht aus Klassen und Relationen, die Beziehungen zwischen den Klassen
+            definieren.   Ontologien kommen zum Beispiel in der IntraFind Lösung Sentiment Analysis zum Einsatz. zurück
+             
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/homograph</url>
+        <id>31061986BE57BF2F174AFAF7A6E14015</id>
+        <title>Homograph</title>
+        <body>Homograph   Beschreibung eines Wortes aus einer Gruppe von Wörtern, die alle die gleiche Schreibweise aber
+            eine unterschiedliche Bedeutung haben. Die Auswirkungen müssen gerade in Textanalyse-Verfahren
+            berücksichtigt werden. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/management</url>
+        <id>0F7FC24C841E22FFCC27C2E5CDC00FD6</id>
+        <title>Executive management and supervisory board of IntraFind Software AG</title>
+        <body>Executive Management</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/metadaten</url>
+        <id>06C30A5C958CD54DFEB399723440DE16</id>
+        <title>Metadaten</title>
+        <body>Metadaten   Metadaten wie Namen von Personen, Orten, Unternehmen oder Produkten sind die Inhaltsbausteine
+            von Texten und können in verschiedensten Unternehmensprozessen verwendet werden, um den Umgang mit
+            Informationen zu verbessern, zum Beispiel als Filterkriterien für die unternehmensweite Suche nach
+            Dokumenten.   In Unternehmen werden Metadaten oft manuell erfasst und in die Dokumenteneigenschaften
+            eingegeben. Typische Metadaten eines Dokuments sind beispielsweise der Name des Autors, die
+            Dokumentensprache, das Erstellungs- und Änderungsdatum, der Dateityp oder die Dateigröße. Die manuelle
+            Vergabe von Metadaten (in diesem Kontext auch als Keywords, Schlagworte oder Tags bezeichnet) folgt den
+            subjektiven Maßstäben des Autors und ist dadurch fehleranfällig.   Ziel ist es, mittels intelligenter
+            Verfahren oder Produkte den Metadatengenerierungsprozess zu vereinfachen, zu standardisieren und letztlich
+            zu automatisieren.   Die automatische Erzeugung von Metadaten bietet zahlreiche Vorteile — einheitliche,
+            standardisierte Metadaten können direkt für die Verschlagwortung genutzt werden und ermöglichen ein sicheres
+            Wiederauffinden von Dokumenten oder eine intelligente Verlinkung von Informationen. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/dashlet</url>
+        <id>06A296816F50A971A806D9CFDD91A0D2</id>
+        <title>Dashlet</title>
+        <body>Dashlet   Dashlets sind – ähnlich wie Widgets – kleine, auf dem Dashboard befindliche Applikationen. Auf
+            dem personalisierbaren Dashboard kann sich der Anwender die Dashlets nach Belieben platzieren. So hat der
+            Nutzer beispielsweise die Möglichkeit, sich ein Dashlet zur Personensuche anzulegen und daneben ein weiteres
+            Dashlet zu erstellen, in dem ein Newsticker auf Basis eines RSS-Feeds abgebildet ist. Außerdem kann sich der
+            Anwender über die Dashlets auch eine Übersicht über die favorisierten Dokumente anzeigen lassen oder bereits
+            gespeicherte Suchanfragen ablegen. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/verschlagwortung</url>
+        <id>AA0F0AD088CC628602B4CFDB558D8D31</id>
+        <title>Verschlagwortung</title>
+        <body>Verschlagwortung / Tagging   IntraFind unterscheidet zwischen automatischer und manueller
+            Verschlagwortung. Für die automatische Verschlagwortung, das automatische Identifizieren von Metadaten auf
+            Basis eines Textes, entwickelte IntraFind das Produkt Tagging Service.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/realtime-analysis</url>
+        <id>A1641787B45C6BAEEFD088F43504540E</id>
+        <title>Realtime Analysis</title>
+        <body>Realtime Analysis   Echtzeitanalyse - im Kontext der Suchmaschinen wird dieser Term häufig in Bezug auf
+            auf den Index verwendet. So wird bei einer Dokument-Neuanlage dieses in Echtzeit, inkrementel oder nach fest
+            definierten Zeitabständen oder Uhrzeiten indiziert und der Suchmaschine bereitgestellt. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/text-analytics</url>
+        <id>E88F9B91828C0901140FED1D0B99CE78</id>
+        <title>Text Analytics</title>
+        <body>Text Analytics   Textanalyse zurück  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/historie</url>
+        <id>AB27D596865A69397C563CDAAF529556</id>
+        <title>Unternehmenshistorie der IntraFind Software AG</title>
+        <body>Historie</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/stakeholder</url>
+        <id>4F8E3AAF2A16F080CA347CFF559D3954</id>
+        <title>Stakeholder</title>
+        <body>Stakeholder   Eine Person oder Gruppe, die ein berechtigtes Interesse am Verlauf oder Ergebnis eines
+            Prozesses oder Projektes hat. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/relevanz</url>
+        <id>D3D3A4F6251FB525D31FB7A39DF32DEC</id>
+        <title>Relevanz</title>
+        <body>Relevanz   Enterprise Search und intelligente Mechanismen sorgen dem Suchbegriff entsprechend, für eine
+            inhaltlich hochwertige Trefferliste mit wichtigen Informationen. Die Relevanz eines Begriffes ergibt sich
+            dabei oft im Kontext, aber auch wie häufig ein Begriff in einem Text, Dokument vorkommt. IntraFind bietet
+            verschiedene Möglichkeiten relevante Informationen zu filtern und damit zu finden. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/elasticsearch</url>
+        <id>589EBA6EC44D4400A0807ED66BC23A4A</id>
+        <title>Elasticsearch</title>
+        <body>elasticsearch   elasticsearch ist eine weitverbreitete Open-Source-Search-Technologie basierend auf Apache
+            Lucene und entwickelt in Java. elasticsearch ist vor allem in Cloud-Infrastrukturen eine wichtige Komponente
+            für eine standortunabhängige Suche und ermöglicht eine &quot;Suche in Echtzeit&quot;. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/services/support_consulting</url>
+        <id>2A5CBB078AA5016FC3CF833F8344AE59</id>
+        <title>Support &amp; Consulting Services</title>
+        <body>Support &amp; Consulting Services   IntraFind offers support and consulting services in the strategic
+            conception and implementation of Enterprise Search projects and follows a practice-related, holistic
+            approach under the early consideration of possible technical and organizational factors, which could
+            endanger the success of the project for a long time.   If an Enterprise Search project is already in a
+            critical phase and a failure is imminent, customers can also count on the expertise of the experienced
+            IntraFind project leaders, who will stand by their side and work together with them on solutions.   In
+            addition, IntraFinds know-how lies in planning and execution of big data projects. Through a detailed
+            analysis of customers data sources, IntraFind is able to provide certainty in planning and cost
+            transparency.   Please contact us for support e.g. for the following scenarios:   Elasticsearch Consulting
+            &amp; Support - For customers planning to implement elasticsearch into their enviroment Generals Support -
+            for decision making processes which open source technology (Lucene, SolR, Elasticsearch) would be the best
+            fit Strategic Consulting &amp; Project Management Critical Project Situation - Consulting for customers
+            having a critical project situation Big Data Projects - Consulting and project management  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/products/ifinder/connectors</url>
+        <id>8CA0F752A3CD9752ED8F34A3597C7725</id>
+        <title>The IntraFind Connectors-Suite to link data sources to Enterprise Search</title>
+        <body>Connectors - the key to important information   Connectors are an important part of every Enterprise
+            Search solution. They establish the connection between iFinder and desired data sources provided for the
+            search, such as databases, Microsoft Exchange, Microsoft SharePoint, Lotus Notes and file systems.  
+            Customers profit from the wide range of standardized IntraFind connectors, which can be used with iFinder as
+            well as with Lucene or other Lucene-based search solutions.   The IntraFind connectors suite includes
+            connectors for linking with   File systems Databases (e.g. JDBC connector) Web content (HTTP / XML) E-mail
+            (Microsoft Exchange incl. .PST- and .OST-files, Lotus Notes) SAP (SAP ERP / SAP NetWeaver Portal)
+            Collaboration systems (e.g. Microsoft SharePoint) Different content management systems (e.g. Typo3,
+            FirstSpirit) Different document management and archival systems (e.g. EMC Documentum, ELO DMS, Saperion,
+            Fabasoft eGov-Suite) Wikis (e.g. Confluence) Social business software (e.g. Jive) and many more
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/solutions/big-data-analytics</url>
+        <id>311A948EA212E084D3443090C890AC9E</id>
+        <title>Big Data - efficient handling of big data volumes in companies</title>
+        <body>With Enterprise Search and tagging the right information at the right time - in spite of Big Data   Given
+            ever-increasing amounts of data, companies need solutions for a quick and comprehensive access to their
+            information. The right information at the right time can bring a competitive edge and be decisive for
+            economic success.   The search for appropriate solutions and tools for dealing with large amounts of data
+            has long been the concern of IT managers in companies - the topic &quot;Big Data&quot; is on everyone’s
+            lips. Recent studies show that especially unstructured data contain important information that has to be
+            analyzed, used and be made available for further processing for employees or systems such as Business
+            Intelligence (BI).   But what are &quot;Big Data&quot; actually?   Many years of practical experience show
+            that &quot;Big Data&quot; start where companies lose oneself in the variety of applications, systems and
+            file storage structures, in short, where they cannot find anything anymore. Thus, the topic &quot;Big Data&quot;
+            not only concerns big enterprises but also medium and small sized companies; however, solutions for this do
+            not need to be expensive, time-consuming and complex.   Using a company-wide search solution (Enterprise
+            Search) can help enormously to break information silos containing location or department specific
+            information and allow all employees a fast and user-friendly access to the information they need.   Not only
+            classic enterprise search scenarios, but also the analysis of log files, measurement and sensor data,
+            real-time data and classical business intelligence data combined with structured, semi-structured and
+            unstructured information form the spectrum of our projects in the Big Data environment.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/information-retrievel</url>
+        <id>6D542C07EB95D039D10F886DAF5CB7C1</id>
+        <title>Information Retrievel</title>
+        <body>Information Retrieval   Dieser Bereich beschäftigt sich mit der IT-gestützten Informationsbeschaffung, d.
+            h. bestehende Inhalte aufzufinden. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/contact-form</url>
+        <id>A5873503DFEBDA67AD85B507D5D0B969</id>
+        <title>IntraFind Contact</title>
+        <body>IntraFind Contact Form</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/loesungen/plm-pdm</url>
+        <id>2B4EC9F0FD0249C46FABC763AD7BBD41</id>
+        <title>Suche in PLM &amp; PDM Systemen</title>
+        <body>Vorteile durch eine intelligente Suche in PLM/PDM Systemen Effiziente Recherche in Produktdaten und
+            technischen Dokumentationen Aufgrund immer kürzer werdenden Produktlebenszyklen, der daraus resultierenden
+            Komplexität der Produktentwicklung und -herstellung werden die schnellere Bereitstellung und Vernetzung von
+            Informationen vor allem für Schlüsselbranchen wie die Automobil- und Fertigungsindustrie immer notwendiger.
+            Zwar verfügen viele Unternehmen über Ablagemechanismen, DMS-Systemen oder gar über spezielle
+            Produktdaten-Management-Systemen (PDM) zur Ablage und Verwaltung von Informationen, Daten und technischen
+            Dokumentationen, doch gilt es die darin enthaltenen Informationen auch effizient zu nutzen und vor allem 
+            verschiedensten Zielgruppen zugänglich zu machen. Herausforderungen im Produktdatenmanagement (PDM) Viele
+            Unternehmen sehen sich beim Management ihrer Produktdaten und technischen Informationen mit folgenden
+            Herausforderungen konfrontiert: Keine normierten Prozesse für das Ablegen produktrelevanter Informationen:
+            Die Informationserfassung und -bereitstellung sind häufig nicht ausreichend definiert oder standardisiert -
+            dies erschwert die Rechercheprozesse. Wichtige Informationen sind später nur schwer oder überhaupt nicht
+            mehr wiederauffindbar. Fehlende Vollständigkeit: Nicht alle produktrelevanten Daten werden im PDM-System
+            prozessiert - für einen ganzheitlichen Blick auf den Lebenszyklus eines Produkts müssen Informationen aus
+            weiteren Datenquellen herangezogen werden. Komplizierte Handhabung: Die Handhabung von PDM-Systemen setzt
+            viel Know-how und im Kontext der Informationsbeschaffung die Kenntnis systemspezifischer Abfragemechanismen
+            voraus. Folglich ist die Arbeit mit PDM-Systemen selbst für Routinerecherchen zeitintensiv, die Einarbeitung
+            neuer Mitarbeiter gestaltet sich schwierig. Entstehung von Informationssilos: Abteilungen und Fachbereiche
+            nutzen häufig eigene Ablagesysteme und entwickeln individuelle Strukturen. Dies fördert die Entstehung von
+            Informationssilos, Wissenslücken der Mitarbeiter sowie vermeidbaren Mehraufwänden in der
+            Informationserstellung - ist ein Dokument zwar im Unternehmen vorhanden, aber für den Suchenden nicht
+            auffindbar, wird es oftmals neu erstellt. Limitierter Informationszugang: Darüber hinaus sind PDM-Systeme
+            nie allen internen Abteilungen und Mitarbeitern im Unternehmen zugänglich, obwohl in der Praxis nahezu jeder
+            Mitarbeiter im Berufsalltag Produktdaten benötigt - jeweils aus seiner abteilungs- oder bereichsspezifischen
+            Sicht. Unzureichende Rechercheunterstützung für Anwender: Die Möglichkeiten einer internen PDM-Suche sind
+            auf das System selbst beschränkt und bieten nur rudimentäre Hilfestellung für den Anwender. Aus diesem Grund
+            scheuen vor allem Mitarbeiter, die das System nur selten nutzen und wenig Routine haben, den Umgang damit.
+            Vorteile einer umfassenden Suche durch Anbindung eines PDM-Systems an Enterprise Search Vollständigkeit
+            produktrelevanter Informationen: Die Anbindung zusätzlicher Datenquellen an die PDM-Suche ermöglicht es dem
+            Anwender, sich ein ganzheitliches Bild zu einem Thema oder Sachverhalt zu verschaffen. Die Suche liefert
+            dann beispielsweise zusätzlich zu Normen, Versuchsberichten und technischen Dokumenten auch produktrelevante
+            E-Mails und weitere Informationen aus dem Dateisystem. Höhere Benutzerfreundlichkeit: Suchoberflächen sind
+            den Anwendern aus dem Internet bestens vertraut. Sie ermöglichen einen intuitiven Zugang zur benötigten
+            Information, ohne ein tiefergehendes System-Know-how der zugrunde liegenden Datenquellen zu erfordern.
+            Mechanismen wie Autovervollständigung, das Einblenden von Synonymen, sprachübergreifende Suche oder die
+            Verwendung von Suchfiltern bieten dem Anwender wertvolle Hilfestellung. Wissenslandkarten ermöglichen auch
+            ungeübten und seltenen Nutzern einen intuitiven Informationszugang. Auf diese Weise können Rechercheprozesse
+            komfortabel und zeitsparend umgesetzt werden, systembedingte Zugangshürden werden abgebaut und Informationen
+            benutzerfreundlich und rechtegeprüft zugänglich. Höhere Qualität in der Trefferliste: Suche im Kontext von
+            PDM-Systemen ist in der Regel auf eine einfache Volltextsuche beschränkt. Der Einsatz leistungsfähiger
+            Enterprise Search-Produkte wie iFinder ermöglicht einerseits eine Einflussnahme auf das Ranking der
+            Suchergebnisse (z.B. um eine wichtige Norm oder einen aktuellen Versuchsbericht immer ganz oben in der
+            Trefferliste anzuzeigen), aber auch die Erweiterung um Komponenten für Linguistik, semantisch-assoziative
+            Suche oder crosslinguale Suche. Diese sorgen nicht nur für eine höhere Vollständigkeit und Präzision der
+            Suchergebnisse, sondern ermöglichen beispielsweise auch die gleichzeitige Suche in fremdsprachigen
+            Dokumenten. Erschließung neuer Anwendergruppen: Eine über das PDM-System hinausgehende Suche bietet zudem
+            die Möglichkeit, Produktdaten für alle Bereiche und Abteilungen eines Unternehmens bereitzustellen und sie
+            in allen Geschäftsprozessen zu verwenden. Dadurch können auch entwicklungs- und konstruktionsferne Bereiche
+            wie Qualitätssicherung, Marketing oder Einkauf auf Produktdaten zugreifen ohne zwingend einen PDM-Client
+            nutzen zu müssen.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/wissenslandkarte</url>
+        <id>57DA04795F88B3672EE87BFA6E879268</id>
+        <title>Wissenslandkarte</title>
+        <body>Wissenslandkarte   Die IntraFind Wissenslandkarte ist eine benutzerfreundliche graphische Oberfläche für
+            die Suche in unternehmensinternen Daten. Der Benutzer gelangt durch das Aktivieren von Filtern per Mausklick
+            und ohne die Eingabe eines Suchbegriffes schnell und einfach zum gewünschten Suchergebnis. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/tagging-service</url>
+        <id>48C6E6179634F8AB12FF9BB3F90E0EA8</id>
+        <title>Tagging Service - Metadaten, Keywords</title>
+        <body>Inhalte von Dokumenten mit Enterprise Metadaten Management schneller verstehen Hohe Standardisierung für
+            ein sicheres Wiederfinden Der Tagging Service unterstützt Unternehmen, Metadaten, Keywords, Schlagworte
+            automatisch, einheitlich und standardisiert aus Dokumententexten und -inhalten zu erzeugen um sie in einem
+            zweiten Schritt in Unternehmensprozessen zu nutzen. So erhalten beispielsweise Unternehmen, die bereits eine
+            Enterprise Search Lösung einsetzen qualitativ hochwertige Filter oder können besser Dokumenteninhalte
+            inhaltlich auswerten. Zusätzlich lassen sich einheitlich verschlagwortete Dokumente und redaktionelle
+            Inhalte viel besser wiederfinden. Der IntraFind Tagging Service besteht aus unterschiedlichen,
+            standardisierten, aber auch konfigurierbaren Tagging-/ Verschlagwortungstypen: Freie statistische
+            Verschlagwortung Kontrollierte statistische und regelbasierte Verschlagwortung Entitäten-Verschlagwortung
+            Textklassifikation Automatische statt aufwändige manuelle Verschlagwortung Der Tagging Service identifiziert
+            automatisch semantische Deskriptoren (Schlagworte, Entitäten, Themen) aus Dokumenten und liefert zusätzlich
+            eine inhaltliche Betrachtung des Dokumentes. Die extrahierten semantischen Deskriptoren können dann in
+            Anwendungen oder in die unternehmensweite Suche integriert werden oder sogar weitere Prozessketten anstoßen.
+            Der Tagging Service dient damit der inhaltsbezogenen Informationsextraktion bzw. der Verschlagwortung von
+            unstrukturiertem Text. In Verbindung mit einer unternehmensweiten Suche oder mit dem Enterprise CMS
+            begründen diese semantischen Deskriptoren eine Wissensbasis des gesamten Dokumentenbestandes und ermöglichen
+            u.a. eine semantische Suche in Unternehmensdaten oder das automatische Taggen von Dokumenten. Der Tagging
+            Service kann als Software-as-a-Service (SaaS) betrieben werden, d.h. er läuft als unabhängiger Service
+            wahlweise auf dem lokalen Server des Kunden oder aber auch auf einem Remote-Server und stellt alle
+            wesentlichen Funktionalitäten durch Web Services zur Verfügung. Der Output kann z.B. als Word- oder
+            Explorer-Plugin in beliebige Nutzungskontexte beim Kunden eingebunden werden, um zu einem erstellten Text
+            Verschlagwortungsvorschläge zu generieren oder um als Backendkomponente für die Analyse, Verschlagwortung
+            und Anreicherung von Massendaten (z.B. Dateien auf Fileservern) mit Metadaten zu fungieren.
+            Text-to-Web-to-Tag – ein Webservice Für die Extraktion der semantischen Deskriptoren (Schlagwörter, Themen,
+            Entitäten) aus einem unstrukturierten Text stehen je nach gewünschtem Rückgabeformat unterschiedliche Web
+            Services zur Verfügung. Mit HTML und XML werden derzeit zwei Rückgabeformate unterstützt. Die HTML-Rückgabe
+            führt tabellarisch die Ergebnisse der Informationsextraktion auf und ist für Demonstrations- und Testzwecke
+            gedacht. Natürlich kann ein kundenspezifisches Format, inklusive eines anderen HTML-Formats, ohne weiteres
+            definiert und eingebunden werden. Das XML-Format bietet die Möglichkeit, die Extraktionsergebnisse
+            programmatisch weiterzuverwenden, beispielsweise durch Microsoft SharePoint-Plugins oder via Ajax in einer
+            Webseite. Der Tagging Service ist linear skalierbar und ist deshalb auch für große Datenmengen geeignet.
+            IntraFind Tagging Service: Metadaten erzeugen – erfolgreich Informationen finden Metadaten sind per
+            Definition Daten, die Texte bzw. eine Ansammlung von Daten und Dokumenten beschreiben. Sie spiegeln,
+            intelligent aufgebaut, den Inhalt eines Dokumentes, wie Autor, Erstellungsdatum, Ort der Erstellung,
+            Verantwortlicher, aber auch Textbausteine, die besonders relevant sind, wider, so dass ein inhaltlicher
+            Überblick eines einzelnen Dokumentes ohne eine aufwendige Betrachtung gegeben ist. Darüber hinaus können
+            solche Metadaten dokumentenübergreifend kombiniert werden und somit wichtige Einblicke in die
+            Unternehmensdaten gewährleisten. In Unternehmen ist der Aufbau von Metadaten entweder als Prozessstufe nicht
+            vorhanden oder oft ein manueller Vorgang; Journalisten verschlagworten ihre neuen Artikel, Mitarbeiter
+            Inhalte, die sie in eine SharePoint-Infrastruktur hochladen. Metadaten stellen also auch sicher, dass
+            beispielsweise Mitarbeiter Informationen übergreifend wiederauffindbar bereitstellen. Doch gelingt dies über
+            einen manuellen Prozess? IntraFind sieht hier ein großes Risiko, denn gerade die manuelle Metadatenerzeugung
+            ist oft  fehlerbehaftet, da menschlich und damit subjektiv. Jeder von uns hat eine unterschiedliche Ansicht
+            über das wesentlich Wichtige eines Textes und verschlagwortet so nach bestem Wissen und Gewissen. Der
+            Kollege aus dem gleichen Team hingegen bewertet die Inhalte ganz anders und verschlagwortet sie deshalb auch
+            anders. Leidtragender ist in diesem Fall der Informationssuchende, der letztendlich nicht das gewünschte
+            Dokument erhält und für das Suchen und Finden von Inhalten wesentlich mehr Zeit und Geduld aufbringen muss.
+            IntraFind bietet an dieser Stelle mit dem Tagging Service eine umfangreiche Lösung. Vollautomatische
+            Metadatenanreicherung für Microsoft SharePoint-Instanzen, Dateisystemen, DMS oder Archivierungssystem sind
+            nur einige mögliche Integrationsmöglichkeiten. Weitere Anwendungsbeispiele: Die mit dem Tagging Service
+            erzeugten Metadaten können für folgende Einsatzzwecke genutzt werden: Anreicherung der Informationen
+            Verbesserung der Suche Klassifizierungsaufgaben Steuerung von Workflows Identifikation Compliance-relevanter
+            Daten oder Identifikation von Dokumenten, die aus Revisionsgründen in ein DMS oder Archiv überführt werden
+            sollen
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/management</url>
+        <id>8040859E12F3D5481B00AA84CE3FD458</id>
+        <title>Management der IntraFind Software AG</title>
+        <body>Management Franz Kögl, Vorstand Den Grundstein seiner Karriere legte Franz Kögl mit einem Studium der
+            Elektrotechnik und einem anschließenden Aufbaustudium zum Wirtschaftsingenieur an der Fachhochschule
+            München. Nach dem Studium war er mehrere Jahre lang als Projektleiter und Qualitätsmanagementbeauftragter
+            für ein mittelständisches Systemhaus im Bereich Logistiklösungen und mobile Datenerfassung tätig.
+            Anschließend wechselte er als Senior Sales Manager zu einem Softwareanbieter aus dem Bereich Content
+            Management. Nach fünf Jahren Berufserfahrung bei inhabergeführten, mittelständischen Unternehmen entschloss
+            sich Franz Kögl zusammen mit Bernhard Messer zum Schritt in die Selbständigkeit, um eigenverantwortlich
+            unternehmerisch tätig zu sein. Das kontinuierliche, stabile und eigenfinanzierte Wachstum der IntraFind
+            Software AG zu einem etablierten Produktanbieter für Enterprise Search ist seit der Unternehmensgründung das
+            oberste Ziel von Franz Kögl. „Die Einsatzszenarien von Suchtechnologien sind bei weitem noch nicht
+            ausgeschöpft. Für mich persönlich ist es daher immer eine spannende Aufgabe, mittels intelligenter
+            Suchlösungen echte Mehrwerte für Unternehmen zu schaffen.“ fasst er die Leidenschaft für seine Arbeit
+            zusammen. Bernhard Messer, Vorstand Nach seiner Ausbildung arbeitete Bernhard Messer fünf Jahre lang im
+            Bereich Installation und Wartung eines renommierten Herstellers für Großrechner-Peripheriegeräte. 
+            Anschließend konnte er als Systemberater für die Konzeptionierung und Entwicklung von Archivierungs- und
+            Dokument-Management-Systemen mehrjährige Auslandserfahrung sammeln.  Später arbeitete Bernhard Messer vier
+            Jahre lang als Leiter der Software-Entwicklung für die Konzeptionierung und das Design neuer Produkte eines
+            Anbieters von Content-Management-Lösungen, bis er zusammen mit Franz Kögl die IntraFind Software AG
+            gründete. Heute prägt und verantwortet Bernhard Messer maßgeblich die Weiterentwicklung der erfolgreichen
+            Produktlinie iFinder, des Kernprodukts von IntraFind für die Suche in unternehmensinternen Datenbeständen.
+            Zwischen seinem Beruf und seiner Leidenschaft für den Berg- und Klettersport sieht er große Parallelen:
+            „Erfahrung, Ausdauer und die Begeisterung für die Sache an sich sind nicht nur am Fels, sondern auch bei der
+            Entwicklung intelligenter und effektiver Suchtechnologien für den Erfolg entscheidend.“ Breno Faria, Head of
+            Development Breno Faria ist seit 2012 für die IntraFind Software AG tätig. Seit den späten 2000er Jahren
+            beschäftigt er sich intensiv mit den Themen Content Analytics und Information Retrieval. 2015 übernahm er
+            die Rolle des Entwicklungsleiters bei IntraFind. Manuel Brunner, Head of Business Development &amp; Partner
+            Management Manuel Brunner spezialisierte sich bereits vor mehr als 12 Jahren auf Suchtechnologien und berät
+            erfolgreich die Kunden und Partner der IntraFind Software AG bei der Planung, Konzeption und Umsetzung ihrer
+            Enterprise Search- &amp; Content Analytics-Projekte. Als zertifizierter Projektmanager (IPMA Class C und D)
+            betreut er Kunden aller Größenordnungen und kennt aus langjähriger eigener Erfahrung die Faktoren, die für
+            den Projekterfolg entscheidend sind. Mehrere Jahre leitete er das Team Professional Services der IntraFind
+            Software AG, seit Juli 2015 verantwortet er die Bereiche Partner Management und Business Development.
+            Andreas Preen, Vorsitzender des Aufsichtsrats Der Unternehmer und Experte für Digitale Strategien und
+            Kommunikation Andreas Preen verfügt über langjährige Erfahrung in der Gründung und Führung von Agenturen und
+            Unternehmen im Bereich digitale Medien und IT. Er ist Gründer der b.a.s. interactive und b.a.s. e-commerce,
+            die er erfolgreich an ein internationales Agentur-Netzwerk verkaufte. Andreas Preen ist heute mit seiner
+            Unternehmensberatung PPMA als Berater und Interimsmanager beim erfolgreichen Auf- und Ausbau von Agenturen
+            und Unternehmen tätig. Sein Schwerpunkt liegt in den Bereichen Organisation, Struktur- und
+            Prozessoptimierung, Marketing und Sales, digitale Kommunikation sowie E-Business und IT. Werner Brodt,
+            Mitglied des Aufsichtsrats Werner Brodt hat zusätzlich zu seiner Position als Aufsichtsratsmitglied der
+            IntraFind Software AG einige weitere Aufsichtsratsmandate inne. Seit mehreren Jahren ist er im Ruhestand und
+            lebt in Tirol, Österreich.  In seiner aktiven Zeit war er u.a. Mitglied der Geschäftsleitung von Xerox
+            Deutschland, European Manager von MicroPro (Wordstar), Generalmanager von Cap Gemini Deutschland und der
+            Schweiz. Bastian M. Kochem, Mitglied des Aufsichtsrats Bastian M. Kochem ist seit mehr als 20 Jahren im
+            operativen Finanzgeschäft internationaler Konzerne und Banken tätig. Aktuell verantwortet er als Head of
+            Global Treasury die konzernweiten Finanzgeschäfte der Festo AG &amp; Co. KG. Festo ist weltweit führend in
+            der Automatisierungstechnik und Weltmarktführer in der technischen Aus- und Weiterbildung.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/elasticsearch</url>
+        <id>C71779E4EFDE25D3371B28655C602A51</id>
+        <title>Elasticsearch</title>
+        <body>Elasticsearch - Performante Suche in Echtzeit Die Open Source-Suchtechnologie Elasticsearch basiert auf
+            Apache Lucene und wurde in Java entwickelt. Obwohl es sich hierbei im Vergleich zu den Apache-Projekten
+            Lucene und Solr um eine vergleichsweise junge Technologie handelt, erfreut sich Elasticsearch inzwischen
+            weltweit großer Beliebtheit und kommt immer häufiger als Alternative zu Solr zum Einsatz. Derzeit wird die
+            Anwendung monatlich von mehr als 300.000 Kunden und Anwendern heruntergeladen. Die Stärken von Elasticsearch
+            liegen in der verteilten Suche, in der großen Flexibilität, Skalierbarkeit und Hochverfügbarkeit des Systems
+            sowie im Umgang mit großen Datenmengen („Big Data“). Entwickler sprechen im Zusammenhang mit Elasticsearch
+            sogar von „Suche in Echtzeit“, da sich Änderungen am System sowie an den indizierten und an die Suche
+            angebundenen Datenbeständen sehr schnell auf die realen Suchergebnisse auswirken. Folglich eignet sich
+            Elasticsearch besonders als Such-Basistechnologie für Konzerne und Unternehmen, die bereits über sehr große
+            Datenbestände verfügen, die einen sehr hohen Zuwachs ihrer Daten verzeichnen oder deren Daten vielen
+            Veränderungen unterliegen (z.B. Anpassungen in der Rechte- und Rollenstruktur, Hinzufügen und Löschen von
+            Dokumenten). IntraFind nutzt diese Basistechnologie als leistungsfähigen Motor für die Weiterentwicklung zu
+            einem eigenständigen Produkt; dies umfasst eine benutzerfreundliche Suchoberfläche, Tools für die
+            Administration und das Monitoring des Systems sowie Service Level, die einen dauerhaften stabilen Betrieb
+            der Lösung im Unternehmen ermöglichen.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/content-analytics/content-analytics-suite-fuer-ai</url>
+        <id>936E8672867B38368E2C5304717A4522</id>
+        <title>Content Analytics Suite für AI</title>
+        <body>Content Analytics Suite für Artificial Intelligence (AI) Mit dem iFinder5 elastic und zahlreichen weiteren
+            suchbasierten Applikationen bietet IntraFind den kompletten Technologie-Stack für die Content Analytics
+            Suite für Artificial Intelligence an. Die Content Analytics Suite unterstützt Machine Learning und Deep
+            Learning Verfahren. Dank Natural Language Processing (NLP) ist sie in der Lage, Sprache zu verstehen. Als
+            professionelle Insight Engine bietet sie außerdem Empfehlungen (Recommendations), die aus den vergangenen
+            Suchanfragen der Kollegen innerhalb der Abteilung berechnet werden. Außerdem ist die Anwendung dank
+            Linguistik und semantischer Funktionen in der Lage, Tippfehler automatisch zu korrigieren und dem Nutzer
+            thematisch passende Alternativen zu seiner Suchanfrage anzubieten. Search und Content Analytics helfen
+            Unternehmen dabei, Kosten zu sparen, effizienter und zu arbeiten und fundiertere Entscheidungen zu treffen.
+            Die Content Analytics Suite eignet sich für folgende Einsatzgebiete: Analyse von Verträgen Dank
+            Entitätenerkennung ist die Anwendung in der Lage, die wichtigsten Klauseln in Verträgen zu erkennen und
+            diese anhand eines Red-Flag-Reports zusammenstellen. Anwälte und Juristen werden auf diese Art von
+            Standardsaufgaben entlastet. Chatbots Besonders beim Online-Support sind Chatbots sehr beliebt: Der Chatbot
+            nimmt die Frage des Anwenders auf und analysiert sie dank Content Analytics Funktionen wie Analyse von
+            Prädikat-Argument-Strukturen. Im Hintergrund gleicht der Bot sie mit der Knowledge Datenbank ab.
+            Anschließend beantwortet er entweder selbst die Frage oder leitet diese an den entsprechenden Mitarbeiter
+            aus der Fachabteilung weiter. Tender Analysis Bei der Analyse von Ausschreibungen kommen automatisierte
+            Content Analyse Verfahren zum Einsatz. Dabei werden einzelne Ausschreibungsbestandteile wie
+            Produktbeschreibungen identifiziert und extrahiert und mit den eigenen Artikelbeschreibungen gematcht.
+            Dadurch lassen sich mühsame, manuelle Erkennungsarbeiten vermeiden und Mitarbeiter können in der gleichen
+            Zeit eine höhere Anzahl an Dokumenten bewältigen. Technologie Scouting Beim Monitoring von Patentanmeldungen
+            oder bei Wettbewerbsbeobachtungen kommt es darauf an, Expertenwissen schnell und effizient auszuwerten. Ziel
+            ist es auch, redundante Informationen herauszufiltern und fehlende Angaben gegebenenfalls zu ergänzen. Dabei
+            geht es um das Sammeln von Daten, die sich sowohl auf öffentlich zugänglichen Webseiten befinden, aber auch
+            im sogenannten Deep Web liegen. Dieser Content ist nicht durch herkömmliche Suchmaschinen auffindbar und
+            gegebenenfalls durch Paywalls oder Zugangsberechtigungen geschützt.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/taxonomie</url>
+        <id>F76E5201C9B81DAF2B23F1C7BA2294E5</id>
+        <title>Taxonomie</title>
+        <body>Taxonomie   Eine Taxonomie ist ein in Baumstruktur aufgebautes hierarchisches Konzept, um Objekte wie
+            Dokumente oder Texte nach bestimmten Kriterien zu klassifizieren. Im Fall der Textklassifikation werden die
+            Konzepte auch als Kategorien oder Klassen bezeichnet und durch Beispieldokumente definiert.
+            Klassifizierungen können beispielsweise durch die Erfassung von Metadaten vorgenommen werden. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/loesungen/produktivitaetssteigernde-loesungen/enterprise-search/enterprise-search-suchszenarien
+        </url>
+        <id>8A09085037CA4993A47F891F129FA87D</id>
+        <title>Anwender Suchszenarien</title>
+        <body>Jeder Mensch sucht anders - wir von IntraFind wissen das und haben Lösungen dafür entwickelt.</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/poc</url>
+        <id>D017F885B82E3BFF99A247CD5F7523D2</id>
+        <title>POC</title>
+        <body>POC   Proof of Concept. Der Beweisantritt. Software- und Hardwareanbieter nutzen oft diese Vorgehensweise
+            um vertriebliche Aussagen in einer realen Umgebung, Teststellung zu verifizieren, zu beweisen. Der Kunde
+            kann sich so einen Überblick verschaffen, wie der Umgang mit der Software oder Hardware im täglichen
+            Geschäft funktioniert, ob sich die Komponenten in die bestehende Infrastruktur integrieren und welche
+            möglichen weiteren Herausforderungen oder Fragen sich ergeben. IntraFind bietet allen Kunden die Möglichkeit
+            der Teststellung. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/products/ifinder5-elastic/innovation-at-a-glance</url>
+        <id>3284A4BBC1AFDB5E9C0F1390E945BB9C</id>
+        <title>iFinder5 elastic - Innovation at a Glance</title>
+        <body>iFinder5 elastic - The most important innovations at a glance. The right information at the right time.
+            The iFinder5 elastic is the ideal point of entry into your company data. Your employees will immediately
+            find exactly the information they need. These are the main new features and the benefits for your company:
+            By combining Enterprise Search and Content Analytics, your search results can be improved significantly. The
+            searcher will not only receive documents which contain the search term itself or forms of the search term,
+            but also documents that correlate strongly regarding content. A new user interface, a new dashboard and many
+            more new features... facilitate the handling of information in everyday life, and the exchange of
+            information in teams. High scalability, load balancing... allow real-time indexing and reliability, rapid
+            load distribution and thus a quick search in large databases - Big Data Analytics. Gold &amp; Platinum Node
+            Support powered by Elastic embedded in iFinder
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/products/elasticsearch/services-plugins/query-expansion-service</url>
+        <id>5AD94ABCAE382916709CD0053BB5313D</id>
+        <title>Query Expansion Service</title>
+        <body>Query Expansion Service With the Query Expansion Service the user receives a search term expanded with
+            synonyms based on the search query. In addition, the search term can be enhanced qualitatively by importing
+            an ontology.   Technical specification: Operating systems Windows Server 2008 R2 or higher and Linux
+            Installation requirements Java 7 Supported formats CSV format SKOS format TURTLE format Combinable services:
+            The Thesaurus Service is upstream of the Search Service All other services and plug-ins can be combined
+            orthogonally in a pipeline Documentation: SOA documentation Thesaurus user manual Sample implementation in
+            Java is provided Demo directory with simple click-and-play usage examples The service is interesting for:
+            Companies that need to access the content of their documents and have the highest demands for reliability
+            and load distribution by horizontal scaling Embedding partner Elasticsearch developers Solr developers
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/solutions</url>
+        <id>92754F6B84CA0683A1E96C0666E4C530</id>
+        <title>IntraFind Solution Portfolio</title>
+        <body>The matching solution for every enterprise. Provided by IntraFind. Solutions for Your Industry Every
+            industry has its own dynamic, own language and own programs. IntraFind developed dedicated solutions for
+            some industries. Learn more Solutions for Productivity Increase Use intelligent tools that speed up whole
+            workflows and slim down processes. Learn more Use Cases Get to know how our customers use our products and
+            solutions in various ways. Learn more
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/products/tagging-service</url>
+        <id>849B15EDEC5D7D0F0EEF9CFE859EF8D3</id>
+        <title>IntraFind Tagging Service for automatic tagging</title>
+        <body>Understand, index, use documents - the Tagging Service High degree of standardization for safe retrieval
+            The Tagging Service supports companies to generate metadata automatically and standardized, keywords and
+            tags from document texts and contents to use them for company processes. For instance, companies that are
+            already using an Enterprise Search solution can use high quality filters or can better evaluate document
+            contents. In addition, uniformly tagged documents and editorial content can be found much better.   The
+            IntraFind Tagging Service consists of different, standardized, but also configurable tagging types:   Free
+            statistic tagging Controlled, statistic and rule based tagging Entity extraction Text classification
+            Automatic instead of laborious manual tagging Tagging Service automatically identifies semantic descriptors
+            (keywords, entities, subjects) from documents and additionally delivers a contextual view of the document.
+            The extracted semantic descriptors can then be integrated in applications or in the company wide search or
+            can even trigger further process chains. Tagging Service serves the content related extraction of
+            information or the tagging of unstructured text.   In connection with a company wide search or with the
+            Enterprise CMS, these semantic descriptors form a knowledge base of the entire document inventory and allow
+            for, among other things, a semantic search in company data or the automatic tagging of documents. Tagging
+            Service can be operated as software-as-a-service (SaaS), this means it runs as an independent service either
+            on the local server of the customer or also on a remote server and provides all important functions through
+            web services.   The output can, for example, be integrated in any usage context at the customer’s location
+            as a Word or Explorer plug-in, in order to generate tagging suggestions for a created text or in order to
+            act as a back-end component for the analysis, tagging and enrichment of mass data (e.g. files on file
+            servers) with metadata. Text to Web to Tag - a Web Service Depending on the desired return format, different
+            web services are available for the extraction of semantic descriptors (keywords, subjects, entities) from an
+            unstructured text.   With HTML and XML, two return formats are currently supported. The HTML return lists
+            the results of the information extraction in a table and is intended for demonstration and test purposes. Of
+            course, a customer specific format - even with a different HTML format - can be defined and integrated
+            readily. The XML format offers the possibility to use the extraction results further through a program, for
+            example, through Microsoft SharePoint plug-ins or via Ajax in a website.   Tagging Service is linearly
+            scalable and is therefore also suitable for large data quantities. IntraFind tagging service: generate
+            metadata - successfully find information   Metadata is by definition data that describes texts or a
+            collection of data and documents. Intelligently structured, they reflect the content of a document, like the
+            author, date of creation, location of creation, person responsible, but also the text modules, which are
+            particularly relevant so that a contextual overview of an individual document is provided without a
+            laborious viewing. Furthermore, such metadata can be combined across documents and thereby ensure important
+            insight into the company data. In companies, the structure of metadata is either not available as a process
+            level or often a manual process; journalists index their new article, employees contents, which they upload
+            into a SharePoint infrastructure. Thus metadata also ensures that, for example, employees provide
+            information in a comprehensively retrievable manner. But does this work through a manual process? IntraFind
+            sees a big risk here, because particularly manual metadata creation is often susceptible to errors, because
+            it is done by humans and therefore subjective. Each of us has a different view on what is really important
+            in a text and thereby indexes according to the best of one’s knowledge. The colleague from the same team in
+            contrast evaluates the contents completely differently and therefore indexes this differently. In this case,
+            the person searching for information suffers because he/she does not receive the desired document and has to
+            spend a lot more time and patience while searching and finding contents. IntraFind offers a comprehensive
+            solution with Tagging Service. Fully automatic metadata enrichment for Microsoft SharePoint instances, file
+            systems, DMS or archiving systems are only a few possible integration options. Other application examples:
+            The metadata created with Tagging Service can be used for the following purposes:   Enrichment of
+            information Improvement of the search Classification tasks Control of workflows Identification
+            compliance-relevant data or Identification of documents, which are to be transferred to a DMS or archive for
+            audit reasons.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/partner</url>
+        <id>99605748D5ADDD30584782EEC553D747</id>
+        <title>Partner Programm - eine wichtige Komponente</title>
+        <body>INTRAFIND PARTNERPROGRAMM   Partner sind für jedes IT-Unternehmen eine wichtige Komponente für regen
+            Austausch, Weiterentwicklung von Produkten und Lösungen sowie die Geschäftsentwicklung. IntraFind baut sein
+            Partnernetzwerk stetig aus und heißt auch Sie herzlich willkommen in der Community. OEM-Partnerprogramm
+            IntraFind stellt seinen OEM Partnern integrative Bestandteile des iFinder zur Verfügung. Darüber hinaus
+            haben OEM Partner die Möglichkeit Zugang zu interessanten SOA-Komponenten zu erhalten, um bspw. eigene
+            Anwendungen mit hochwertiger Suche und Textanalyse auszustatten. Namhafte OEM Partner nutzen heute bereits
+            das Knowhow von IntraFind in ihren Produkten, um für Kunden passende Such- und Rechercheszenarien
+            abzubilden. Sollten Sie Interesse haben an einer gemeinsamen Projektrealisierung, ]freuen wir uns über Ihre
+            Anfrage &gt;&gt; Reseller-Programm Profitieren Sie von den zahlreichen Benefits, aktiven Leadgenerierungen,
+            Schulungen zu Produkten und Lösungen und werden Sie Reseller von IntraFind. Sie begleiten die gesamte
+            Wertschöpfungskette Ihrer Kunden oder in Teilen, IntraFind unterstützt Sie dabei in allen Projektphasen:
+            Presales, im Projekt selbst, aber auch nach Geschäftsabschluss. IntraFind hat großes Interesse an
+            Partnerschaften, deren Basis ein gemeinsames Verständnis für Enterprise Search, technische Umsetzungen beim
+            Kunden sowie eine gemeinsame positive betriebswirtschaftliche Sichtweise ist. Wir freuen uns auf ein
+            Gespräch mit Ihnen. Partnerunterstützung   Den IntraFind Partnern steht ab sofort ein Developer Portal zur
+            Verfügung. Über das Portal erhalten Entwickler Beispielaufrufe für die IntraFind Services, um diese dann in
+            den eigenen Code übernehmen zu können. Das Portal ist als Ergänzung zu der IntraFind Entwicklerdokumentation
+            gedacht, um unkompliziert und ohne lokale Installation den vollen Umfang der Services zu testen.   Zugang
+            erhalten interessierte Partner nach einer kurzen Registrierung oder nach Absprache mit dem entsprechenden
+            IntraFind Ansprechpartner.   &gt;&gt; Zugang zum Developer Portal aktivieren
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/services_support/beratung_support/betrieb-und-support-fuer-suchloesungen</url>
+        <id>2AFC6A6A6CC505043173584F0DD3A441</id>
+        <title>Betrieb und Support für Suchlösungen</title>
+        <body>Betrieb und Support für Suchlösungen auf Basis von iFinder5 elastic und Elasticsearch IntraFind bietet
+            seinen Kunden Dienstleistungen für einen reibungslosen Betrieb von Suchlösungen auf Basis von iFinder5
+            elastic und Elasticsearch, um die technisch verantwortlichen Mitarbeiter auf Kundenseite bestmöglich von
+            administrativen Routinearbeiten zu entlasten. Das Serviceportfolio umfasst dabei sowohl allgemeine
+            Dienstleistungen wie die Behebung von durch den Kunden gemeldeten Betriebsstörungen, die im Rahmen eines
+            Wartungsvertrages geregelt werden können, als auch kundenspezifisch definierbare, individuelle
+            Unterstützungsleistungen wie die Überwachung der Indexierungsprozesse oder die Auswertung der Logdateien.
+            Die IntraFind Lucene-Spezialisten unterstützen auch bei aktuellen Fragen zu Versionen und Features, bei
+            konkreten Problemen mit der Anbindung von Datenquellen sowie bei Security- oder Performanceproblemen von
+            Lucene-basierten Open-Source-Suchlösungen. Diese Leistungen können entweder nach Aufwand abgerechnet oder
+            mit einem durch den Kunden freigegebenen Kontingent an Personentagen verrechnet werden, das zusätzlich auch
+            für andere Beratungs-, Anpassungs-, Implementierungs- und Programmierdienstleistungen (wie beispielsweise
+            das Einspielen der jährlich erscheinenden ein bis zwei Produktupdates) verwendet werden kann.
+            Selbstverständlich kann der Betrieb einer iFinder-Suchlösung aber auch durch die eigenen IT-Mitarbeiter des
+            Kunden erfolgen. Es empfiehlt sich eine Einführung in die iFinder-Administration im Rahmen einer Schulung.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/KMU</url>
+        <id>1DF0038BBA10D5F01A1C05174949F533</id>
+        <title>KMU</title>
+        <body>KMU   Kleine und mittelständische Unternehmen. In amerikanischen Unternehmen spricht man oft auch von SMB
+            Small Medium Business bzw. SME Small Medium Enterprises. Gemeint sind damit alle Unternehmen bis ca. 1.000
+            Mitarbeiter. Oftmals ebenso definiert durch die Höhe des Datenaufkommens, der IT Ausgaben bzw. der PC
+            Arbeitsplätze.  zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/solutions/search-in-plm-pdm-systems</url>
+        <id>AF745884EC3397F499EFB88411CEDA73</id>
+        <title>Search in PLM &amp; PDM Systems</title>
+        <body>Benefits of an intelligent search in PLM/PDM Systems Efficient search in product data and technical
+            documentation   Due to the increasing dynamics and complexity of product development and manufacturing,
+            linking and rapid provision of product data as well as new concepts for product data management are
+            increasingly necessary, especially for core industries such as the automotive and manufacturing industry.  
+            Indeed, many companies do have IT tools for specific product data management systems for storing and
+            managing product data and technical documentation, but the information contained needs to be used
+            efficiently and made accessible to different target groups.   Challenges in product data management When
+            managing their product data and technical information many companies face the following challenges:   No
+            standardized processes for the collection of product-related information: The information collection and
+            provision are often not sufficiently defined or standardized - this hampers the research processes. Later,
+            important information is difficult or even no longer retrievable. Lack of completeness: Not all
+            product-relevant data are processed in the PDM system - for a holistic view of the life cycle of a product,
+            information must be drawn from other data sources. Complicated handling: The use of PDM systems requires a
+            lot of know-how and in the context of information retrieval, knowledge of system-specific query mechanisms.
+            Consequently, working with PDM systems is time-consuming even for routine research, the training of new
+            employees is difficult. Emergence of information silos: Departments and special divisions often use their
+            own filing systems and develop individual structures. This supports the emergence of information silos,
+            knowledge gaps of employees and avoidable additional expenses in the information creation - when a document
+            already exists in the company, but it cannot be found, it often is created anew. Limitited access to
+            information: In addition, PDM systems are almost never accessible to all internal departments and employees
+            in the company, although in practice almost every employee needs product data in their everyday work – from
+            their department’s or special division’s perspective. Deficient research support for users: The
+            possibilities of an internal PDM-search are limited to the system itself and provide only rudimentary
+            support for the user. On this account, employees which use the system infrequently and therefore have no
+            routine tend to avoid using it. The use of search across applications in connection with PDM systems
+            provides many benefits for organizations and users Completeness of product-related information: The
+            connection of additional data sources to the PDM-Search allows the user to gain a holistic view on a topic
+            or issue. The search will then, for example, in addition to standards, provide test reports and technical
+            documents as well as product-related e-mails and other information from the file system. Improved usability:
+            The user is familiar with search interfaces from the internet. They provide an intuitive access to needed
+            information, without requiring a deeper system know-how of the underlying data sources. Mechanisms like
+            auto-complete, suggestion of synonyms, cross-lingual search or the use of search filters offer the user
+            valuable assistance. Knowledge Maps also allow untrained and infrequent users an intuitive access to
+            information. This way, research processes can be implemented conveniently and efficiently, system-related
+            barriers are reduced and information is accessible user-friendly and ACL checked. Higher quality in the hit
+            list: The search in the context of PDM systems is usually limited to a simple full-text search. The use of
+            powerful enterprise search products such as iFinder allows to influence the ranking of search results (e.g.,
+            an important norm or a current test report is always displayed at the top of the hit list), but also the
+            addition of components for Linguistics, Semantic-associative Search or Cross-lingual Search. These not only
+            provide a higher completeness and precision of the search results, but also allow a simultaneous search in
+            documents in foreign languages. Development of new user groups: A search beyond the PDM system also offers
+            the opportunity to provide product data for all areas and departments of a company and to use them in all
+            business processes. This also allows development and construction distant departments such as quality
+            management, marketing and buying department access to product data without having to use a PDM client.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/services/schulungen/erfolgreiche-enterprise-search-projekte</url>
+        <id>5F2056FB536B2221E328BDB435A53E34</id>
+        <title>Schulung: Erfolgreiche Enterprise Search-Projekte</title>
+        <body>Erfolgreich Enterprise Search-Projekte umsetzen - aber wie? ZIELGRUPPE: Das Schulungsangebot „Erfolgreiche
+            Enterprise Search-Projekte“ richtet sich an Projektleiter und Entscheider, die vor der Herausforderung
+            stehen, eine Enterprise Search-Lösung in ihrem Unternehmen neu einzuführen bzw. ein bestehendes Produkt
+            abzulösen. SCHULUNGSINHALTE: Im Rahmen der Schulung werden Kenntnisse und Praxistipps vermittelt, die bei
+            folgenden Aufgabenstellungen helfen: Projektplanung und Budgetierung Auswahl und Leitung des Projektteams
+            Risikomanagement (Analyse von Chancen und Risiken) Lösung technischer Herausforderungen (z.B. Sicherheit,
+            Redundanz, Skalierbarkeit, Vollständigkeit und Relevanz der Suchlösung) Lösung organisatorischer
+            Herausforderungen (z.B. Umgang mit Stakeholdern) Lösung konzeptioneller Herausforderungen wie
+            Berücksichtigung des Benutzerverhaltens und unternehmensinterner Prozesse sowie der Ergonomie der
+            Suchoberfläche Anwendung von Projektmanagementstandards nach IPMA Die Teilnehmer erhalten wertvolle
+            Praxistipps aus mehr als 16 Jahren Projekterfahrung, die dabei helfen, frühzeitig die Weichen für ein
+            erfolgreiches Enterprise Search-Projekt zu stellen. Zusätzlich gewinnen Sie Planungssicherheit für eine
+            langfristig sinnvolle Investition in eine Enterprise Search-Applikation. Die Trainer sind nach IPMA
+            zertifizierte IntraFind Projektleiter, die sich ausschließlich mit der Konzeption und Umsetzung von
+            Enterprise Search-Projekten befassen und über langjährige Praxiserfahrung verfügen. SCHULUNGSRAHMEN: Die
+            Schulung findet in den Räumlichkeiten von IntraFind in München statt. Alternativ besteht auch die
+            Möglichkeit, einen Workshop beim Kunden vor Ort durchzuführen und die Schulungsinhalte um eine Analyse der
+            Datenquellen des Kunden zu erweitern. DAUER: 1 Tag Workshop von 9.00 bis 17.00 Uhr
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/lemmatisierung</url>
+        <id>AE043E8F0B1F90F015144F8D5792739F</id>
+        <title>Lemmatisierung</title>
+        <body>Lemmatisierung   Der Einsatz linguistischer Textanalyseverfahren sorgt für Vollständigkeit (recall) und
+            Präzision (precision) in der Trefferliste und damit für eine qualitative Verbesserung der Suchergebnisse.  
+            Unter Lemmatisierung versteht man eine Rückführung flektierter Wörter auf ihre Grundformen, z.B. &quot;Bücher&quot;,
+            &quot;Buches&quot; --&gt; &quot;Buch&quot; oder &quot;buchte&quot; --&gt; &quot;buchen&quot;.   IntraFind
+            bietet hierfür die Software LISA, die sowohl als Erweiterungsmodul der iFinder Enterprise Search als auch
+            als eigenständiger Service oder in Kombination mit beliebigen anderen Volltextsuchmaschinen verwendet werden
+            kann. LISA greift dabei auf die Anwendung von Lexika und Grammatiken zurück und steht für alle weltweit
+            relevanten Wirtschaftssprachen zur Verfügung zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/semantische-deskriptoren</url>
+        <id>9FE26ABCA69CD3B280E31FB29560F7A2</id>
+        <title>Semantische Deskriptoren</title>
+        <body>Semantische Deskriptoren   Inhaltsbezogene Metadaten, siehe auch: Deskriptor zurück  </body>
+    </Document>
+</documents>

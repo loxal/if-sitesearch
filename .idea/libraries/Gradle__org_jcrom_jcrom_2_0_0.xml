@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jcrom:jcrom:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jcrom/jcrom/2.0.0/7bf4c1a30eed275bb4c83936a785c38aa2647f76/jcrom-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jcrom/jcrom/2.0.0/74e6b588299dc3b0f311246ed63a617c696afff0/jcrom-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

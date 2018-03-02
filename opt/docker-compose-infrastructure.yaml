@@ -1,0 +1,20 @@
+version: "2.0"
+
+services:
+  registry:
+    image: registry:2
+    container_name: docker-registry
+    restart: always
+    volumes:
+      - docker-registry:/var/lib/registry
+    networks:
+      - sitesearch
+
+volumes:
+  docker-registry:
+    driver: local
+
+networks:
+  sitesearch:
+    external:
+      name: sitesearch

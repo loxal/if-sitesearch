@@ -1,0 +1,71 @@
+#
+# Copyright 2017 IntraFind Software AG. All rights reserved.
+#
+
+#server.error.whitelabel.enabled=false # to fix Swagger issue
+
+#facebook:
+#  client:
+#    clientId: 277335132728142
+#    clientSecret: 1f10244d39f6231e15a1fef8148b02cf
+#
+#github:
+#  client:
+#    clientId: 51ddf3aea6097a04b03c
+#    clientSecret: 23a073815a370e20fb6f1d786fc68ad9948d6af4
+
+logging:
+  level:
+    org.springframework.web: INFO
+    com.intrafind: INFO
+
+spring:
+  security:
+    user:
+      name: ${security.user.password}
+      password: ESqIMPNz7I2l3F6lnotc87Jh9ud97GD5bsaSKsJJafk=
+
+security:
+  oauth2:
+    client:
+      clientId: ${random.uuid}
+      clientSecret: ${random.uuid} # add valid token to your local configuration
+      accessTokenUri: https://github.com/login/oauth/access_token
+      userAuthorizationUri: https://github.com/login/oauth/authorize
+      clientAuthenticationScheme: query
+    resource:
+      userInfoUri: https://api.github.com/user
+                                                                          
+#github:
+#  client:
+#    clientId: 51ddf3aea6097a04b03c
+#    clientSecret: 23a073815a370e20fb6f1d786fc68ad9948d6af4
+#    accessTokenUri: https://github.com/login/oauth/access_token
+#    userAuthorizationUri: https://github.com/login/oauth/authorize
+#    clientAuthenticationScheme: form
+#  resource:
+#    userInfoUri: https://api.github.com/user
+
+sitesearch:
+  queryCountEnabled: true
+
+server:
+  port: 8001
+
+spring:
+#  kafka:
+#    consumer:
+#      group-id: foo
+#      auto-offset-reset: earliest
+
+#  data:
+#    elasticsearch:
+#      cluster-name: elasticsearch
+  main:
+    banner-mode: "off"
+  output:
+    ansi:
+      enabled: always
+  application:
+    name: sitesearch
+

@@ -1,0 +1,103 @@
+/*
+ * Copyright 2018 IntraFind Software AG. All rights reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+buildscript {
+    ext {
+//        spring_boot_version = "1.5.10.RELEASE"
+        spring_boot_version = "2.0.0.RELEASE"
+        swagger_version = "2.8.0"
+    }
+}
+
+plugins {
+    id "java"
+    id "idea"
+//    id "org.springframework.boot" version "1.5.10.RELEASE"
+    id "org.springframework.boot" version "2.0.0.RELEASE"
+    id "io.spring.dependency-management" version "1.0.4.RELEASE"
+    id "io.morethan.jmhreport" version "0.7.0"
+}
+
+sourceCompatibility = JavaVersion.VERSION_1_8
+targetCompatibility = JavaVersion.VERSION_1_8
+
+repositories {
+    jcenter()
+    maven { url "https://plugins.gradle.org/m2" }
+}
+
+configurations {
+    compile.exclude module: "spring-boot-starter-tomcat"
+    compile.exclude module: "undertow-websockets-jsr"
+}
+
+dependencies {
+    compile "edu.uci.ics:crawler4j:4.3"
+
+    compile "com.rometools:rome:1.9.0"
+
+    compile "com.caucho:hessian:4.0.51"
+    compile files("../libs/if-api-1.3.0.79-47216.jar")
+
+    // https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Migration-Guide
+    compile 'org.springframework.boot:spring-boot-properties-migrator:2.0.0.RELEASE' // TODO remove once migration to Spring Boot v2 finished
+
+    compile "org.springframework.boot:spring-boot-starter-hateoas:$spring_boot_version"
+    compile "org.springframework.boot:spring-boot-starter-undertow:$spring_boot_version"
+
+    runtime "org.springframework.boot:spring-boot-devtools:$spring_boot_version"
+
+    compile "io.springfox:springfox-swagger2:$swagger_version"
+    compile "io.springfox:springfox-swagger-ui:$swagger_version"
+    compile "org.springframework.security.oauth:spring-security-oauth2:2.2.1.RELEASE"
+
+    runtime "net.java.dev.jna:jna:4.5.1"
+
+    testCompile "org.openjdk.jmh:jmh-generator-annprocess:1.20"
+    testCompile "org.springframework.boot:spring-boot-starter-test:$spring_boot_version"
+
+//    runtime "org.springframework.boot:spring-boot-devtools:$spring_boot_version"
+
+    compile "com.squareup.okhttp3:okhttp:3.10.0" // downgrade to test scope, once crawler4j is removed
+    
+    compile "org.mnode.mstor:mstor:1.0.0"
+//    compile "com.google.api-client:google-api-client:1.23.0"
+    compile "com.google.oauth-client:google-oauth-client-jetty:1.23.0"
+    compile "com.google.apis:google-api-services-gmail:v1-rev82-1.23.0"
+
+    compile "org.jsoup:jsoup:1.11.2"
+}
+
+test {
+    testLogging {
+        exceptionFormat = "full"
+    }
+}
+
+jmhReport {
+    jmhResultPath = project.file("$buildDir/jmh-result.json")
+    jmhReportOutput = project.file(buildDir)
+}
+task runJMH(type: JavaExec) {
+    main = "com.intrafind.sitesearch.jmh.LoadTest"
+    classpath sourceSets.test.runtimeClasspath
+}
+tasks.runJMH.finalizedBy tasks.jmhReport
+
+tasks.withType(JavaCompile) {
+    options.fork = true
+    options.incremental = true
+}

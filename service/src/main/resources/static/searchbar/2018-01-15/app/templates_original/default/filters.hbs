@@ -1,0 +1,120 @@
+{{# each state.facetstate}}
+    <div class="ifs-filter {{#if open}}open{{/if}}" data-selection-type="multiple" data-filter-category="{{label}}">
+        <button
+                type="button"
+                class="btn btn-default ifs-filterbutton"
+                data-toggle="if-filterbox"
+                aria-haspopup="true"
+                aria-expanded="false">
+            <span class="ifs-filterbutton-text">{{label}}</span> <span class="ifs-enabled-count"></span> <span
+                class="caret ifs-filterbutton-icon"></span>
+        </button>
+        <div class="ifs-filterbox {{#if searchable}}fixed-height{{/if}}">
+
+            {{#if searchable}}
+                <div class="ifs-fi-body">
+                    <form class="results" name="if-search">
+                        <div class="typeahead__container result hint filter">
+                            <div class="input-group typeahead__field">
+                                <span class="typeahead__query">
+                                    <input data-facet-searchbar="{{facetname}}"
+                                           class="form-control ifs-input-searchfield js-typeahead-input"
+                                           name="q" type="search" autocomplete="off"
+                                    />
+                                </span>
+                                <div class="input-group-btn typeahead__button">
+                                    <button type="submit" class="btn btn-default ifs-btn-perform-search"
+                                            data-globalize="ifs.btn.search" data-globalize-target="title" title="Search">
+                                        <i class="glyphicons glyphicons-search" aria-hidden="true"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="typeahead__container result hint filter ifs-searchable-facet-result" data-facet-results="{{facetname}}" />
+                    <ul class="ifs-fi-list" data-active-facets-container="{{facetname}}">
+                        {{#each facets}}
+                            {{#if enabled}}
+                                <li class="row facet {{#if enabled}}active{{/if}}" data-filter-value="{{term}}">
+                                    <span class="col-xs-11 col-sm-11 col-md-11 col-lg-11  ifs-fi-term" data-toggle="tooltip" title="{{term}}">{{term}}</span>
+                                    <i class="pull-right col-xs-1 col-sm-1 col-md-1 col-lg-1  glyphicons glyphicons-ok-2 ifs-check-indicator"></i>
+                                </li>
+                            {{/if}}
+                        
+                        {{/each}}
+                        {{#each facets}}
+                            {{#unless enabled}}
+                                <li class="row facet {{#if enabled}}active{{/if}}" data-filter-value="{{term}}">
+                                    <span class="col-xs-11 col-sm-11 col-md-11 col-lg-11  ifs-fi-term" data-toggle="tooltip" title="{{term}}">{{term}}</span>
+                                    <i class="col-xs-1 col-sm-1 col-md-1 col-lg-1  glyphicons glyphicons-ok-2 pull-right ifs-check-indicator"></i>
+                                </li>
+                            {{/unless}}
+                        {{/each}}
+                    </ul>
+                </div>
+            {{/if}}
+
+            {{#unless searchable}}
+                <div class="ifs-fi-body">
+                    <ul class="ifs-fi-list">
+                        {{#each facets}}
+                            {{#if enabled}}
+                                <li class="row facet {{#if enabled}}active{{/if}}" data-filter-value="{{term}}">
+                                    <span class="col-xs-11 col-sm-11 col-md-11 col-lg-11  ifs-fi-term" data-toggle="tooltip" title="{{term}}">{{term}}</span>
+                                    <i class="col-xs-1 col-sm-1 col-md-1 col-lg-1  glyphicons glyphicons-ok-2 pull-right ifs-check-indicator"></i>
+                                </li>
+                            {{/if}}
+                        {{/each}}
+                        {{#each facets}}
+                            {{#unless enabled}}
+                                <li class="row facet {{#if enabled}}active{{/if}}" data-filter-value="{{term}}">
+                                    <span class="col-xs-11 col-sm-11 col-md-11 col-lg-11  ifs-fi-term" data-toggle="tooltip" title="{{term}}">{{term}}</span>
+                                    <i class="col-xs-1 col-sm-1 col-md-1 col-lg-1  glyphicons glyphicons-ok-2 pull-right ifs-check-indicator"></i>
+                                </li>
+                            {{/unless}}
+                        {{/each}}
+                    </ul>
+                </div>
+            {{/unless}}
+
+            <div class="ifs-fi-footer text-center {{#if searchable}}active{{/if}}">
+                <button type="button" class="btn btn-default" data-filter-name="{{facetname}}" data-action="perform">
+                    <span class="fi-btn-text">{{msg "ifs.filter.accept"}}</span>
+                </button>
+            </div>
+
+        </div>
+    </div>
+{{/each}}
+
+
+{{#if this.showDateRange}}
+    <div class="ifs-filter" data-selection-type="single" data-filter-category="{{msg "ifs.filter.daterange"}} {{label}}">
+        <button
+                type="button"
+                class="btn btn-default ifs-filterbutton"
+                data-toggle="if-filterbox"
+                aria-haspopup="true"
+                aria-expanded="false">
+            <span class="ifs-filterbutton-text">{{msg "ifs.filter.daterange"}} {{label}}</span> <span
+                class="ifs-enabled-count"></span> <span class="caret ifs-filterbutton-icon"></span>
+        </button>
+        <div class="ifs-filterbox">
+            <div class="ifs-fi-body">
+                <ul class="ifs-fi-list">
+                    {{#each state.filterstate}}
+                    <li class="facet {{#if enabled}}active{{/if}}" data-filter-value="{{@key}}">
+                        {{msg label}}
+                        <i class="glyphicons glyphicons-ok-2 pull-right ifs-check-indicator"></i>
+                    </li>
+                    {{/each}}
+                </ul>
+            </div>
+            <div class="ifs-fi-footer text-center">
+                <button type="button" class="btn btn-default" data-action="perform" data-filter-name="daterange">
+                    <span class="fi-btn-text">{{msg "ifs.filter.accept"}}</span>
+                </button>
+            </div>
+        </div>
+    </div>
+{{/if}}

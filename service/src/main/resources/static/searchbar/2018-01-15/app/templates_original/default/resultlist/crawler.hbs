@@ -1,0 +1,47 @@
+<li class="media ifs-tpl-crawler {{#if mobilePhoneState}}tpl-mobile{{/if}}" data-favorite="{{favoredString}}" data-index="{{integer}}" data-score="{{score}}">
+
+    <div class="ifs-favorite-label {{#if favoredBool}} state-true {{/if}}">
+        <i class="glyphicons glyphicons-star"></i>
+    </div>
+
+    {{#if mobilePhoneState}}
+    <div class="ifs-swipe-area">
+    {{/if}}
+
+    <div class="media-left">
+        <a class="avatar" href="javascript:void(0);" data-action="preview" {{#if shouldUseCustomPreview}}data-preview-custom="{{customPreviewUrl}}"{{/if}} data-preview-id="{{urlbase64}}" data-hiturl="{{folder}}{{filename}}">
+            <div class="ifs-preview-mask"></div>
+            <img class="ifs-avatar-img" src="{{authenticateIfJWTPresent thumbnail}}">
+        </a>
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading ifs-dont-break">
+            {{#if title}}
+                <a target="_blank" href="{{url}}">{{{title}}}</a>
+            {{else}}
+                <a target="_blank" href="{{url}}">{{filename}}</a>
+            {{/if}}
+        </h4>
+        <div class="flex-truncate">
+            <p>
+                {{modified}}
+            </p>
+        </div>
+        {{#if text}}
+            <p class="ifs-textbody">{{{text}}}</p>
+        {{/if}}
+        <a target="_blank" href="{{url}}">
+            <p class="truncate pathname" title="{{url}}">{{url}}</p>
+        </a>
+    </div>
+
+
+    {{#if mobilePhoneState}}
+    </div>
+    {{/if}}
+
+
+    {{#if hitMenu}}
+        {{{hitMenu}}}
+    {{/if}}
+</li>

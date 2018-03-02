@@ -1,0 +1,90 @@
+/*
+ * Copyright 2017 IntraFind Software AG. All rights reserved.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+buildscript {
+//    repositories {
+//        jcenter()
+//    }
+
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+apply plugin: "kotlin2js"
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib-js:$kotlin_version"
+    compile "org.jetbrains.kotlin:kotlin-test-js:$kotlin_version"
+}
+
+compileKotlin2Js {
+    kotlinOptions.metaInfo = true
+    kotlinOptions.outputFile = "$project.buildDir.path/classes/kotlin/main/${project.name}.js"
+    kotlinOptions.sourceMap = true
+    kotlinOptions.moduleKind = "umd"
+    kotlinOptions.main = "call"
+    kotlinOptions.suppressWarnings = false
+    kotlinOptions.target = "v5"
+    kotlinOptions.noStdlib = true
+    kotlinOptions.friendModulesDisabled = false
+    kotlinOptions.sourceMapEmbedSources = "inlining"
+    kotlinOptions.typedArrays = false
+}
+
+build.doLast {
+    String serviceBuildPath = "../service/build/resources/main/static/app"
+    String artifactPath = "../service/src/main/resources/static/app"
+    project.file("$artifactPath/$project.name").deleteDir()
+    project.file("$serviceBuildPath/$project.name").deleteDir()
+
+    copy {
+        from compileKotlin2Js.destinationDir
+        into "$artifactPath/$project.name"
+    }
+
+    copy {
+        from compileKotlin2Js.destinationDir
+        into "$serviceBuildPath/$project.name" // TODO create rather a symlink to above directory?
+    }
+
+    copy {
+        from sourceSets.main.output.resourcesDir
+        into "$artifactPath/$project.name/resources"
+    }
+
+    copy {
+        from sourceSets.main.output.resourcesDir
+        into "$serviceBuildPath/$project.name/resources" // TODO create rather a symlink to above directory?
+    }
+
+    configurations.compile.each { File file ->
+        copy {
+            from zipTree(file.absolutePath)
+            into "$artifactPath/runtime"
+        }
+    }
+}
+
+kotlin {
+    experimental {
+        coroutines "enable"
+    }
+}

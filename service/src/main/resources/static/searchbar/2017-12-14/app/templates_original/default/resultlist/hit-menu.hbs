@@ -1,0 +1,38 @@
+{{#if mobileState}}
+    <div class="ifs-swipe-menu">
+        <div class="ifs-sm-btn-wrapper">
+            {{# each this.menuItems}}
+                <a href="javascript:void(0);" class="btn btn-menu {{this.menuColor}}" data-action="{{this.menuAction}}"  data-hittype="{{../menuHitType}}" data-hiturl="{{this.menuUrl}}">
+                    <i class="{{this.menuIcon}}"></i>
+                </a>
+            {{/each}}
+        </div>
+    </div>
+    <div class="ifs-swipe-overlay"></div>
+{{else}}
+    {{#if menuItems}}
+        <div class="media-right {{menuHitType}}">
+            <div class="dropdown ifs-hit-menu">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="if-dropdown" aria-haspopup="true" aria-expanded="true">
+                    <i class="glyphicons glyphicons-option-vertical"></i>
+                </button>
+                <ul class="dropdown-menu dropdown-menu-right bullet pull-right" aria-labelledby="dropdownMenu1">
+                    {{# each this.menuItems}}
+                        {{#if this.menuSeparator}}
+                            <li role="separator" class="divider"></li>
+                        {{/if}}
+                        <li>
+                            <a href="javascript:void(0);" data-action="{{this.menuAction}}"  data-hittype="{{../menuHitType}}" data-hiturl="{{this.menuUrl}}">
+                                <i class="{{this.menuIcon}}"></i>
+                                <span data-globalize="{{this.menuText}}"></span>
+                            </a>
+                        </li>
+                    {{/each}}
+                </ul>
+            </div>
+        </div>
+    {{/if}}
+{{/if}}
+
+
+

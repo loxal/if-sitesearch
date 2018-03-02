@@ -1,0 +1,87 @@
+version: "2.0"
+services:
+  ops-kibana:
+    image: docker.elastic.co/kibana/kibana:6.2.1
+    container_name: ops-kibana
+    restart: always
+    depends_on:
+      - ops-elasticsearch
+      - ops-elasticsearch-alt
+      - ops-logstash
+    environment:
+#      SERVER_NAME: ops-elasticsearch
+      ELASTICSEARCH_URL: http://ops-elasticsearch:9200
+    #      KIBANA_DEFAULTAPPID: kibana.defaultAppId
+    #      XPACK_MONITORING_ENABLED: xpack.monitoring.enabled
+    #
+#    volumes:
+#      - ~/srv/kibana:/usr/share/kibana
+#      - ~/srv/kibana/kibana.yml:/usr/share/kibana/config/kibana.yml
+    networks:
+      - sitesearch
+
+  ops-elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.2.1
+    container_name: ops-elasticsearch
+    restart: always
+    environment:
+      - cluster.name=sitesearch-ops-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ops-elk:/usr/share/elasticsearch/data
+    networks:
+      - sitesearch
+      
+  ops-elasticsearch-alt:
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.2.1
+    container_name: ops-elasticsearch-opt
+    restart: always
+    environment:
+      - cluster.name=sitesearch-ops-cluster
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - "discovery.zen.ping.unicast.hosts=ops-elasticsearch"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ops-elk-alt:/usr/share/elasticsearch/data
+    networks:
+      - sitesearch
+
+  ops-logstash:
+    image: docker.elastic.co/logstash/logstash:6.2.1
+    container_name: ops-logstash
+    restart: always
+#    logging:
+#      driver: syslog
+#      options:
+#        syslog-address: "udp://$IP_LOGSTASH:5000"
+#        syslog-tag: "nginx-with-syslog"
+#    environment:
+#      - "xpack.monitoring.elasticsearch.url=http://ops-elasticsearch:9200"
+    volumes:
+      - ops-logstash:/usr/share/logstash:rw
+    ports:
+      - 12201:12201/udp
+    networks:
+      - sitesearch
+
+volumes:
+  ops-elk:
+    driver: local
+  ops-elk-alt:
+    driver: local
+  ops-logstash:
+    driver: local
+
+networks:
+  sitesearch:
+    external:
+      name: sitesearch

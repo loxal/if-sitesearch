@@ -1,0 +1,17 @@
+<li class="list-group-item ifs-tpl-crawler" data-index="{{integer}}">
+    <div class="media">
+        <div class="media-body">
+            <h4 class="media-heading ifs-dont-break">
+                {{#if title}}
+                    <a target="_blank" href="{{url}}">{{{title}}}</a>
+                {{/if}}
+            </h4>
+            {{#if body}}
+                <p>{{{body}}}</p>
+            {{/if}}
+            <a target="_blank" href="{{url}}">
+                <p class="truncate pathname" title="{{url}}">{{url}}</p>
+            </a>
+        </div>
+    </div>
+</li>

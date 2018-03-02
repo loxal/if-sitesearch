@@ -1,0 +1,26 @@
+<li class="media ifs-tpl-default" data-index="{{integer}}" data-score="{{score}}">
+
+    {{#if favorite}}
+        <div class="ifs-favorite-label">
+            <i class="glyphicons glyphicons-star"></i>
+        </div>
+    {{/if}}
+
+    <div class="media-left">
+        <a class="avatar" href="javascript:void(0);" {{#if shouldUseCustomPreview}}data-preview-custom="{{customPreviewUrl}}"{{/if}} data-preview-id="{{urlbase64}}">
+            <div class="ifs-preview-mask"></div>
+            <img class="ifs-avatar-img" src="{{authenticateIfJWTPresent thumbnail}}">
+        </a>
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading ifs-dont-break">
+            {{{title}}}
+        </h4>
+        <p class="truncate">
+            {{type}}
+        </p>
+        {{#if text}}
+            <p class="ifs-textbody">{{{text}}}</p>
+        {{/if}}
+    </div>
+</li>

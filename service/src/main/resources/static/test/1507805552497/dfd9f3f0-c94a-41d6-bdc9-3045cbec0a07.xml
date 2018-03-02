@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!--
+  ~ Copyright 2017 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<documents count="50">
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/pst-indexer</url>
+        <id>C911A6342EB5A32FADDE54BE4C30907A</id>
+        <title>PST-Indexer</title>
+        <body>PST-Indexer   Der PST-Indexer, ein Produkt der IntraFind Software AG, dient der inhaltlichen Erschließung
+            von E-Mail-Archiven (.pst- und .ost-Dateien des E-Mail-Programms Microsoft Outlook for Windows).   Im Zuge
+            eines Crawling-Prozesses durchsucht der PST-Indexer vordefinierte Verzeichnisse nach E-Mail-Archivdateien.
+            Die in den Archiven enthaltenen E-Mails und E-Mail-Anhänge werden vom PST-Indexer analysiert und können
+            anschließend sowohl im Volltext durchsucht als auch einzeln zum Download angeboten werden. Dabei werden die
+            extrahierten Daten über entsprechende Schnittstellen bereitgestellt.   Metadaten der E-Mails wie die
+            E-Mail-Adressen des Absenders und des Empfängers oder der Zeitpunkt der Zustellung der Nachricht können
+            beispielsweise als Filterelemente auf der Suchoberfläche genutzt werden. Auf diese Art und Weise werden die
+            Inhalte von E-Mail-Archiven einfach und komfortabel zugänglich und nutzbar. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/unstrukturierte-daten</url>
+        <id>75C9DF751F2F9DB92F9D3A702793D8AC</id>
+        <title>Unstrukturierte Daten</title>
+        <body>Unstrukturierte Daten   Unstrukturierte Daten sind digitalisierte Informationen, die im Gegensatz zu
+            strukturierten Daten keiner formalisierten Struktur unterliegen, z.B. digitale Texte in natürlicher Sprache.
+            zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/aehnlichkeitsuche</url>
+        <id>E7CC3DCB4D81AF4E3F74C20E6C922D4D</id>
+        <title>Ähnlichkeitssuche</title>
+        <body>Ähnlichkeitssuche   Mit den Produkten SimFinder und iClassify bietet IntraFind zwei Lösungen für die
+            Ähnlichkeitssuche an. Die Ähnlichkeitssuche basiert auf Inhalten und generiert sich über TopTerme. Während
+            Sie mit SimFinder über den Inhalt eines Dokumentes nach ähnlichen Inhalten in Ihrem Unternehmen suchen,
+            nutzen Sie bei iClassify gleich mehrere Dokumente und deren Inhalte und gewichten diese auch noch nach
+            „relevanten Dokumenten“ und „nicht-relevanten Dokumenten“. Das Ergebnis ist bei beiden Produkten eine auf
+            TopTermen basierende Suchanfrage (Query), die eine qualitativ deutlich verbesserte Liste relevanter Treffer
+            für Sie bereitstellt. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/unstructured-data</url>
+        <id>A1DB3F5EE237CEF974EC3C204B10236E</id>
+        <title>Unstructured data</title>
+        <body>Unstructured data   Unstructured data is digitalized information, which in contrast to structured data
+            does not have an underlying formalized structure, e.g. digital texts in a natural language.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/elasticsearch/plugins_services/SimFinder_Service</url>
+        <id>4DA293F24FC7166500F5CBB7DA66D9EE</id>
+        <title>Elasticsearch SimFinder Service</title>
+        <body>SimFinder Service Der SimFinder Service gibt zu einem in der Trefferliste ausgewählten Dokument inhaltlich
+            ähnliche Dokumente, die beispielsweise an anderen Speicherorten oder in anderen Systemen abgelegt wurden,
+            zurück. Es kommen dabei  statistische Verfahren zum Einsatz, um die Ähnlichkeit zu berechnen.   Technische
+            Spezifikation: Betriebssysteme Windows Server 2008 R2 oder höher sowie Linux Installationsvoraussetzungen
+            Java 7 Kombinierbare Dienste: Der SimFinder Service kann nur in Kombination mit dem IntraFind Search &amp;
+            Index Service verwendet werden Alle weiteren Services und Plugins können orthogonal kombiniert werden.
+            Dokumentation: SOA-Begleitdokumentation Beispielimplementierung in Java wird bereitgestellt Demo-Verzeichnis
+            mit einfachen Click&amp;Play Nutzungsbeispielen Für wen ist der Service interessant: Unternehmen, die eine
+            Trefferliste um die Suche nach ähnlichen Dokumenten anreichern möchten Embedding Partner Elasticsearch
+            Entwickler Solr Entwickler DEMO-ZUGANG ANFORDERN &gt;&gt;
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/morphologie</url>
+        <id>E97BD02612899742D07E9AAF9E7A3135</id>
+        <title>Morphologie</title>
+        <body>Morphologie   In der Sprachwissenschaft ist die Morphologie ein Teilgebiet der Grammatik. Die Morphologie
+            befasst sich mit der inneren Struktur von Wörtern und widmet sich der Erforschung der kleinsten bedeutungs-
+            und/oder funktionstragenden Elemente einer Sprache, der Morpheme. Diesbezüglich wird die Morphologie – in
+            Anlehnung an den Terminus „Satzgrammatik“ für die Syntax – auch als „Wortgrammatik“ bezeichnet. (28.11.2012
+            Wikipedia) zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/open-source</url>
+        <id>AF2D756E7BE65118B37DFCAFC07D72E6</id>
+        <title>Open Source</title>
+        <body>Open Source   Als Open Source Software oder Technologie versteht man hauptsächlich die Offenlegung des
+            Quellcodes,Quelltextes. Das gibt Unternehmen die Möglichkeit auf der Basis des Quellcodes einer Software
+            aufzusetzen und eigene Lösungen zu entwickeln oder das Ursprungsprodukt zu modifizieren oder zu verändern.
+            Open Source Communities sorgen in der Regel für eine Weiterentwicklung der Open Source Software, die
+            wiederum als neuer Standard verwendet werden kann. Klassische Open Source Software im Enterprise Serach
+            Umfeld ist Lucene, Solr aber auch ganz neu ElasticSearch. IntraFind setzt auf die Open-Source-Suchmaschine
+            Lucene, baut aber auch Lösungen für alle anderen Komponenten. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/entitaetenerkennung</url>
+        <id>A2C234D969D458A5A71795F4D96B579F</id>
+        <title>Entitätenerkennung</title>
+        <body>Entitätenerkennung   Erkennung von Beschreibungen, Bedeutungen, Wortherkunft oder Übersetzungen. Und um
+            diese Informationen aus einem unstrukturierten Text zu erhalten, nutzt man die Informationsextraktion. Die
+            dabei extrahierten Informationseinheiten, bezeichnet man als Entitäten. Aus linguistischer Sicht stellen
+            solche Entitäten (Informationseinheiten) einen Spezialbereich dar, der für eine bestmögliche Auswertung
+            spezielle Analyseverfahren benötigt. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/events_en</url>
+        <id>F8B8BC1895084997C01384AAF997BD8D</id>
+        <title>Events with IntraFind</title>
+        <body>IntraFind Events</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/ifinder</url>
+        <id>CAE8CED65A6548CB0E304AB0C9703647</id>
+        <title>IntraFind Produkte</title>
+        <body>INTRAFIND - Ihr Spezialist für das effiziente Suchen &amp; Finden von Informationen und Content Analytics
+            SUCHEN &amp; FINDEN Wichtige Informationen haben Sie mit IntraFind immer parat. IntraFind entwickelt für
+            Unternehmen Produkte und Lösungen, die ein schnelles Suchen und Finden von
+            Unternehmensinformationen ermöglichen. Mit der Integration der Suchlösung iFinder5 elastic gestalten Sie
+            Ihren Informationsalltag neu und erhalten immer die Information, die für Ihre Arbeit in dem Augenblick
+            wichtig ist. Mehr Informationen CONTENT ANALYTICS Digitale Inhalte einfach und schnell verstehen Content
+            Analytics vereint zahlreiche IntraFind Technologien, die es erlauben digitale Inhalte (Big Content, Big
+            Text) aus Webseiten, Dokumenteninhalten aber auch Nutzerverhalten aus Social Media Foren, News Sites,
+            meinungsbildenden Seiten automatisch zu analysieren und zu verstehen. Mehr Informationen
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/solutions/use-cases</url>
+        <id>C0774613F89778FE0B81028A22BB6AD0</id>
+        <title>Use Cases</title>
+        <body>Use Cases Be inspired. Many of our customers use our search solution for various enterprise scenarios.
+            Contact us, if you discover an interesting solution and need an adaptation for your company. Developer
+            Search Benefit from a customized portal with excellent search functionalities that meets the demands of
+            product developers. Media Portals on Company Websites Journalists need specific and newest product
+            information or information from the top management. A media portal enriched with intelligent search
+            mechanisms helps them to get along easily.   Universal Search With only one search box you will get access
+            to all company information consisting of various document types stored in different data sources. Automatic
+            Generation of Newsletters We automatically analyze and classify your most important information sources
+            according to relevant content and provide your employees with a newsletter that contains everything worth
+            knowing. Everything entirely automated, of course. Search in Company Websites Your homepage visitors will
+            thank you. All your customers will quickly and easily find the product they are searching for. Without any
+            detours and without knowing the correct spelling. Shopping Portals &amp; Shop Systems You have many products
+            and product categories in your shopping portal and no automatic categorization? Increase the time your
+            customers spend in your shop and maximize your sale. More information &gt;&gt; Knowledge &amp; Ideas
+            Management Your employees do not only need an overview but also an insight, exact evaluations and facts for
+            specific topics. IntraFind intelligently supports whole research processes.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/api</url>
+        <id>22521C54797D4C6F503CD1905F976775</id>
+        <title>API</title>
+        <body>API   Application Programming Interface für Programmierschnittstelle in der Informatik um Informationen
+            auszutauschen.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary</url>
+        <id>16EF8355B8A24C3AC0982D20D738FAB2</id>
+        <title>Glossary</title>
+        <body>Glossary A Algorithm Annotation API Auto-classification Auto complete B Best practice Big data Boolean
+            search Boolean operators C CMS Committer Connector Content analytics Corpus Crawler CRM Cross-lingual Search
+            Cross-validation D Descriptor DMS Duplicate E E-Commerce elasticsearch Enterprise Search Enterprise Segment
+            Entity Entity Recognition F Facet Full text search G Grid Search Guided Search GUI H Homograph I Index
+            Information Access Information Retrieval Intranet IPMA Indexing J - K KMU Knowledge Map Knowledge Network L
+            Linguistics Log file Lucene M Metadata Metadata generation Morphology N - O Open Source P Proof of Concept
+            (PoC) Q - R Real-time analysis Redundancy Relevance Return on Investment (ROI) S SDK Search-based
+            application / Search-driven application Semantics Semantic descriptors Semantic Search Semi-structured data
+            Scalability Similarity search Solr Stakeholder Structured data Search ergonomy T Tag Tag cloud Tagging
+            Service Taxonomy Test corpus Text analysis Text analytics Text classification Text mining Topic based search
+            Thesaurus Total Cost of Ownership (TCO) Training corpus U Unified Information Access Unstructured data V - W
+            - X - Y - Z -
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/products/ifinder5-elastic</url>
+        <id>1F6016A1733738C2A86523951FC4A4F0</id>
+        <title>iFinder5 elastic for a company wide search</title>
+        <body>iFinder5 elastic Search. Find. IntraFind. With the launch of the iFinder5 elastic IntraFind offers an
+            optimal solution for finding important information. Read below the possible uses there and your benefits.
+            Intelligent search engine The iFinder5 elastic is a complete solution and can be used immediately. Universal
+            search Connectors link all relevant internal and external data sources to the iFinder5 elastic and thus
+            ensure that nothing important is overlooked. Search of integrated applications Do you have problems to find
+            the right information right away in one of your applications? Replace an existing search in an application,
+            for example, searching in a CMS-system, by searching with the iFinder5 elastic and benefit immediately from
+            all the intelligent functionalities. The extension to universal search in the application by adding
+            additional data sources (e.g. PLM-, CRM-system, Microsoft Exchange) is possible.  Information center With
+            the iFinder5 elastic you get many collaboration tools and small everyday helpers. You can, for example,
+            share information with your colleagues ad hoc, learn new things about the company, find the right contact
+            person and much more.  Solution for knowledge management Consuming research work will be greatly simplified
+            for knowledge workers. You can actively seek or be informed automatically about a particular subject. The
+            universal search across all data sources, ensures a complete hit list and also provides thematically
+            relevant and coherent information. You no longer need to constantly re-invent the wheel.  Content Analytics
+            platform Gain a deep insight into the content of your inventory information, get all linked documents from
+            all data sources at the push of a button and derive therefrom important decisions.  Natural Language
+            Searches with NLP and Deep Learning By intelligent processing of searches and the analysis of predicate
+            argument structures the iFinder5 elastic can interpret and understand natural language search queries.
+            &quot;Presentations on content analytics of the last 4 weeks“ for example, delivers matching new PPT or PDF
+            documents with the topic content analytics in the defined period of time. Usage-Based Relevance The quality
+            of relevance within the hit list is one of the outstanding features of the iFinder5 elastic. It offers the
+            possibility that the behavior of the user affects the relevance of the hit lists. Frequently selected search
+            options and documents obtain more relevance, for example, even when considering the organigram. This way the
+            user gets e.g. his colleague&apos;s filters suggested in his autocomplete function and so receives useful
+            support for his research process. The iFinder5 elastic learns autonomously: the more something is searched,
+            the bigger the influence on the relevance. Thereby the iFinder5 elastic offers the way from content-based
+            relevance to usage-based relevance. Further Interesting Topics: This is how IntraFind supports departments
+            or whole companies with intelligent search mechanisms and content analytics &gt;&gt;
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/api</url>
+        <id>30E40E66FE732838AD8BF7983A308CA9</id>
+        <title>API</title>
+        <body>API   Application Programming Interface for programming interfaces in IT for exchanging information.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/redundanz</url>
+        <id>871864FF22FC1D3A1231830F2897E012</id>
+        <title>Redundanz</title>
+        <body>Redundanz   Von Redundanz einer bspw. Information spricht man dann, wenn der Inhalt der Information
+            mehrfach vorhanden ist. Diese Informationen sind doppelt, gleichwertig und sind inhaltlich identisch. zurück
+             
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/gui</url>
+        <id>5769E5903E8699915465C0FA9472166E</id>
+        <title>GUI</title>
+        <body>GUI   Graphic User Interface / User Interface  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/structured-data</url>
+        <id>C5BC5FA437C332A74F40E9A0E4BE7B2B</id>
+        <title>Structured data</title>
+        <body>Structured data   Data that has a uniform structure (e.g. databases).  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/auto-classification</url>
+        <id>A1AD0AC903AF36728AA7DAA6AA8BE787</id>
+        <title>Auto-classification</title>
+        <body>Auto-classification   Auto-classification describes the systematic structure of classes based on
+            characteristic values. The characteristics are obtained and assigned based on the classification. IntraFind
+            uses TopicFinder for this.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/facet</url>
+        <id>65D57A545808573A2A4348C3A31661F3</id>
+        <title>Facet</title>
+        <body>Facet   Filter option in the standard view, but also in the knowledge map. Facets are based on metadata.
+             
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/linguistics</url>
+        <id>392DD300FBB526CF59AF9C4A4397EB96</id>
+        <title>Linguistics</title>
+        <body>Linguistics   The science that examines human languages. Linguistics is an important component in the area
+            of intelligent search engines and text analysis. IntraFind has a market leading German linguistics program,
+            LISA. The quality is particularly seen here as there are complex contextual connections. Other languages are
+            available.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/scalability</url>
+        <id>E686D29D09E1B62E524E14C2AE2D0E6F</id>
+        <title>Scalability</title>
+        <body>Scalability   In connection with software, scalability is seen as measures to increase the power of
+            systems of hardware and software through the addition of further resources. One differentiates here between
+            vertical (e.g. increasing memory) and horizontal (adding computers/nodes) scaling.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/index</url>
+        <id>085B5FFE6B0DE6415F7EBC6BC5B1D2BF</id>
+        <title>Index</title>
+        <body>Index   Corresponds to the analysis of databases. For the index structure, IntraFind initially determines
+            the current real database, which reflects the file forms and sizes. Only after this the indexing process
+            starts, which is the collection of information which then has the index as a result.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/information-access</url>
+        <id>DB2FFA2E8EAB5C2B0CDC62E541A56EB8</id>
+        <title>Information Access</title>
+        <body>Information Access   Users receive simple access to information through search engines.  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/auto-complete</url>
+        <id>B3E70195368437C37791241F31857BD2</id>
+        <title>Auto complete</title>
+        <body>Auto complete   If the user types a search term into the search field, the Enterprise Search solution
+            iFinder suggests terms after a certain number of letters. This process eases the search and rules out the
+            possibility of typos.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/tag</url>
+        <id>3DAA859DFD600978F865D760B0C06F00</id>
+        <title>Tag</title>
+        <body>Tag   A characteristic that describes content, image or text.  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/knowledge-network</url>
+        <id>4B338E9E51B1C98E92E4B039C813CA6D</id>
+        <title>Knowledge network</title>
+        <body>Knowledge network   Knowledge networks or semantic networks serve the mapping of relations between
+            objects. Compared to knowledge networks that are often constructed manually and provide access to
+            information through a graphic interface, IntraFind offers the iFinder expansion module Semantic-associative
+            Search, which is based on statistical calculations and allows for an associative search. It determines terms
+            that are often found in the context of the entered search term and thus offers the searcher important
+            support.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/cms</url>
+        <id>5E19085EC5FB3D5DD36A6E7876994046</id>
+        <title>CMS</title>
+        <body>CMS   Content Management System  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/content-analytics</url>
+        <id>CC395069063FF655A03C414B41924332</id>
+        <title>Content analytics</title>
+        <body>Content analytics   The task of extracting corpus-wide insights, as e.g. correlations between concepts.
+             
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/crawler</url>
+        <id>2C940CA053A6E890A22AE9A90904F9CD</id>
+        <title>Crawler</title>
+        <body>Crawler   The Indexing Engine or the Crawler obtains data and documents from the data sources and lists
+            these correspondingly in a structure, which in turn simplifies the search. Simultaneously, the Crawling
+            Engine creates caches of the documents so that a document preview can be shown. The Query Engine runs
+            through this index in order to list the hits.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/descriptor</url>
+        <id>DDA9786187D7B0829E7A22623B0B97F4</id>
+        <title>Descriptor</title>
+        <body>Descriptor   Keyword for the contextual description of an object, e.g. the topic of a text. The assignment
+            of descriptors is a component of the contextual analysis of documents, e.g. in libraries. Normally, keywords
+            are stored in a controlled vocabulary (e.g. standards file or thesaurus) and are assigned based on rules.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/thesaurus</url>
+        <id>EBF19B73294AE9E0CC789C963C4D43B4</id>
+        <title>Thesaurus</title>
+        <body>Thesaurus   A thesaurus or word network contains synonyms, superordinate and subordinate terms.  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/boolean-search</url>
+        <id>554538D4171199B9777288DF855783BA</id>
+        <title>Boolean search</title>
+        <body>Boolean search   see Boolean operators  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/impressum</url>
+        <id>A4C0C44D13C16210C710391C8783688A</id>
+        <title>Impressum</title>
+        <body>Impressum   Angaben gemäß § 5 TMG: IntraFind Software AG Landsberger Straße 368 80687 München Deutschland
+              Vertretungsberechtigter Vorstand: Franz Kögl, Bernhard Messer   Kontakt: Telefon:      49 89 3090446-0
+            Fax:            49 89 3090446-29 E-Mail:        info@intrafind.de   Registereintrag: Eintragung im
+            Handelsregister. Registergericht:  Amtsgericht München Registernummer: HRB 134378   Umsatzsteuer-ID:
+            Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE 813073059   Quellenangaben für die
+            verwendeten Bilder: Copyright (C) Fotolia 2004-2014: Alliance / bloomua / FotolEdhar   Quelle: eRecht24,
+            Rechtsanwalt für Internetrecht Sören Siebert   Haftungsausschluss:   Haftung für Inhalte Die Inhalte unserer
+            Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte
+            können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene
+            Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als
+            Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen
+            oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur
+            Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon
+            unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten
+            Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte
+            umgehend entfernen.   Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren
+            Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr
+            übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten
+            verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße
+            überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente
+            inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung
+            nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.  
+            Urheberrecht Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem
+            deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb
+            der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+            Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit
+            die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet.
+            Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine
+            Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von
+            Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.   Datenschutz Die Nutzung unserer
+            Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten
+            personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies,
+            soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an
+            Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der
+            Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff
+            durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten
+            Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und
+            Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich
+            ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch
+            Spam-Mails, vor.   Datenschutzerklärung für die Nutzung von Facebook-Plugins (Like-Button) Auf unseren
+            Seiten sind Plugins des sozialen Netzwerks Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA
+            integriert. Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem &quot;Like-Button&quot; (&quot;Gefällt
+            mir&quot;) auf unserer Seite. Eine Übersicht über die Facebook-Plugins finden Sie hier:
+            http://developers.facebook.com/docs/plugins/. Wenn Sie unsere Seiten besuchen, wird über das Plugin eine
+            direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Facebook erhält dadurch die
+            Information, dass Sie mit Ihrer IP-Adresse unsere Seite besucht haben. Wenn Sie den Facebook &quot;Like-Button&quot;
+            anklicken während Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die Inhalte unserer Seiten auf
+            Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten Ihrem Benutzerkonto
+            zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der
+            übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie in
+            der Datenschutzerklärung von facebook unter http://de-de.facebook.com/policy.php Wenn Sie nicht wünschen,
+            dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto zuordnen kann, loggen Sie sich bitte aus
+            Ihrem Facebook-Benutzerkonto aus.   Datenschutzerklärung für die Nutzung von Google Analytics Diese Website
+            benutzt Google Analytics, einen Webanalysedienst der Google Inc. (&quot;Google&quot;). Google Analytics
+            verwendet sog. &quot;Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine
+            Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über
+            Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort
+            gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von
+            Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des
+            Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle
+            IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers
+            dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports
+            über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung
+            verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics
+            von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie
+            können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern;
+            wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser
+            Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie
+            erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die
+            Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare
+            Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de.  
+            Datenschutzerklärung für die Nutzung von Google 1 Erfassung und Weitergabe von Informationen: Mithilfe der
+            Google 1-Schaltfläche können Sie Informationen weltweit veröffentlichen. über die Google 1-Schaltfläche
+            erhalten Sie und andere Nutzer personalisierte Inhalte von Google und unseren Partnern. Google speichert
+            sowohl die Information, dass Sie für einen Inhalt 1 gegeben haben, als auch Informationen über die Seite,
+            die Sie beim Klicken auf 1 angesehen haben. Ihre 1 können als Hinweise zusammen mit Ihrem Profilnamen und
+            Ihrem Foto in Google-Diensten, wie etwa in Suchergebnissen oder in Ihrem Google-Profil, oder an anderen
+            Stellen auf Websites und Anzeigen im Internet eingeblendet werden. Google zeichnet Informationen über Ihre
+            1-Aktivitäten auf, um die Google-Dienste für Sie und andere zu verbessern. Um die Google 1-Schaltfläche
+            verwenden zu können, benötigen Sie ein weltweit sichtbares, öffentliches Google-Profil, das zumindest den
+            für das Profil gewählten Namen enthalten muss. Dieser Name wird in allen Google-Diensten verwendet. In
+            manchen Fällen kann dieser Name auch einen anderen Namen ersetzen, den Sie beim Teilen von Inhalten über Ihr
+            Google-Konto verwendet haben. Die Identität Ihres Google-Profils kann Nutzern angezeigt werden, die Ihre
+            E-Mail-Adresse kennen oder über andere identifizierende Informationen von Ihnen verfügen. Verwendung der
+            erfassten Informationen: Neben den oben erläuterten Verwendungszwecken werden die von Ihnen bereitgestellten
+            Informationen gemäß den geltenden Google-Datenschutzbestimmungen genutzt. Google veröffentlicht
+            möglicherweise zusammengefasste Statistiken über die 1-Aktivitäten der Nutzer bzw. gibt diese an Nutzer und
+            Partner weiter, wie etwa Publisher, Inserenten oder verbundene Websites.   Datenschutzerklärung für die
+            Nutzung von Twitter Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen
+            werden angeboten durch die Twitter Inc., Twitter, Inc. 1355 Market St, Suite 900, San Francisco, CA 94103,
+            USA. Durch das Benutzen von Twitter und der Funktion &quot;Re-Tweet&quot; werden die von Ihnen besuchten
+            Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten
+            an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der
+            übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in
+            der Datenschutzerklärung von Twitter unter http://twitter.com/privacy. Ihre Datenschutzeinstellungen bei
+            Twitter können Sie in den Konto-Einstellungen unter http://twitter.com/account/settings ändern.   Quellen:
+            eRecht24 Disclaimer, eRecht24 Facebook Datenschutzerklärung, Google Analytics Bedingungen,
+            Datenschutzerklärung Google 1, Datenschutzerklärung Twitter   Letzte Aktualisierung: Juni 2013  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/deep-learning</url>
+        <id>FB7B0CBE28FA5356A7A500BD0C227AAE</id>
+        <title>Deep Learning</title>
+        <body>Deep Learning Deep Learning ist ein Teilbereich des maschinellen Lernens und basiert ebenfalls auf einem
+            Set von Algorithmen. Die Datenstruktur stellt hierbei ein künstliches neuronales Netzwerk dar, das eine
+            große Anzahl an Neuronen umfasst, die untereinander Informationen beziehungsweise Datenmengen austauschen.
+            Das System zieht sich hierbei selbstständig Erkenntnisse aus der Analyse von großen Datenbeständen.
+            Praktische Anwendungsbeispiele für Deep Learning sind vollautomatisierte Call Center, selbstfahrende Autos
+            oder Gesichtserkennung bei Fotoprogrammen. Auch NLP – also das Verstehen von natürlichsprachlichen
+            Suchanfragen und die Ausgabe von entsprechenden Ergebnissen – ist ein Anwendungsbeispiel von Deep Learning.
+                   zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/search-ergonomy</url>
+        <id>2E445A02C830DB3AD6FF6D85B79B8BC2</id>
+        <title>Search ergonomy</title>
+        <body>Search ergonomy   The arrangement of the user interface in different areas. Tests have shown that the
+            arrangement of filters or facets is important for the positive valuation and usage of a search.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/morphology</url>
+        <id>B7325C012828590C45F94927B42B284C</id>
+        <title>Morphology</title>
+        <body>Morphology   In linguistics, morphology is a part of grammar. Morphology deals with the internal structure
+            of words and is dedicated to the study of the smallest meaningful and/or functional elements of a language,
+            the morphemes. With regard to this, morphology - based on the term &quot;sentence grammar&quot; for syntax -
+            is also known as &quot;word grammar&quot;. (11/28/2012 Wikipedia)  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/guided-search</url>
+        <id>349F7E293E14AC8401F772AC875306BE</id>
+        <title>Guided Search</title>
+        <body>Guided Search   Guided Search offers help in the search process through functions like the suggestion of
+            search terms or the possibility to set filters. A characteristic of the IntraFind Guided Search is that the
+            user can at any time see how he/she arrived at a certain result and thus can go back as well. Guided Search
+            is particularly used in the Knowledge Map module.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/services_support</url>
+        <id>ABB4DDED0A233BA9D5C3309F4D97D6C4</id>
+        <title>IntraFind Professional Services</title>
+        <body>Service &amp; Support Der Geschäftsbereich IntraFind Professional Services umfasst ein umfangreiches
+            Angebot an Beratungs- und Schulungsdienstleistungen, um Kunden mit den verschiedensten Anforderungen bei der
+            Auswahl, der Implementierung und dem Betrieb ihrer Enterprise Search-Lösungen zu unterstützen. Das Team
+            Professional Services besteht aus langjährig erfahrenen Suchexperten, Software-Entwicklern und nach
+            IPMA-Standards zertifizierten Projektmanagern, die über eine umfassende Marktkenntnis verfügen und sich
+            ausschließlich mit dem Thema Suchtechnologien beschäftigen. Im Fokus steht eine ganzheitliche,
+            professionelle und individuelle Betreuung des Kunden, die auf eine langfristige, vertrauensvolle
+            Zusammenarbeit ausgerichtet ist. IntraFind begleitet beispielsweise die Evaluierungsphase von Unternehmen,
+            die die Neueinführung einer Suchtechnologie planen und unterstützt sie mit fundiertem Produkt-Know-how. Hat
+            der Kunde sich für ein Softwareprodukt entschieden oder verfügt bereits über eine Suchlösung, die qualitativ
+            optimiert oder durch ein neues Produkt abgelöst werden soll (z.B. Google Search Appliance - GSA), kann er
+            auf IntraFinds jahrelange Expertise in der Konzeption und erfolgreichen Umsetzung von Enterprise Search-,
+            Content Analytics- und Wissensmanagement-Projekten zurückgreifen. Der spätere Produktivbetrieb und Support
+            der Suchlösung kann von dem Kunden selbst oder von IntraFind übernommen werden. Für den Aufbau von
+            unternehmensinternem Know-how auf Kundenseite bietet IntraFind ein breitgefächertes Angebot an Schulungen
+            zum erfolgreichen Management von Enterprise Search-Projekten, zum IntraFind Enterprise Search-Produkt
+            iFinder sowie zu Methoden und Verfahren der Textanalyse an.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/entity-recognition</url>
+        <id>78E0D76B1A52DE48058C54CBE7F4F5D7</id>
+        <title>Entity recognition</title>
+        <body>Entity recognition   Recognition of descriptions, meanings, word origins or translations  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/elasticsearch/plugins_services/search_index_service</url>
+        <id>4563227EE9CC98C2B4B4883B4FC789ED</id>
+        <title>Elasticsearch Search&amp;Index Service</title>
+        <body>Search &amp; Index Service Der Index Service erleichtert durch einfach gestaltete Schnittstellen eine
+            schnelle Indizierung großer Datenmengen. Dieser Indizierungsvorgang wurde bereits mit mehr als 200 Mio.
+            Dokumenten auf Basis von Elasticsearch erfolgreich getestet. Der Search Service bietet einfachen Zugang zu
+            den indizierten Daten und bleibt bei einer Suche in großen Datenmengen stets performant. Interessant ist die
+            Abstraktion beider Services von der tatsächlich verwendeten Indizierungstechnologie. Das bietet eine sehr
+            gute Updatefähigkeit oder einen Wechsel der Suchtechnologie ohne Auswirkungen auf die erstellte
+            Benutzeroberfläche in Kauf nehmen zu müssen.   Technische Spezifikation: Betriebssysteme Windows Server
+            2008R2 oder höher sowie Linux Installationsvoraussetzung JAVA 7 und Elasticsearch - Bestandteil des
+            Installationspakets Kombinierbare Dienste: Der Index Service benötigt in der Regel einen vorgeschalteten
+            Extract Service, um die Textinformation aus den Dokumenten zu extrahieren Alle weiteren Services und Plugins
+            können in einer Pipeline orthogonal kombiniert werden Dokumentation: SOA-Begleitdokumentation
+            Beispielimplementierung in Java wird bereitgestellt Demo-Verzeichnis mit einfachen Click&amp;Play-Nutzungsbeispielen
+            Für wen ist der Service interessant: Unternehmen, die mit flacher Lernkurve einen Einstieg in
+            State-of-the-Art Indizierungs-Technologien wünschen und höchste Anforderungen an Ausfallsicherheit und
+            Lastverteilung durch horizontale Skalierung haben Unternehmen mit Informationsdatenbanken, die einen höchst
+            performanten Zugriff auf die Information benötigen Unternehmen, die in eine zukunftssichere Lösung
+            investieren wollen Embedding Partner Elasticsearch Entwickler Solr Entwickler EVALUIERUNGSLIZENZ ANFORDERN
+            &gt;&gt;
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/metadata-generation</url>
+        <id>68A4032219C0DBB7991D71D4158926D2</id>
+        <title>Metadata generation</title>
+        <body>Metadata generation   Existence of characteristics that describe data. Can also be understood as
+            properties of a document, book, etc. Typical metadata for a book includes, for example, the name of the
+            author, the edition, the year of publication, the publishing house and the ISBN. This metadata is often
+            collected manually in companies and entered into the properties of a document. The objective is to simplify,
+            standardize and ultimately automate the metadata generation process through intelligent methods or products.
+             
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/corpus</url>
+        <id>B46CCE894E33B873BC7FAA5FBB549BF3</id>
+        <title>Corpus</title>
+        <body>Corpus   In linguistics, a corpus is a set of (representative) texts or utterances in a particular
+            language. This can for example be used for the training of the text classification product TopicFinder.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/tag-cloud</url>
+        <id>E58FCFD4A7C9D237DDCC7B4B34105A05</id>
+        <title>Tag Cloud</title>
+        <body>Tag Cloud   Summierung von Merkmalsausprägungen, die aufgrund ihrer Größe von Schrift und Form eine
+            Gewichtung wiedergeben. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/tagging-service</url>
+        <id>68431C7E4D622D8054650CB19E466294</id>
+        <title>Tagging Service</title>
+        <body>Tagging Service   Der IntraFind Tagging Service ist ein Produkt zur automatischen Erzeugung von Metadaten
+            aus Dokumenten. Diese können anschließend für weiterführende Prozesse genutzt werden, z.B. für die
+            unternehmensweite Suche. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/connector</url>
+        <id>07073865FBC0C16FF22E62D073AE675D</id>
+        <title>Connector</title>
+        <body>Connector   Connectors provide the connection between the search engine iFinder and the respective end
+            systems such as databases, Microsoft Exchange, Lotus Notes or also the file system. For this they use
+            converters in order to extract the content, for example, from Office documents. Furthermore, the connectors
+            read metadata from the end system in order to enrich the search index.   Connectors regularly update the
+            index. The update can be executed automatically by the operating system in a scheduled task or it can be
+            initiated by the end system itself (near-time indexing).  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/log-file</url>
+        <id>BA724569B876F16D9ABC71C5EDF976CF</id>
+        <title>Log file</title>
+        <body>Log file   A log file contains an automatic log of all or certain actions of processes in a computer
+            system. www.wikipedia.de  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/ifinder5-elastic/nutzenargumente-fuer-unternehmensbereiche</url>
+        <id>E8D6B3D784D20F1755775F2FF2BE807B</id>
+        <title>iFinder5 elastic Zielgruppen</title>
+        <body>Profitieren kann jeder von unserer Suche. Vom einzelnen Anwender bis hin zu ganzen Teams IntraFind
+            beschäftigt sich seit dem Jahr 2000 damit, wie Menschen ihren Arbeitsalltag gestalten. Im Vordergrund liegen
+            dabei alle Prozesse der Informationsbeschaffung. Welche Tools nutzen Mitarbeiter für Ihre Suche nach
+            wichtigen Dokumenten und wie gehen sie dabei vor. Das Ergebnis ist unsere Suchmaschine speziell für
+            Unternehmenszwecke entwickelt, die viele Vorgehens- und Denkweisen der Informationssuche einbezieht. In
+            unseren Beispielen erläutern wir Ihnen einige wichtige Gruppierungen, Abteilungen innerhalb eines
+            klassischen Unternehmens. Abteilungsübergrei­fende Nutzenvorteile Von der einfachen Suche bis hin zum
+            Informationscenter. Abteilungen profitieren von der Auflösung von Informationssilos und kollaborativen
+            Instrumenten... Lesen Sie mehr Fachabteilungen - generisch Suche über alle Laufwerke / File Systeme hinweg
+            erlaubt einen ganzheitlichen Blick in die Inhalte bereits erstellter Dokumente... Erfahren Sie mehr Research
+            &amp; Development Recherchearbeiten, Zusammenhänge erkennen, Wichtiges nicht übersehen - mit dem iFinder5
+            elastic haben Sie die ideale Unterstützung für Ihre Arbeit. Weiterlesen Kundensupport &amp; Customer Service
+            Erleichtern Sie Ihren Kunden und Mitarbeitern den Zugang zu Service-Informationen, Lösungsansätzen oder
+            FAQ-Hilfen. Optimieren Sie die Produktivität Ihres Kundenservice, Helpdesk oder After Sales Service. Jetzt
+            optimieren Web Development &amp; Portale Sie verantworten für Ihr Unternehmen Intranet, Extranet sowie
+            Portalanwendungen? Vielleicht betreuen Sie auch die Unternehmenswebseite? Dann lesen Sie, wie der iFinder5
+            elastic Ihre Leser unterstützt. Weiterführende Informationen IT-Abteilungen IntraFind Experten unterstützen
+            und begleiten Suchprojekte nachhaltig - von der Konzeptphase bis zum Go-Live. Erfahren Sie mehr
+        </body>
+    </Document>
+</documents>

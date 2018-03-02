@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Simple Site Search",
+  "short_name": "Site Search",
+  "version": "1.0.5",
+  "description": "Search for websites",
+  "icons": {
+    "128": "icons/128x128-icon.png",
+    "16": "icons/16x16-icon.png"
+  },
+  "container": [
+    "DOMAIN_INSTALLABLE"
+  ],
+  "api_console_project_id": "499265043862",
+  "app": {
+    "launch": {
+      "web_url": "https://api.sitesearch.cloud"
+    }
+  }
+}

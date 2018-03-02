@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finder/finder.iml" filepath="$PROJECT_DIR$/.idea/modules/finder/finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gadget/gadget.iml" filepath="$PROJECT_DIR$/.idea/modules/gadget/gadget.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/if-sitesearch.iml" filepath="$PROJECT_DIR$/.idea/modules/if-sitesearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service.iml" />
     </modules>
   </component>
 </project>

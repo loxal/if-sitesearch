@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<!--
+  ~ Copyright 2018 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Getting Started - Site Search</title>
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Open+Sans:100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic,100,200,300,400,500,600,700,800,900"
+          media="all">
+    <link rel="stylesheet" type="text/css" href="https://api.sitesearch.cloud/theme/font/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
+
+    <script src="tippy.all.min.js"></script>
+    <script src="/app/runtime/kotlin.js"></script>
+    <script src="/app/gadget/gadget.js"></script>
+    <script>
+        var captchaLoad = function () {
+            captchaWidget = grecaptcha.render("captcha", {
+                "sitekey": gadget.com.intrafind.sitesearch.gadget.SiteSearch.Companion.captchaSiteKey,
+                "callback": gadget.com.intrafind.sitesearch.gadget.verifyCallback
+            });
+        };
+    </script>
+</head>
+
+<body>
+
+<h2>Site Search Gadget</h2>
+<p>
+    This gadget is <strong>all you need, to get up and running with Site Search</strong>.
+    Just provide the URL of the website you want to search, and see if the results satisfy your expectations.
+    After an evaluation period, you can decide whether you want to subscribe to Site Search to continue using this
+    website search service.
+</p>
+
+<div class="wrapper">
+    <div class="form-inline" id="websiteUrl-container">
+        <label for="url">
+            <span class="fa fa-wordpress"></span>
+            Website URL
+        </label>
+        <div class="tipsy-container">
+            <input type="text" id="url"
+                   placeholder="Website URL, e.g. https://sitesearch.cloud"
+                   value="https://sitesearch.cloud">
+            <div class="tipsy"
+                 title="Provide the URL of your website to create an initial index for your website.">
+            </div>
+            <div class="subline">Up to 500 pages of a website are crawled in this <strong>evaluation
+                mode</strong></div>
+        </div>
+    </div>
+    <div class="form-inline" id="email-container">
+        <label for="email">
+            <span class="fa fa-envelope-o"></span>
+            E-mail
+        </label>
+        <div class="tipsy-container">
+            <input type="text" id="email"
+                   placeholder="search.integrator@example.com"
+                   value="">
+            <div class="tipsy"
+                 title="E-mail address to receive all integration data, incl. Site Secret."></div>
+        </div>
+    </div>
+    <div class="form-inline" id="siteId-container">
+        <label for="siteId">
+            <span class="fa fa-key"></span>
+            Site ID
+        </label>
+        <div class="tipsy-container">
+            <div id="siteId" class="output">Will be generated...</div>
+            <div class="tipsy"
+                 title="The <a href='https://sitesearch.cloud/faq'>Site ID</a> is the public identifier that is required by Site Search to provide you with search results, specific to your site.">
+            </div>
+        </div>
+    </div>
+    <div class="form-inline" id="siteSecret-container">
+        <label for="siteSecret">
+            <span class="fa fa-user-secret"></span>
+            Site Secret
+        </label>
+        <div class="tipsy-container">
+            <div id="siteSecret" class="output">Will be generated...</div>
+            <div class="tipsy"
+                 title="The Site Secret is the confidential secret that is required to modify, i.e. update your index and delete pages."></div>
+        </div>
+    </div>
+</div>
+
+<div id="captcha"></div>
+<div class="button-wrapper">
+    <button id="index" class="button-wrapper" title="Extract content from website"
+            onclick="gadget.com.intrafind.sitesearch.gadget.triggerFirstUsageOwnership()"
+            disabled>
+        Enable Search
+    </button>
+</div>
+<div id="siteSearchSetupUrl"
+     title="The copied URL contains all information you need, to resume your evaluation or setup the search on your website"></div>
+<!--<input-->
+<!--style="width:1px"-->
+<!--type="text" id="searchSetupUrl" readonly title="Site Search Setup URL"-->
+<!--&gt;-->
+<!--<input id="preserveSearchSetup"-->
+<!--type="button"-->
+<!--onclick="gadget.com.intrafind.sitesearch.gadget.preserveSearchSetup()"-->
+<!--title="The copied URL contains all information you need, to resume your evaluation or setup the search on your website"-->
+<!--style="width: 275px;"-->
+<!--value="Copy search setup URL to evaluate it later"-->
+<!--disabled-->
+<!--&gt;-->
+<!--<br>-->
+
+<div style="display: none;">
+    <input id="overrideSiteId"
+           title="Leave it blank if you do not know what this means."
+           placeholder="Site ID to use for all Site Search requests" style="width: 306px;">
+    <button
+            onclick="gadget.com.intrafind.sitesearch.gadget.overrideSite(document.getElementById('overrideSiteId').value)"
+            title="Site ID Cookie overrides the Site ID which is specified in the initialization code for all requests to Site Search."
+            style="width: 217px;">
+        Override with Site ID Cookie
+    </button>
+</div>
+
+<h3 id="search">
+    Search your website
+    <span class="tipsy"
+          title="Here you can find content from the site you just indexed."></span>
+</h3>
+<p>
+    Here you can search for content from the site you have provided above.
+    This way you can <strong>evaluate the Site Search before embedding it anywhere</strong>.
+    Please consider a delay of up to a few minutes until your site becomes fully searchable.
+</p>
+
+<!--&lt;!&ndash;TODO style this as a warning&ndash;&gt;-->
+<!--<p class="sis-modal" id="sis.warning" style="display: none; color: #911"></p>-->
+<!--BEGIN "Search Bar Integration Code"-->
+<div id="sitesearch-searchbar" class="searchbar">
+    <link rel="stylesheet" type="text/css"
+          href="https://cdn.sitesearch.cloud/searchbar/2018-01-15/app/css/app.css"/>
+    <div class="container">
+        <div id="searchbar"></div>
+        <div id="resultlist"></div>
+    </div>
+
+    <!--Place the integration code below, at the very end of your HTML document.-->
+    <script src="https://cdn.sitesearch.cloud/searchbar/2018-01-15/app/js/app.js"></script>
+    <script>
+        IFS.jQuery.noConflict();
+        IFS.jQuery(document).ready(function ($) {
+            IFS.initClient({
+                customConfig: {
+                    overwrite: {
+                        "appLang": "en"
+                    }
+                },
+                sbTarget: "#searchbar",
+                configurl: "/searchbar/2018-01-15/config/sitesearch.json",
+                sitesearch: true,
+                withCredentials: false,
+                siteId: "4bcccea2-8bcf-4280-88c7-8736e9c3d15c"
+            });
+        });
+    </script>
+</div>
+<!--END "Search Bar Integration Code"-->
+
+<h3 id="addToWebsite">
+    Add Site Search to your website
+    <span class="tipsy"
+          title="Include this snippet into your website to embed the searchbar that you see above into your website."></span>
+</h3>
+<p>
+    You need to <strong>embed this HTML snippet into your website</strong>, in order to make the search, you
+    just tested above, available on your website.
+    Adjusting the layout, colors, and general design of the search bar is as easy as styling any other part
+    of your website.
+    If you have any other specific questions, consider reading our <a href="https://sitesearch.cloud/faq"
+                                                                      target="_top">FAQ</a>.
+</p>
+<br>
+
+<textarea id="integration-code"
+          title="Integration code to be inserted into your website to include a search bar"></textarea>
+
+<script>
+    tippy('.tipsy', {
+        arrow: true,
+        trigger: 'click'
+    });
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=captchaLoad&render=explicit&hl=en" async defer></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<li class="media ifs-tpl-person {{#if mobilePhoneState}}tpl-mobile{{/if}}" data-favorite="{{favoredString}}" data-index="{{integer}}" data-score="{{score}}">
+
+    <div class="ifs-favorite-label {{#if favoredBool}} state-true {{/if}}">
+        <i class="glyphicons glyphicons-star"></i>
+    </div>
+
+    {{#if mobilePhoneState}}
+    <div class="ifs-swipe-area">
+    {{/if}}
+    <div class="media-left">
+        <div class="avatar">
+            <img class="ifs-avatar-img" src="{{authenticateIfJWTPresent thumbnail}}">
+        </div>
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading ifs-dont-break">
+            {{#if text}}
+                <a href="javascript:void(0);" data-action="show-detail" data-target="self">{{{title}}}</a>
+            {{else}}
+                {{{title}}}
+            {{/if}}
+        </h4>
+        <div class="flex-truncate">
+            <p>
+                {{{jobtitle}}}
+            </p>
+        </div>
+        <div class="ifs-person-info-short">
+            {{#if phone}}
+                <a href="tel:{{phoneClean}}" class="truncate">
+                    <i class="glyphicons glyphicons-earphone" aria-hidden="true"></i> <span>{{phone}}</span>
+                </a>
+            {{/if}}
+            {{#if mobile}}
+                <a href="tel:{{mobileClean}}" class="truncate">
+                    <i class="glyphicons glyphicons-iphone" aria-hidden="true"></i> <span>{{mobile}}</span>
+                </a>
+            {{/if}}
+            {{#if email}}
+                <a href="mailto:{{email}}">
+                    <div class="flex-truncate">
+                        <p>
+                            <i class="glyphicons glyphicons-envelope" aria-hidden="true"></i> <span>{{email}}</span>
+                        </p>
+                    </div>
+                </a>
+            {{/if}}
+        </div>
+    </div>
+    {{#if mobilePhoneState}}
+        </div>
+    {{/if}}
+
+
+    {{#if hitMenu}}
+        {{{hitMenu}}}
+    {{/if}}
+
+
+    <div class="ifs-rl-detail">
+        {{#if text}}
+            <p>{{{text}}}</p>
+        {{/if}}
+    </div>
+</li>

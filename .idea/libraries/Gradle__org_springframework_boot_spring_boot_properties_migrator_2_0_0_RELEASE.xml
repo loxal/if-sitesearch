@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-properties-migrator:2.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-properties-migrator/2.0.0.RELEASE/189c7b2780250d6812ea35ca6569c77e388d1fe/spring-boot-properties-migrator-2.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-properties-migrator/2.0.0.RELEASE/a4b502e474976d03009802ef29b0a985d9dafa11/spring-boot-properties-migrator-2.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

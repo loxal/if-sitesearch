@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--
+  ~ Copyright 2017 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<meta charset="utf-8"/>
+<h1>IT</h1>
+<p>Bitte löschen Sie Cookies für api.sitesearch.cloud</p>
+<link rel="stylesheet" href="https://api.sitesearch.cloud/searchbar/css/app.css"/>
+<div id="searchbarContainer">
+    <div class="container" style="width: 530px;">
+        <div id="searchbar"></div>
+        <div id="resultlist"></div>
+    </div>
+
+    <script src="https://api.sitesearch.cloud/searchbar/js/app.js"></script>
+    <script>
+        jQuery.noConflict();
+        jQuery(document).ready(function ($) {
+            IFS.initClient({
+                customConfig: {
+                    overwrite: {
+                        "appLang": "it"
+                    }
+                },
+                sbTarget: "#searchbar",
+                configurl: "https://api.sitesearch.cloud/searchbar-config/sitesearch-config.json",
+                sitesearch: true,
+                siteId: "23cdca21-69cc-45f2-ab38-6f76dc989ab1"
+            });
+        });
+    </script>
+</div>

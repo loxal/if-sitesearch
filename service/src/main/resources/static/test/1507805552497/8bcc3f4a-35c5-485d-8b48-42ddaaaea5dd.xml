@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!--
+  ~ Copyright 2017 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<documents count="2">
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/text-mining</url>
+        <id>8A49837C36B40546FEF387E12C12EDAC</id>
+        <title>Text Mining</title>
+        <body>Text Mining   Die Gewinnung aussagekräftiger Informationseinheiten aus Texten, wie beispielsweise
+            Entitäten, Schlüsselwörter oder Dokumenttypen. Text Mining geschieht lokal auf Dokumenten-, Seiten-, Absatz-
+            oder Satzebene.   Mit Text Mining bezeichnet man die Erschließung unstrukturierter Texte, die auf der
+            Anwendung statistischer und linguistischer Verfahren beruht. Das Ziel der Textanalyse ist die Erkennung von
+            Themen und Kernbotschaften, die einen Anwender beispielsweise in die Lage versetzen sollen, sich einen Text
+            schnell zu erschließen und dessen wichtigste Informationen auf einen Blick zu erfassen.   Oft fällt im
+            Zusammenhang mit Text Mining auch der Begriff Clustering - Texte werden nach ihrer inhaltlichen Ähnlichkeit
+            gruppiert und zu sogenannten Clustern zusammengefasst. Ein einfaches Beispiel aus der Praxis sind mögliche
+            Cluster zu dem Begriff &quot;Mars&quot; - je nachdem, ob von dem Schokoriegel oder von dem Planeten Mars die
+            Rede ist. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/blog/wie-die-semantische-suche-vom-knowledge-graph-profitiert</url>
+        <id>68146B2CBBD1ABD9D38B732ED0A08DBD</id>
+        <title>Wie die Semantische Suche vom Knowledge Graph profitiert</title>
+        <body>Wie die Semantische Suche vom Knowledge Graph profitiert Wie die Semantische Suche vom Knowledge Graph
+            profitiert Vom Knowledge Graph hat wohl jeder von uns schon einmal bewusst oder unbewusst profitiert: Gibt
+            man bei Google zum Beispiel den Suchbegriff „München“ ein, erscheint in der Trefferliste nicht nur eine
+            Aufzählung von Webseiten mit dem entsprechenden Suchbegriff. Im oberen Bereich werden auch die aktuellsten
+            Schlagzeilen angezeigt, in der rechten Spalte sieht der Nutzer auf einem Blick, welche Events oder Konzerte
+            es demnächst in der Stadt geben wird und wie das Wetter dort gerade ist. Ein Textausschnitt aus Wikipedia
+            liefert außerdem eine kurze Info über Einwohnerzahl und Fläche. Den Knowledge Graph hat Google 2012
+            eingeführt. Durch ihn erhält der Nutzer seine Suchergebnisse zu einem bestimmten Thema grafisch aufbereitet
+            und kompiliert. Inzwischen hat auch Facebook nachgezogen und bietet Mitgliedern die Suchergebnisse in
+            ähnlicher Darstellungsform an. Suche wird Informationslieferant Viele Enterprise Suchmaschinen, so wie auch
+            der iFinder5 elastic, bieten bereits die Semantische Suche als Erweiterung an. Dadurch hat der Nutzer die
+            Möglichkeit, sich beispielsweise über eine Tag Cloud weitere Begriffe anzeigen zu lassen, die thematisch zu
+            seiner Suchanfrage passen. Der Knowledge Graph als Teil der Semantischen Suche geht einen Schritt weiter und
+            macht die Suche zum Informationslieferant. Die Suchmaschine soll nicht einfach nur die Dokumente, sondern
+            Inhalte präsentieren. Der Knowledge Graph holt sich die Informationen aus verschiedenen Quellen. Er
+            verknüpft strukturierte Informationen mit unstrukturierten Datenmengen. Dazu können Webseiten oder Social
+            Media Portale gehören, aber auch andere Datenquellen, die an die Suchanwendung angebunden sind, wie
+            ERP-Systeme oder E-Mailprogramme. Daher ist der Knowledge Graph insbesondere für Enterprise Search
+            Anwendungen interessant: Wissensarbeiter müssen schnell an Informationen gelangen, um die richtige
+            Entscheidung für das Unternehmen zu treffen. Dafür sollten sie nicht erst die komplette Trefferliste nach
+            dem gewünschten Ergebnis durchforsten müssen. Interpretation der Suchanfrage Die Suchmaschine soll wissen,
+            was ich meine: Wenn ich nach „Mixer“ suche, meine ich entweder das Küchengerät oder die Studiotechnik. Der
+            Mehrwert des Knowledge Graphs ist es, dass er im Context der Suchanfrage die Ergebnisse präsentiert, die zu
+            dem Nutzer passen könnten. Der Knowledge Graph liefert nicht nur Antworten, sondern ist auch in der Lage zu
+            interpretieren, was mit der Suchanfrage, der Query, gemeint ist. Die Semantische Suche über den Knowledge
+            Graph liefert nicht nur weitere Objekte als Treffer, sie bietet auch eine Erweiterung durch Verwendung
+            verwandter Konzepte an: Die Suchmaschine ist dadurch in der Lage, dem Benutzer Wahlmöglichkeiten und
+            Alternativen vorzuschlagen, zum Beispiel: Meinten Sie mit „Boxer“ den Hund oder den Sportler? In der
+            Fachsprache nennt man das Disambiguierung und Query Intent Detection. In professionellen Enterprise Search
+            Anwendungen bietet der Knowledge Graph dadurch den Mitarbeitern eine optimale Möglichkeit, die
+            Suchergebnisse neu zu filtern und zu erweitern und auf Bereiche auszudehnen, die er vorher nicht in Betracht
+            gezogen hat.     Der Autor Breno Faria, Head of Development, ist seit 2012 für die IntraFind Software AG
+            tätig. Seit den späten 2000er Jahren beschäftigt er sich intensiv mit den Themen Content Analytics und
+            Information Retrieval. 2015 übernahm er die Rolle des Entwicklungsleiters bei IntraFind.   Im Rahmen von
+            Veranstaltungen, z.B. Berlin Buzzwords 2014 oder &quot;IntraFind Enterprise Search Day 2015&quot;, referiert
+            er regelmäßig über neue Technologien oder präsentiert innovative Lösungen aus IntraFind Kundenprojekten.
+        </body>
+    </Document>
+</documents>

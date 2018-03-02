@@ -1,0 +1,137 @@
+{
+  "ajax": {
+    "baseUrl": "https://api.sitesearch.cloud/sites/{{siteId}}/",
+    "endpointSearch": "search",
+    "start": 0,
+    "limit": 20
+  },
+  "localstorage": {
+    "storagePrefix": "ifs_"
+  },
+  "components": {
+    "searchbar": {
+      "templatesUrl": "https://cdn.sitesearch.cloud/searchbar/2017-12-14/config/sitesearch.hbs",
+      "inputMaxLength": 250,
+      "typeaheadProps": {
+        "maxItemPerGroup": 4,
+        "loadingAnimation": false,
+        "hint": true,
+        "highlight": false,
+        "filter": false,
+        "searchOnFocus": false,
+        "delay": 0,
+        "minLength": 0,
+        "maxItem": 0,
+        "backdrop": {
+          "background-color": "#000000",
+          "opacity": "0.3",
+          "filter": "alpha(opacity=30)"
+        }
+      },
+      "categories": [
+        "autocomplete"
+      ],
+      "facets": {
+        "template": "app/templates/default/filters.hbs",
+        "visible": false,
+        "enabled": false,
+        "searchable": [
+        ]
+      },
+      "searchbar_template": "app/templates/default/searchbar.hbs",
+      "group_template": "app/templates/default/groups.hbs",
+      "roles": {
+        "url": "https://cdn.sitesearch.cloud/searchbar/2017-12-14/config/sitesearch-roles.json"
+      },
+      "indexfields": {
+        "template": "app/templates/default/indexfields.hbs"
+      },
+      "resultlist": {
+        "scrollContainer": "window",
+        "scrollReloadsBeforeButtonAppears": -1,
+        "templates": {
+          "resultlistWrapper": "app/templates/default/resultlist/resultlist-wrapper.hbs",
+          "resultlistContainer": "app/templates/default/resultlist/resultlist-container.hbs",
+          "resultlistHeader": "app/templates/sitesearch/resultlist/resultlist-header.hbs",
+          "didyoumean": "app/templates/default/resultlist/didyoumean.hbs",
+          "noresults": "app/templates/default/resultlist/noresults.hbs",
+          "filterbar": "app/templates/default/filterbar.hbs",
+          "modalTemplate": "app/templates/default/previewmodal.hbs",
+          "previewContainer": "app/templates/default/preview.hbs",
+          "hitMenu": "app/templates/default/resultlist/hit-menu.hbs"
+        },
+        "initialConnector": "all",
+        "multiple": true,
+        "showHeader": true,
+        "isQuerySharedBetweenTabs": true,
+        "connectors": {
+          "all": {
+            "title": "ifs.category.all",
+            "query": {
+              "filter": {
+              }
+            }
+          },
+          "websites": {
+            "title": "ifs.category.websites",
+            "query": {
+              "filter": {
+                "++_str.connector": [
+                  "crawler"
+                ]
+              }
+            },
+            "facetWhitelist": [
+              "_facet.author"
+            ]
+          }
+        },
+        "resulttype": {
+          "all": {
+            "title": "ifs.category.all",
+            "hitTemplate": "facets-template",
+            "showMenu": false
+          },
+          "crawler": {
+            "title": "ifs.category.websites",
+            "hitTemplate": "app/templates/default/resultlist/crawler.hbs",
+            "showMenu": true,
+            "menuItems": [
+              "forward",
+              "favorite"
+            ]
+          }
+        }
+      },
+      "searchdropdown": {
+        "updateOnClick": false,
+        "categories": {
+          "autocomplete": {
+            "name": "autocomplete",
+            "wrapperTemplate": "app/templates/default/swyt/autocomplete-wrapper.hbs",
+            "itemTemplate": "app/templates/default/swyt/term.hbs",
+            "display": [
+              "term"
+            ],
+            "delay": 50,
+            "minLength": 3,
+            "searchOnClick": true,
+            "type": "autocomplete"
+          }
+        }
+      },
+      "tagsMaxLength": 3
+    }
+  },
+  "plugins": {
+    "css": [],
+    "js": []
+  },
+  "langUrlPrefix": "https://cdn.sitesearch.cloud/searchbar/2017-12-14/app/data/language/",
+  "iconPath": "searchbar/img/filetypes",
+  "lyncIconPath": "searchbar/img/shared/lync",
+  "defaultLang": "en",
+  "appLang": "en",
+  "rootDir": ".",
+  "debug": false
+}

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!--
+  ~ Copyright 2018 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<html lang="en">
+<meta charset="utf-8"/>
+<title>Site Search</title>
+<link rel="stylesheet" type="text/css" href="searchbar/css/app.css"/>
+<link rel="stylesheet" type="text/css" href="theme/font/css/font-awesome.min.css"/>
+
+<script>
+    const setFeedUrl = function () {
+//        document.getElementById("feedUrl").setAttribute("value", window.location.href);
+    };
+
+    const triggerFirstUsageOwnership = function (feedUrl) {
+        const xhr = new XMLHttpRequest();
+        xhr.open("PUT", "https://api.sitesearch.cloud/sites/rss?feedUrl=" + feedUrl);
+        xhr.onload = function () {
+            const siteId = JSON.parse(this.response)["siteId"];
+            document.getElementById("siteId").value = siteId;
+            document.cookie = "override-site = " + siteId;
+            document.getElementById("siteSecret").value = JSON.parse(this.response)["siteSecret"];
+        };
+        xhr.send();
+    }
+</script>
+
+<style>
+    label {
+        font-weight: bold;
+    }
+
+    .wrapper {
+        display: grid;
+        grid-template-columns: 130px 400px;
+    }
+
+    label, input {
+        font-weight: bold;
+        border-radius: .1em;
+        border: 2px;
+    }
+
+    label {
+        font-weight: normal;
+    }
+
+    #index {
+        text-align: center;
+        font-weight: bold;
+        width: 530px;
+    }
+</style>
+<body onload="setFeedUrl(); setSetId();">
+<h1 style="font-size: 2em;"><span class="fa fa-search"></span> Simple Site Search</h1>
+<div class="wrapper">
+    <label for="feedUrl"><span class="fa fa-rss"></span> Feed URL</label>
+    <input id="feedUrl" placeholder="Feed URL, e.g. http://intrafind.de/share/enterprise-search-blog.xml"
+           value="http://intrafind.de/share/enterprise-search-blog.xml">
+    <label for="siteId"><span class="fa fa-key"></span> Site ID</label>
+    <input id="siteId" placeholder="Site ID">
+    <label for="siteSecret"><span class="fa fa-user-secret"></span> Site Secret</label>
+    <input id="siteSecret" placeholder="Site Secret">
+</div>
+<button id="index" class="fa fa-cogs"
+        style="height: 1.5em; font-size: 2em;"
+        onclick="triggerFirstUsageOwnership(document.getElementById('feedUrl').value)">
+    Enable Search
+</button>
+
+<div class="container" style="margin-top:22px; width: 530px;">
+    <div id="searchbar"></div>
+    <div id="resultlist"></div>
+</div>
+
+<script src="searchbar/js/app.js"></script>
+<script>
+    jQuery.noConflict();
+    jQuery(document).ready(function ($) {
+
+        IFS.initClient({
+            sbTarget: "#searchbar",
+            configurl: "searchbar-config/sitesearch-config.json",
+            sitesearch: true,
+            siteId: "4bcccea2-8bcf-4280-88c7-8736e9c3d15c"
+        });
+    });
+</script>

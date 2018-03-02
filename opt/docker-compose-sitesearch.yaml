@@ -1,0 +1,74 @@
+version: "2.0"
+services:
+
+  sitesearch-search-service:
+    image: intrafind/sitesearch-search-service:latest
+    container_name: sitesearch-search-service
+    restart: always
+    depends_on:
+      - sitesearch-elasticsearch
+      - sitesearch-elasticsearch-1
+      - sitesearch-elasticsearch-quorum
+    networks:
+      - sitesearch
+
+  sitesearch-search-service-1:
+    image: intrafind/sitesearch-search-service:latest
+    container_name: sitesearch-search-service-1
+    restart: always
+    depends_on:
+      - sitesearch-elasticsearch
+      - sitesearch-elasticsearch-1
+      - sitesearch-elasticsearch-quorum
+    networks:
+      - sitesearch
+
+  sitesearch-elasticsearch:
+    image: intrafind/sitesearch-elasticsearch:latest
+    container_name: sitesearch-elasticsearch
+    restart: always
+    environment:
+      - unicast_hosts=sitesearch-elasticsearch:9300, sitesearch-elasticsearch-1:9300, sitesearch-elasticsearch-quorum:9300
+      - minimum_master_nodes=2
+#      - cluster.name=elasticsearch
+#      - bootstrap.memory_lock=true
+#      - "ES_JAVA_OPTS=-Xms512m -Xmx1g"
+#      - "discovery.zen.ping.unicast.hosts=ops-elasticsearch" # TODO replace unicast_hosts with THIS?
+    volumes:
+      - $HOME/srv/sitesearch-elasticsearch/data:/home/app_user/data:rw
+    networks:
+      - sitesearch
+
+  sitesearch-elasticsearch-1:
+    image: intrafind/sitesearch-elasticsearch:latest
+    container_name: sitesearch-elasticsearch-1
+    restart: always
+    environment:
+      - unicast_hosts=sitesearch-elasticsearch:9300, sitesearch-elasticsearch-1:9300, sitesearch-elasticsearch-quorum:9300
+      - minimum_master_nodes=2
+    volumes:
+      - $HOME/srv/sitesearch-elasticsearch-1/data:/home/app_user/data:rw
+    networks:
+      - sitesearch
+
+  sitesearch-elasticsearch-quorum:
+    image: intrafind/sitesearch-elasticsearch:latest
+    container_name: sitesearch-elasticsearch-quorum
+    restart: always
+    environment:
+      - unicast_hosts=sitesearch-elasticsearch:9300, sitesearch-elasticsearch-1:9300, sitesearch-elasticsearch-quorum:9300
+      - minimum_master_nodes=2    
+      - ELASTICSEARCH_NODE_DATA=false
+    volumes:
+      - $HOME/srv/sitesearch-elasticsearch-quorum/data:/home/app_user/data:rw
+    networks:
+      - sitesearch
+
+#volumes:
+#  sitesearch-elasticsearch:
+#    driver: local
+
+networks:
+  sitesearch:
+    external:
+      name: sitesearch

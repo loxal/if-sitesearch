@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.jcr:jcr:2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.jcr/jcr/2.0/8297216bcfe4aea369ed6ee0d1718133f752e97/jcr-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.jcr/jcr/2.0/42687afa89e5f08b7d6bb12f17ae98c99303821e/jcr-2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

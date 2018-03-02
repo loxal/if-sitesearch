@@ -1,0 +1,39 @@
+<div id="ifs-dp-wrapper" class="ifs-component">
+    <div class="ifs-dp-window">
+        <div class="ifs-dp-header">
+            <div class="ifs-dp-actions">
+                <div class="dropdown">
+                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="if-dropdown" aria-haspopup="true" aria-expanded="true">
+                        <i class="glyphicons glyphicons-option-vertical"></i>
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu-left bullet pull-left" aria-labelledby="dropdownMenu1">
+                        <li data-action="open-document">
+                            <a href="{{hitUrl}}" target="_blank">
+                                <i class="glyphicons glyphicons-new-window"></i>
+                                <span data-globalize="ifs.btn.open"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="ifs-dp-close">
+                <button type="button" class="btn btn-default" data-action="close-modal">
+                    <i class="glyphicons glyphicons-remove-2"></i>
+                </button>
+            </div>
+        </div>
+
+        <div class="ifs-dp-body ifs-dp-body-custom">
+            <!--<div class="ifs-dp-imagewrapper-custom text-center">-->
+            <div class="text-center">
+                <iframe class="ifs-custom-preview ifs-dp-imagewrapper-custom"
+                        src="{{customPreviewUrl}}"
+                        frameborder="0"
+                        width="650px"
+                        height="650px"></iframe>
+                <!--<img class="ifs-custom-preview"-->
+                    <!--src="https://static.mfah.com/app/images/a1073f8a-4f76-46b9-95fa-0e6d80a4641c.jpg"></img>-->
+            </div>
+        </div>
+    </div>
+</div>

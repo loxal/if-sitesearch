@@ -1,0 +1,104 @@
+<div id="ifs-sb-wrapper" class="ifs-component">
+    <div id="ifs-sb-wrapper-child">
+
+        <form id="if-search" class="results" name="if-search" onsubmit="javascript:void(0);" >
+            <div class="typeahead__container">
+                <div class="input-group">
+
+                        {{#if sources.roleExists}}
+                            <div class="input-group-btn">
+                                <button type="button" id="ifs-sb-btn-sources" class="btn btn-default ifs-btn-sources"  data-toggle="if-dropdown" aria-haspopup="true" aria-expanded="true"  data-globalize="ifs.btn.sources" data-globalize-target="title" title="">
+                                    <span class="current-source hidden-xs" data-value="{{sources.default.value}}">{{sources.default.name}}</span> <span class="caret"></span>
+                                </button>
+                                <ul id="ifs-sb-sources" class="dropdown-menu bullet pull-left" aria-labelledby="dropdownMenu1">
+                                    {{#each sources.sourcesList}}
+                                        <li {{#if default}}class="active"{{/if}}><a href="javascript:void(0);" data-value="{{value}}">{{name}}</a></li>
+                                    {{/each}}
+                                </ul>
+                            </div>
+                        {{/if}}
+
+                        <div class="ifs-sb-centerfield">
+                            <div class="typeahead__field">
+                                <span class="typeahead__query">
+                                    <input id="ifs-sb-searchfield" data-action="search-enter" class="form-control ifs-input-searchfield js-typeahead-input" name="q" type="search" maxlength="{{inputMaxLength}}" autocomplete="off" {{#if inputHint}} data-globalize="{{inputHint}}" data-globalize-target="placeholder" placeholder="" {{/if}}/>
+                                </span>
+                            </div>
+                        </div>
+
+
+                        <div class="input-group-btn typeahead__button">
+                            <button type="submit" class="btn btn-default ifs-btn-perform-search" id="ifs-perform-search" data-globalize="ifs.btn.search" data-globalize-target="title" title=""  data-action="search-button">
+                                <i class="glyphicons glyphicons-search" aria-hidden="true"></i>
+                            </button>
+
+                            {{#if settings}}
+                                {{#if settingsList.length}}
+                                    <button type="button" data-comp-id="ifs-sb-settings" class="btn btn-default ifs-btn-settings" data-globalize="ifs.btn.settings" data-globalize-target="title" title="">
+                                        <i class="glyphicons glyphicons-cogwheel" aria-hidden="true"></i>
+                                    </button>
+
+                                {{/if}}
+                            {{/if}}
+
+                        </div>
+
+
+
+                    {{#if settings}}
+                        {{#if settingsList.length}}
+                                    <ul data-comp-id="ifs-settings-field" class="dropdown-menu ifs-field-settings" aria-labelledby="dropdownMenu2">
+                                        <li id="ifs-settingsdialog">
+                                            <div class="ifs-settings-header">
+                                                <h5>
+                                                    <span data-globalize="ifs.btn.settings"></span>
+                                                    {{#if linkToHelpPage}}
+                                                    <a href="{{linkToHelpPage}}" target="_blank" class="ifs-settings-help">
+                                                        <i class="glyphicons glyphicon-question-sign"></i>
+                                                    </a>
+                                                    {{/if}}
+                                                    <a href="javascript:void(0);" class="ifs-settings-close" data-globalize="ifs.btn.close" data-globalize-target="title" title="">
+                                                        <i class="glyphicons glyphicons-remove-2"></i>
+                                                    </a>
+                                                </h5>
+                                            </div>
+                                            <div class="ifs-settings-content">
+                                                {{#each settingsList}}
+                                                    {{#if options}}
+                                                    <div class="ifs-settings-section" data-ifs-settings-area="{{area}}">
+                                                        <h6 data-globalize="{{headline}}" class="ellipsis"></h6>
+                                                        <div class="ifs-options-wrapper">
+                                                            {{#each options}}
+                                                                <div class="{{type}}">
+                                                                    <label>
+                                                                        <input type="{{type}}" name="{{name}}" data-ifs-action-id="{{actionId}}" value="{{value}}" {{state}}>
+                                                                        <span data-globalize="{{label}}"></span>
+                                                                        <div class="ifs-{{type}}-indicator"></div>
+                                                                    </label>
+                                                                </div>
+                                                            {{/each}}
+                                                        </div>
+                                                    </div>
+                                                    {{/if}}
+                                                {{/each}}
+                                            </div>
+                                        </li>
+                                    </ul>
+                        {{/if}}
+                    {{/if}}
+
+                </div>
+
+                <div id="ifs_requestError" class="disabled alert alert-warning" data-toggle="tooltip" title="{{msg 'ifs.text.safemode.explanation'}}">
+                    <p class="ifs_requestError_message">{{msg 'ifs.text.safemode.notice'}}</p>
+                </div>
+            </div>
+        </form>
+
+        {{#if fieldBasedSearch}}
+            <div id="ifs-index-fields"></div>
+        {{/if}}
+
+        <div id="ifs-rl-modal"></div>
+    </div>
+</div>

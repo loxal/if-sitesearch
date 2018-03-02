@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.jackrabbit:jackrabbit-jcr-rmi:2.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.jackrabbit/jackrabbit-jcr-rmi/2.7.1/a4f883c348712960b33afbf4f3f6aeda0157e094/jackrabbit-jcr-rmi-2.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.jackrabbit/jackrabbit-jcr-rmi/2.7.1/6e12816fe49dbf9e9a303ffe5a9c908cc6037e15/jackrabbit-jcr-rmi-2.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

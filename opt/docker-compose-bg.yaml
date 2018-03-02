@@ -1,0 +1,72 @@
+version: "2.0"
+
+services:
+  consul:
+    image: consul:1.0.3
+    container_name: consul
+    restart: always
+    ports:
+      - 8500:8500
+      - 8600:8600
+      - 8300:8300
+      - 8301:8301
+      - 8302:8302
+    networks:
+      - sitesearch
+
+  blue-green-router:    
+    image: intrafind/router:latest
+    container_name: router
+    restart: always
+    ports:
+      - 80:80
+      - 443:443
+    depends_on:
+      - consul
+      - green-instance
+      - blue-instance
+    volumes:
+      - /etc/letsencrypt:/etc/letsencrypt:rw
+    networks:
+      - sitesearch
+
+  blue-instance:
+    image: intrafind/if-sitesearch:latest
+    container_name: if-sitesearch-blue
+    restart: on-failure
+    environment:  # TODO in case it is not working, check alternative notations here: https://docs.docker.com/compose/environment-variables/
+      - SPRING_SECURITY_USER_PASSWORD
+      - BUILD_NUMBER
+      - SCM_HASH
+      - SECURITY_OAUTH2_CLIENT_CLIENT_SECRET
+    logging:
+      driver: gelf
+      options:
+        gelf-address: udp://localhost:12201
+    networks:
+      - sitesearch
+
+  green-instance:
+    image: intrafind/if-sitesearch:latest
+    container_name: if-sitesearch-green
+    restart: on-failure
+    environment:  # TODO in case it is not working, check alternative notations here: https://docs.docker.com/compose/environment-variables/
+      - SPRING_SECURITY_USER_PASSWORD
+      - BUILD_NUMBER
+      - SCM_HASH
+      - SECURITY_OAUTH2_CLIENT_CLIENT_SECRET
+    logging:
+      driver: gelf
+      options:
+        gelf-address: udp://localhost:12201
+    networks:
+      - sitesearch
+
+volumes:
+  ops-consul:
+    driver: local
+
+networks:
+  sitesearch:
+    external:
+      name: sitesearch

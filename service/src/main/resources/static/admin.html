@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<!--
+  ~ Copyright 2017 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<html lang="en">
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="https://api.sitesearch.cloud/theme/font/css/font-awesome.min.css"/>
+<script src="/app/runtime/kotlin.js"></script>
+<title>Administration</title>
+
+<h1 style="font-size: 2em;"><span class="fa fa-search"></span> Simple Site Search<sup>BETA</sup></h1>
+<img src="/theme/logo.png" width="361" height="105" style="float: right;">
+
+<br>
+<a id="loginLink" href="/login?redirect_uri=https://api.sitesearch.cloud/login" style="text-decoration: none;"
+   class="fa fa-sign-in" aria-hidden="true"> Login</a>
+<style>
+    input {
+        width: 280px;
+    }
+</style>
+<br>
+<br>
+<div id="assignmentController" style="display: none;">
+    <a href="/admin.html">Site Assignments</a>
+    | <a href="/sitesearch-gadget.html">Establish Site Assignment</a>
+    <!--<br>-->
+    <!--<br>-->
+    <!--<label for="siteId">Site ID</label>-->
+    <!--<br>-->
+    <!--<input id="siteId" type="text" value="1f53b4af-33b4-4db5-afa1-cc9654057591" placeholder="Site Id"/>-->
+    <!--<br>-->
+    <!--<label for="siteSecret">Site Secret</label>-->
+    <!--<br>-->
+    <!--<input id="siteSecret" type="text" value="2b7baeba-f4d1-4ed0-bd6c-c8b5897c72c7" placeholder="Site Secret"/>-->
+    <!--<br>-->
+    <!--<label for="siteName">Site Name</label>-->
+    <!--<br>-->
+    <!--<input id="siteName" type="text" value="Main" placeholder="Site Name"/>-->
+    <!--<br>-->
+    <!--<label for="contactEmail">Contact E-mail</label>-->
+    <!--<br>-->
+    <!--<input id="contactEmail" type="email" value="" placeholder="Contact e-mail"/>-->
+    <!--<br>-->
+    <!--<label for="company">Company</label>-->
+    <!--<br>-->
+    <!--<input id="company" type="text" value="" placeholder="Company Name"/>-->
+    <!--<br>-->
+    <!--<br>-->
+    <!--<input type="button"-->
+    <!--id="assignSite"-->
+    <!--style="text-align: center; width: 285px;"-->
+    <!--onclick="client.com.intrafind.sitesearch.client.assignSite()"-->
+    <!--value="Assign Site">-->
+</div>
+
+<br>
+<br>
+
+<div id="assignmentsContainer" style="display: none;">
+    <dl>
+        <dt id="companyName"></dt>
+        <dd id="companyContact"></dd>
+    </dl>
+
+    <table>
+        <thead>
+        <tr>
+            <td>Site Name</td>
+            <td>Site ID</td>
+            <td>Site Secret</td>
+        </tr>
+        </thead>
+        <tbody id="assignments">
+        </tbody>
+    </table>
+</div>
+
+<br>
+
+<div style="float: right">
+    <span class="fa fa-user-circle-o"></span> <a href="privacy.html">Privacy</a> | <span class="fa fa-gavel"></span>
+    <a href="terms-of-service-agreement.html">Terms</a> | <span class="fa fa-briefcase"></span> <a href="imprint.html">Imprint</a>
+</div>
+
+<script src="/app/client/client.js"></script>
+

@@ -1,0 +1,92 @@
+<div id="ifs-dp-wrapper" class="ifs-component">
+    <div class="ifs-dp-window">
+
+
+        <div class="ifs-dp-header">
+
+
+            <div class="ifs-dp-actions">
+                <div class="dropdown">
+                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="if-dropdown" aria-haspopup="true" aria-expanded="true">
+                        <i class="glyphicons glyphicons-option-vertical"></i>
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu-left bullet pull-left" aria-labelledby="dropdownMenu1">
+                        <li data-action="open-document">
+                            <a href="{{hitUrl}}" target="_blank">
+                                <i class="glyphicons glyphicons-new-window"></i>
+                                <span data-globalize="ifs.btn.open"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            {{#if showMatchPager}}
+                <div class="btn-group ifs-dp-pager" role="group" aria-label="...">
+                    <button type="button" class="btn btn-default" data-action="match-prev" data-page-id="" data-globalize="ifs.btn.prevmatchingpage" data-globalize-target="title" title="">
+                        <i class="glyphicons glyphicons-chevron-left"></i>
+                    </button>
+                    <button type="button" class="btn btn-default" data-toggle="if-dropdown" aria-haspopup="true" aria-expanded="false">
+                        <span data-globalize="ifs.label.matchingpages">Trefferseiten</span> <i class="caret"></i>
+                    </button>
+                    <ul class="dropdown-menu ifs-matching-pages">
+                        {{# each this.hitPages}}
+                            <li>
+                                <a href="javascript:void(0);" data-action="change-page" data-page-id="{{this}}">
+                                    {{this}}
+                                </a>
+                            </li>
+                        {{/each}}
+                    </ul>
+                    <button type="button" class="btn btn-default" data-action="match-next" data-page-id="" data-globalize="ifs.btn.nextmatchingpage" data-globalize-target="title" title="">
+                        <i class="glyphicons glyphicons-chevron-right"></i>
+                    </button>
+                </div>
+            {{/if}}
+
+            <div class="ifs-dp-close">
+                <button type="button" class="btn btn-default" data-action="close-modal">
+                    <i class="glyphicons glyphicons-remove-2"></i>
+                </button>
+            </div>
+        </div>
+
+
+
+        <div class="ifs-dp-body">
+            <div class="ifs-dp-imagewrapper text-center">
+                <img id="ifs-dp-image" class="ifs-preview-image {{#unless mobileState}}add-transition{{/unless}}" src="">
+            </div>
+            <div class="ifs-dp-imageaction">
+                <div class="btn-group-vertical">
+                    <button type="button" class="btn btn-default" data-action="zoom-reset" data-toggle="tooltip" title="{{msg 'ifs.btn.zoom.reset'}}">
+                        <i class="glyphicons glyphicons-resize-small"></i></button>
+                {{#unless mobileState}}
+                    <button type="button" class="btn btn-default" data-action="zoom-in" data-toggle="tooltip" title="{{msg 'ifs.btn.zoom.in'}}">
+                        <i class="glyphicons glyphicons-zoom-in"></i></button>
+                    <button type="button" class="btn btn-default" data-action="zoom-out" data-toggle="tooltip" title="{{msg 'ifs.btn.zoom.out'}}">
+                        <i class="glyphicons glyphicons-zoom-out"></i></button>
+                {{/unless}}
+                    <button type="button" class="btn btn-default" data-action="rotate-right" data-toggle="tooltip" title="{{msg 'ifs.btn.rotate.right'}}">
+                        <i class="glyphicons glyphicons-repeat"></i></button>
+                    <button type="button" class="btn btn-default" data-action="rotate-left" data-toggle="tooltip" title="{{msg 'ifs.btn.rotate.left'}}">
+                        <i class="glyphicons glyphicons-repeat icon-flipped"></i></button>
+                </div>
+            </div>
+        </div>
+
+        <div class="ifs-dp-footer text-center">
+        {{#if showPager }}
+                <button type="button" class="btn btn-default" data-action="page-prev" data-globalize="ifs.btn.prevpage" data-globalize-target="title" title="">
+                    <i class="glyphicons glyphicons-chevron-left"></i>
+                </button>
+                <span data-globalize="ifs.label.page"></span>
+                <span class="ifs-dp-currentpage">1</span> / <span class="ifs-dp-totalpages">{{totalPages}}</span>
+                <button type="button" class="btn btn-default" data-action="page-next" data-globalize="ifs.btn.nextpage" data-globalize-target="title" title="">
+                    <i class="glyphicons glyphicons-chevron-right"></i>
+                </button>
+            </div>
+
+        {{/if}}
+    </div>
+</div>

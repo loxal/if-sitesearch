@@ -20,7 +20,7 @@ cache:
     - $HOME/.gradle
 
 script:
-- "./gradlew clean build"
+- "./gradlew clean build -x test"
 
 #after_success:
 #- "./gradlew clean test"

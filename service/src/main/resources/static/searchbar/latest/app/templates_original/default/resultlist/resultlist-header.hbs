@@ -1,0 +1,51 @@
+<div class="ifs-rl-header">
+    <h4 class="ifs-rl-headline">
+        <span>{{categoryTitle}}</span> <span class="badge">{{hitCount}}</span>
+    </h4>
+    <div class="ifs-rl-headeractions">
+        <div class="btn-group" data-type="sort" >
+            <div class="dropdown">
+                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="if-dropdown" data-globalize="ifs.btn.sort" data-globalize-target="title" title="">
+                    <i class="glyphicons glyphicons-sort-by-attributes"></i>
+                </button>
+                <ul class="dropdown-menu bullet pull-right" aria-labelledby="examplePanelDropdown" role="menu">
+                    <li class="dropdown-header" data-globalize="ifs.label.date">Datum</li>
+                    <li role="presentation">
+                        <a href="javascript:void(0);" data-action="sort" data-sort-order="ascending" data-sort-field="_long.datelastmodified" data-sort-id="sort-1" role="menuitem">
+                            <i class="glyphicons glyphicons-chevron-up" aria-hidden="true"></i> <span data-globalize="ifs.btn.asc">aufsteigend</span>
+                            </a>
+                        </li>
+                    <li role="presentation">
+                        <a href="javascript:void(0);" data-action="sort" data-sort-order="descending" data-sort-field="_long.datelastmodified" data-sort-id="sort-2" role="menuitem">
+                            <i class="glyphicons glyphicons-chevron-down" aria-hidden="true"></i> <span data-globalize="ifs.btn.desc">absteigend</span>
+                            </a>
+                        </li>
+                    <li class="divider" role="presentation"></li>
+                    <li role="presentation">
+                        <a href="javascript:void(0);" data-action="sort" data-sort-order="relevance" data-sort-field="relevance" data-sort-id="sort-3" role="menuitem">
+                            <i class="glyphicons glyphicons-target " aria-hidden="true"></i> <span data-globalize="ifs.btn.relevance">Relevanz</span>
+                            </a>
+                        </li>
+                    </ul>
+            </div>
+        </div>
+        {{#if facetsEnabled}}
+        <div class="btn-group" data-type="filter" >
+            <button type="button" class="btn btn-default {{#if facetVisible}}active{{/if}}" data-action="show-filter" data-globalize="ifs.btn.showfilter" data-globalize-target="title" title="">
+                <i class="glyphicons glyphicons-filter" aria-hidden="true"></i>
+                <span class="ifs-count-filter-all">{{filterCount}}</span>
+            </button>
+        </div>
+        {{/if}}
+    </div>
+
+    {{#if manipulatedQuery}}
+    <div id="ifs-no-results-indicator">
+        {{#if isOriginalResultPageEmpty}}
+        <p>{{msg "ifs.text.noresultsfor"}} <b>{{query}}</b>. {{msg "ifs.text.resultsfor"}} <b>{{manipulatedQuery}}</b></p>
+        {{else}}
+        <p>{{msg "ifs.text.manipulatedQuery"}} <b>{{manipulatedQuery}}</b></p>
+        {{/if}}
+    </div>
+    {{/if}}
+</div>

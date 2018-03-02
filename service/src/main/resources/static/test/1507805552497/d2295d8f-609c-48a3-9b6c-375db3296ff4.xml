@@ -1,0 +1,996 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!--
+  ~ Copyright 2017 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<documents count="50">
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/duplicate</url>
+        <id>A49921CB944E82A0975BE8939D2A4D93</id>
+        <title>Duplicate</title>
+        <body>Duplicate   Duplicate contents, documents, files  </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/produkte/suchen-finden/ifinder5-elastic/benutzeroberflaechen-fuer-ifinder5-elastic
+        </url>
+        <id>8A059B4AA78BF4C84222ACC7798080CC</id>
+        <title>iFinder5 elastic - Benutzeroberflächen</title>
+        <body>iFinder5 elastic - Verschiedene Benutzeroberflächen für den Einsatz in Ihrem Unternehmen iFinder5 UI für
+            Knowledge Worker Filter und Facetten für effizientes Suchen und Finden Trefferliste inklusive Vorschau auf
+            die Dokumente. Der entsprechende Suchbegriff ist im Dokument farbig markiert. Semantische Suche schlägt
+            themenrelevante alternative Suchbegriffe vor. Einfach zu integrierende Komponenten für Custom UI Suchfeld
+            und Trefferliste individuell anpassbar an das jeweilige CI Barrierearmes UI Statische Seite Reduzierte
+            Funktionalität Autocomplete mit statischer Klickfolge Keine endlose Trefferliste, sondern paginiert
+            Screenreader-fähig (z.B. Narrator) Keine Overlays Native iOS App Suche von Unternehmensdaten vom iPhone oder
+            iPad aus über die gewohnte iFinder5-Umgebung Secure Search: Die Anzahl der Treffer und die Suchergebnisse
+            sind rechtegeprüft. Anwender sehen nur die Dokumente, für die sie auch eine Berechtigung haben. Vorschau auf
+            die gefundenen Dokumente
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/enterprise-segment</url>
+        <id>90145DB267CACA9D74BD56848F72324E</id>
+        <title>Enterprise Segment</title>
+        <body>Enterprise Segment   Berücksichtigt werden in einer Betrachtung, Studie oder Vorgehensweise Unternehmen ab
+            bspw. 500 oder 1000 Mitarbeiter. Jedes Unternehmen definiert diese Unternehmensgrößen selbständig. Oft
+            einhergehen mit diesen Betrachtungsweisen, die Trennung zwischen mittelständischen Unternehmen sowie
+            Konzernen. Je nach Unternehmensgröße bieten Soft- und Hardware Hersteller passende Produkt- und
+            Leistungsportfolio an. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/products/ifinder5-elastic/benefits-for-your-company-departments/cross-departmental-use
+        </url>
+        <id>6AC394A56994799D00D03B681C487518</id>
+        <title>Cross-Departmental Use</title>
+        <body>Cross-Departmental Use IntraFind sets new standards with the facelift of the user interface. As an
+            employee, you benefit right away from the web-based interface - the dashboard. Read the latest news about
+            your company and learn news from your blog. The widget-based dashboard gives you plenty of room for small
+            personalized everyday helpers.  Share your results with your colleagues, get actively informed if new
+            information on a topic has been stored or save your searches and your search process so you can retake it
+            later on.  IntraFind does not leave you alone with the search results. You recognize file types at a glance
+            ­- fast and easy. Each file type has its unique display. PowerPoint presentations are shown for example as
+            individual slides and can be accessed directly.  The universal search across many data sources (e.g. file
+            system, Microsoft Exchange, Lotus Notes, Microsoft SharePoint, Confluence) provides a comprehensive and
+            targeted insight into your desired information.    &gt;&gt; back to the  company areas
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/news/sitesearch-auf-der-webseite-von-fonds-finanz</url>
+        <id>A83843805D82F56F0704209657FDC69C</id>
+        <title>24/10/2016 - IntraFind installiert Suche bei Fonds Finanz</title>
+        <body>IntraFind installiert Suche bei Fonds Finanz München, 24.10.2016 - Die Fonds Finanz Maklerservice GmbH mit
+            Sitz in München ist einer der führenden und größten Maklerpools in Deutschland und als solcher Bindeglied
+            zwischen freien Vermittlern und Gesellschaften aus dem Versicherungs-, Vermögens- und Finanzbereich. In
+            dieser Funktion stellt die Fonds Finanz ihren Kunden im B2B-Bereich und ihren Produktpartnern innovative
+            Werkzeuge und umfangreiche Services zur Verfügung, die sie bei ihrer Arbeit unterstützen. Aufgrund der
+            enormen Angebotsvielfalt ist das Online-Portal www.fondsfinanz.de sehr vielschichtig. Neben diversen
+            Bereichen mit zahlreichen Informationen zu den verschiedenen Sparten des Allfinanz-Maklerpools (Kranken,
+            Leben, Sach, Baufinanzierung und Bankprodukte, Investment) gibt es auch spezielle Rubriken, z. B.
+            Online-Schulungen oder Pressematerialien betreffend. Zudem sind vielzählige Anwendungen eingebunden, wie z.
+            B. Online-Rechner oder Risikovoranfrage-Tools. Damit die Nutzer der Webseite künftig besser und schneller
+            das finden, was sie suchen, setzt die Fonds Finanz jetzt auf den iFinder5 elastic. Das Besondere ist: Die
+            Suche unterstützt die Autocomplete-Funktion. Dadurch erkennt die Suchmaschine automatisch den richtigen
+            Begriff, selbst wenn der Nutzer diesen nicht in der korrekten Schreibweise in das Suchfeld eingegeben hat.
+            Der iFinder5 elastic toleriert Fehler - wie Buchstabendreher und Buchstabendoppler - innerhalb eines Wortes
+            und schlägt sogar Synonyme vor, die in demselben Kontext stehen. Die Suchmaschine zieht sich die
+            Autocomplete-Vorschläge direkt aus dem Datenbestand. Dabei werden sowohl Singular und Plural als auch Groß-
+            und Kleinschreibung berücksichtigt. Der iFinder5 elastic erkennt auch zusammengesetzte Begriffe. Sucht der
+            Nutzer zum Beispiel nach „Vertrag“, werden auch Ergebnisse in der Trefferliste angezeigt, in denen das
+            ursprüngliche Suchwort integriert ist, wie in „Kostenregelungsvertrag“. Dank der linguistischen
+            Normalisierung werden auch Begriffe wie „Maklerverträge“, „Maklerverträgen“, „Maklervertrags“ oder
+            „Maklervertrages“ gefunden. Dadurch werden keine Ergebnisse mehr übersehen. „Für die Fonds Finanz
+            Maklerservice GmbH waren Leistungsfeatures wie intelligentes Autocomplete, Anbindung und Indexierung
+            unterschiedlichster Datenquellen, Trefferlistenqualität, Steuerungsoptionen durch manuelle und automatische
+            Thesauri, Tippfehlerkorrektur, Relevanzboosting sowie die Upscale-Perspektive ausschlaggebend bei der
+            Entscheidung für den iFinder5 elastic“, erklärt Reimund Schneider, Teamleiter Bildung &amp; Projekte in der
+            Abteilung Marketing &amp; Kommunikation bei der Fonds Finanz. „Im Prozess der internen Implementierung haben
+            die Programmierer sowohl das Produkt als auch die Betreuung durch die IntraFind Software AG zu schätzen
+            gelernt. Nach einer kurzen Umsetzungszeit konnte das Produkt gelauncht werden, welches den Usern nun ein
+            echtes Sucherlebnis verschafft.“ „Wir freuen uns, dass wir mit der Fonds Finanz einen weiteren Kunden
+            gewinnen konnten, der den iFinder5 elastic einsetzt“, so Franz Kögl, Vorstand der IntraFind Software AG. Als
+            weiterer Schritt ist der Ausbau der Suche auf die geschützten Bereiche der Webseite sowie damit einhergehend
+            die Rechteverwaltung in der Suche geplant. Über IntraFind Software AG IntraFind entwickelt Produkte und
+            Lösungen für das effiziente Suchen, Finden, Analysieren von strukturierten und unstrukturierten
+            Informationen unter Berücksichtigung aller verfügbaren Datenquellen eines Unternehmens. Volltextsuche und
+            die komplette Bandbreite an Textanalyseverfahren, kombiniert mit den Möglichkeiten von Graphdatenbanken für
+            Big Data Analytics, bilden hierbei den Schwerpunkt. Namhafte Kunden sind: AUDI AG, Bundeswehr, IHK Berlin,
+            Robert Bosch GmbH und Rohde &amp; Schwarz GmbH &amp; Co. KG. Mehr Informationen: www.intrafind.de. Für
+            weitere Informationen wenden Sie sich bitte an IntraFind Software AG Christiane Stagge Landsberger Straße
+            368 D-80687 München Email: christiane.stagge@intrafind.de Internet: http://www.intrafind.de
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/loesungen/big-data-analytics</url>
+        <id>04D49169130E2F180F3E82DB5D486A83</id>
+        <title>Big Data Analytics - effizienter Umgang mit großen Datenmengen im Unternehmen</title>
+        <body>Mit Enterprise Search und Tagging die richtige Information zum richtigen Zeitpunkt – trotz Big Data
+            Angesichts stetig wachsender Datenmengen benötigen Unternehmen Lösungen für einen schnellen und umfassenden
+            Zugriff auf ihre Informationen. Die richtige Information zum richtigen Zeitpunkt kann einen wichtigen
+            Wettbewerbsvorteil bringen und für den wirtschaftlichen Erfolg entscheidend sein. Die Suche nach passenden
+            Lösungen und Tools für den Umgang mit großen Datenmengen beschäftigt schon seit längerem die
+            IT-Verantwortlichen der Unternehmen - das Thema &quot;Big Data&quot; ist in aller Munde. Aktuelle Studien
+            belegen, dass vor allem unstrukturierte Daten wichtige Informationen beinhalten, die analysiert, genutzt und
+            für die Weiterverarbeitung durch Mitarbeiter oder Systeme wie Business Intelligence (BI) verfügbar gemacht
+            werden sollten. Doch was sind eigentlich „Big Data“? Unsere langjährige Praxiserfahrung zeigt: „Big Data“
+            beginnen dort, wo sich Unternehmen in der Vielfalt an Applikationen, Systemen und Dateiablagestrukturen
+            verlieren und, kurz auf den Punkt gebracht, nichts mehr finden. Somit betrifft das Thema „Big Data“ nicht
+            nur Konzerne, sondern auch mittelständische und kleine Unternehmen; Lösungen dafür müssen jedoch nicht
+            zwingend teuer, aufwändig und komplex sein. So kann beispielsweise der Einsatz einer unternehmensweiten
+            Suchlösung (Enterprise Search) enorm dabei helfen, standort- oder abteilungsbezogene Informationssilos
+            aufzubrechen und allen Mitarbeitern einen schnellen und benutzerfreundlichen Zugriff auf die benötigten
+            Informationen zu ermöglichen. Doch nicht nur klassische Enterprise Search-Szenarien, sondern auch die
+            Analyse von Logdateien, Mess- und Sensordaten, Echtzeitdaten und klassischen Business Intelligence-Daten mit
+            der Kombination aus strukturierten, semistrukturierten und unstrukturierten Informationen bilden das
+            Spektrum unserer Projekte im Big Data-Umfeld.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/tagging-service</url>
+        <id>DB549C3D5B40B6DF43F94EBF34729A6C</id>
+        <title>Tagging Service</title>
+        <body>Tagging Service   The IntraFind Tagging Service is a product for the automatic creation of metadata from
+            documents. These can then be used for further processes, e.g. for the company-wide search.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/real-time-analysis</url>
+        <id>780EA44DAE7D07D5FA2FA9D6BE9C94BF</id>
+        <title>Real-time analysis</title>
+        <body>Real-time analysis   Real-time analysis - in the context of search engines, this term is frequently used
+            with regard to the index. Thus, when creating a new document, it is indexed incrementally or at defined
+            intervals or times in real-time and provided to the search engine.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/text-classification</url>
+        <id>5748CB107C75E355B03C67F0225727EE</id>
+        <title>Text classification</title>
+        <body>Text classification   Text classification is a central technology for the analysis of documents and the
+            identification of topics and contents.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/news/hamburger-traditionsbaeckerei-harry-brot-setzt-auf-intrafind</url>
+        <id>22E2A56D6E599968AC2A5C08B6AA30E1</id>
+        <title>03/08/2015 - Hamburger Traditionsbäckerei Harry-Brot setzt auf IntraFind</title>
+        <body>Hamburger Traditionsbäckerei Harry-Brot setzt auf IntraFind   München, 03.08.2015 – IntraFind, führender
+            Anbieter von Lösungen für das effiziente Suchen, Finden und Analysieren von Informationen aus
+            verschiedensten Datenquellen, gewinnt die Hamburger Harry-Brot GmbH als Kunden. Die seit 1688 existierende
+            Traditionsbäckerei ist mit über 4.000 Mitarbeitern, neun Produktionsstandorten und der Belieferung von über
+            9.000 Geschäften der Marktführer im deutschen Brot- und Backwarenmarkt.   Nach einer längeren
+            Evaluierungsphase entschloss sich Harry-Brot 2014 zwei Suchmaschinen-Lösungen auf Leistungsfähigkeit und
+            Eignung für den Einsatz im Backunternehmen zu prüfen. Im Herbst 2014 startete Harry-Brot einen
+            mehrmonatigen, intensiven Test des Enterprise Search Produkts iFinder. Das Standardprodukt konnte mit wenig
+            Aufwand auf die individuellen Anforderungen der Harry-Brot GmbH angepasst werden.   Das Produkt iFinder
+            überzeugte nicht nur durch sein hervorragendes Preis-Leistungsverhältnis, sondern auch durch seine intuitive
+            Bedienbarkeit mit Navigationsmöglichkeiten wie facettierter Suche und Leistungsmerkmalen wie der
+            Dokumentenvorschau. Vor allem die linguistischen Erweiterungen, die für die Vollständigkeit und hohe
+            Qualität der Trefferliste sorgen, machten den iFinder zum Testsieger des Auswahlverfahrens.   Weiterhin war
+            für den Kunden entscheidend, dass IntraFind auch den Produktivbetrieb, der nach der Sommerpause startet, mit
+            kontinuierlicher Betreuung begleitet. Erfahren Sie mehr über das Enterprise Search Produkt iFinder
+            Weiterführende Informationen zum Lösungsportfolio der IntraFind Software AG im Bereich Enterprise Search
+            Enterprise Search bedeutet mehr als Suche und Finden - lernen Sie Anwendungsbeispiele kennen   Über die
+            IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden,
+            Analysieren von Informationen unter Berücksichtigung aller Datenquellen eines Unternehmens. Volltextsuche
+            und die komplette Bandbreite an Textanalyseverfahren bilden die Grundlage für optimale Rechercheergebnisse.
+            Das IntraFind-Lösungsspektrum reicht von der Suche in einer Applikation, Enterprise Search und
+            Metadatenmanagement bis hin zu spezialisierten, suchbasierten Anwendungen und Textanalyselösungen. IntraFind
+            betreut seine Kunden umfassend – beginnend mit einer Bedarfsanalyse bietet IntraFind Beratung, Konzeption
+            und Umsetzung sowie Unterstützung im laufenden Betrieb an. Die IntraFind Software AG wurde im Jahr 2000
+            gegründet und hat ihren Firmensitz in München. Namhafte Kunden von IntraFind sind: AUDI AG, Robert Bosch
+            GmbH, ZEIT ONLINE GmbH.   Für weitere Informationen wenden Sie sich bitte an   IntraFind Software AG Sonja
+            Bellaire Landsberger Straße 368 D-80687 München Email: sonja.bellaire@intrafind.de Internet:
+            http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/ifinder5-elastic</url>
+        <id>E2ABF175167A5E61BC65B6671B84C580</id>
+        <title>iFinder5 elastic</title>
+        <body>iFinder5 elastic Gesucht. Gefunden. IntraFind. Mit der Markteinführung des iFinder5 elastic bietet Ihnen
+            IntraFind eine optimale Lösung für das Auffinden von wichtigen Informationen. Lesen Sie nachfolgend, welche
+            Nutzungsmöglichkeiten es gibt und wie Sie profitieren. Intelligente Suchmaschine Ob Sie unsere Suchlösung in
+            ein bestehendes System integrieren oder als Enterprise Search-Lösung für alle für Sie wichtigen Datenquellen
+            nutzen - Sie entscheiden, wie umfangreich Sie unsere Komplettlösung nutzen möchten. Universelle Suche
+            Konnektoren binden alle relevanten internen und externen Datenquellen an den iFinder5 elastic an und stellen
+            so sicher, dass nichts Wichtiges übersehen wird Suche integriert in Applikationen Sie haben Probleme, in
+            einer Ihrer Applikationen die richtigen Informationen auf Anhieb zu finden? Ersetzen Sie eine vorhandene
+            Suche in einer Applikation, z.B. die Suche in einem CMS-System, durch die Suche mit dem iFinder5 elastic und
+            profitieren Sie sofort von allen intelligenten Funktionalitäten. Die Erweiterung zur universellen Suche in
+            der Applikation durch Hinzufügen weiterer Datenquellen (z.B. PLM-, CRM-System, Microsoft Exchange) ist
+            natürlich möglich. Informationscenter Mit dem iFinder5 elastic erhalten Sie zahlreiche
+            Kollaborationsinstrumente und kleine Alltagshelfer, beispielsweise können Sie ad hoc Informationen mit Ihren
+            Kollegen austauschen, Neues aus dem Unternehmen zuerst erfahren, richtige Ansprechpartner finden und vieles
+            mehr. Wissensmanagementlösung Aufwändige Recherchearbeiten werden für Wissensarbeiter stark vereinfacht. Sie
+            können aktiv suchen oder sich einfach über ein bestimmtes Thema automatisch informieren lassen. Die
+            universelle Suche über alle Datenquellen hinweg sorgt für eine vollständige Trefferliste und liefert zudem
+            thematisch relevante und zusammenhängende Informationen. Sie müssen nicht länger das Rad ständig neu
+            erfinden. Content Analytics-Plattform Gewinnen Sie einen tiefen inhaltlichen Einblick in Ihren
+            Informationsbestand, erhalten Sie auf Knopfdruck inhaltlich verknüpfte Dokumente aus allen Datenquellen und
+            leiten Sie daraus wichtige Entscheidungen ab. Weitere interessante Themen: Wie IntraFind verschiedene
+            Abteilungen oder ganze Unternehmensbereiche mittels intelligenter Suchmechanismen und Content Analytics
+            unterstützt &gt;&gt; Mit IntraFind ersetzen Sie Ihre Google Search Appliance (GSA) - einfach und
+            unkompliziert. Erfahren Sie mehr über unser Angebot für Google Kunden und Partner.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/products/autocomplete-service</url>
+        <id>BFDB99C565B5C9D843546B4DB461958A</id>
+        <title>Autocomplete Service</title>
+        <body>Autocomplete Service - Enhance your customer experience on your website portal   Classic autocomplete
+            technologies help the user to complete his search query automatically while he is typing and after starting
+            the search getting the results in a hit list. However, this is usually 1: 1 based on the words that are
+            known to the autocomplete function (e.g. existing product names). But how many users want to spend a lot of
+            time to research the correct spelling of product or brand names?     Now that the searcher has typed
+            countless spelling variants, searched and maybe hasn’t “found” the right product, he cancels the search and
+            leaves the website. A loss for any company, which invested time and budget in sites, web shops and intensive
+            advertising campaigns trying to reach customers.     &gt;&gt; Test the autocomplete product in our Live Demo
+            Autocomplete For Online Shops In the world of online shopping a well-run, in other words a well-structured
+            web shop with fast-find products are essential for a successful shopping experience. Providers of such
+            shopping portals need to have highly intelligent mechanisms for a product search or product research. Web
+            shop providers often offer their customers intelligent filtering mechanisms that accompany the user through
+            the product range and they hope that the customer returns soon after a positive shopping experience. But
+            what happens when a customer is looking for a particular product or a particular brand and does not know the
+            exact spelling of the product?    An internal analysis by IntraFind of smaller and larger web shops or
+            shopping portals has revealed that many stores show weakness at this point. Brands or products with spelling
+            mistakes are not recognized by the existing autocomplete functionality. Often, the user needs to enter the
+            exact spelling of a product in order to get further suggestions in autocomplete or in the hit list. After
+            several attempts the non-finding of a product ultimately leads to a disappointing shopping experience, and
+            in the worst case to a web page jump.    IntraFind can intelligently support at this point. Because even
+            when you enter only a few letters, autocomplete starts and corrects spelling mistakes and suggests
+            alternative terms. At a glance the customer sees the product or the brand, confirms the term and receives
+            the desired product in the hit list as a result. Web shop providers benefit organizationally for instance in
+            the international area. With simple mechanisms, the customer only sees the products available in his
+            country. Products not relevant for the country are not displayed in autocomplete.  Autocomplete For Company
+            Websites Especially corporate websites with many subpages are often hardly detected by third parties such as
+            the customer. The customer will be supported with a well-designed navigation or filtering mechanisms. If the
+            range of products exceeds the ability of these mechanisms, a good search engine is helpful.   The
+            Autocomplete Service of IntraFind intelligently supports the customer when he enters his search term by
+            automatically detecting spelling mistakes, tolerating errors, suggesting synonyms or related words. The
+            customer no longer needs to know exactly how the manufacturer spells the product. Autocomplete also
+            recognizes the right word “kaleidoscope” when spelling &quot;kaleiduscope&quot;.    The advantage: The
+            customer can find the product quickly and easily.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/history</url>
+        <id>BE7E2342BD4D227A78132CABA4117F5E</id>
+        <title>Company history of IntraFind Software AG</title>
+        <body>History 2015 August Hamburg-based bakery Harry-Brot relies on IntraFind and opts for the use of Enterprise
+            Search product iFinder.   June IntraFind hosts &quot;Enterprise Search &amp; Content Analytics Day&quot; on
+            June 17, 2015 in Munich with 50 interested participants. The event focuses on customer presentations and
+            provides insights into new IntraFind products as well as the possibility for all attendees to exchange their
+            experiences.   March IntraFind expands its product portfolio by the iFinder expansion module Semantic
+            Modeller: a semantic tool that supports the modeling of conceptual corporate knowledge as well as its
+            integration into the full text search engine iFinder.   February MTU Aero Engines successfully uses
+            IntraFind iFinder for enterprise search and knowledge management. The new search solution provides MTU
+            employees a user-friendly and secure access to product data, terminology, technical literature and intranet
+            sites.   January On January 28, 2015 IntraFind invites its customers and prospects to attend &quot;Elasticsearch
+            Experts Talk&quot; in Munich . During the half-day event, the Elasticsearch experts of IntraFind Software AG
+            and IntraFind partner Elastic (formerly Elasticsearch GmbH ) present their experiences with the open source
+            search server Elasticsearch. 2014 December As one of the first business partners IntraFind provides
+            cloud-enabled services for IBM platfom as a Service offering (IBM Bluemix ™).   August Launch of &quot;Präventionsforum
+            &quot;, a new knowledge portal for occupational health and safety, at the World Congress of accident
+            insurances in Frankfurt, Germany. Präventionsforum is the result of a joint project of European accident
+            insurances for the improved provision of quality assured technical information for external audiences (e.g.
+            employees of the construction industry). The platform is based on IntraFind´s search technologies.   March
+            IntraFind presents products and solutions for enterprise search and metadata management at CeBIT. 2013
+            November In cooperation with DATACOM Research IntraFind publishes the results of a representative enterprise
+            search user study. 150 participants from Germany, Austria and Switzerland contributed their experiences and
+            expectations for the provision of information and search in enterprises.   October New partnership in the
+            field of enterprise search: IntraFind and Elasticsearch. Elasticsearch offers services and support around
+            the open source search technology elasticsearch.   July Launch of iFinder 4.8 - the new version of
+            IntraFind´s enterprise search solution includes advanced search functions for a comprehensive user support.
+            IntraFind starts an extended training program on the topics of open source search technology, text analytics
+            and project management.   June IntraFind gains Volksbank Hannover as a new customer for implementing an
+            intranet search based on the enterprise search solution iFinder. The linguistics component LISA ensures an
+            excellent quality of the search results.   May Again, IntraFind participates in the &quot;Enterprise Search
+            Summit&quot; in New York as a sponsor and exhibitor and presents products and solutions for searching and
+            text classification.   April IntraFind Tagging Service wins a German IT award (category knowledge
+            management). IntraFind starts a live demo for the product.   March Launch of Tagging Service for automatic
+            creation of metadata MTU Aero Engines commissions IntraFind to implement an Enterprise Search solution  
+            February IntraFind presents its products and solutions for enterprise search and the creation of metadata at
+            CeBIT. 2012 August Launch of the new iFinder 4.7 - Enterprise Search solution   June Enterprise Search Days
+            - customers, partners and IntraFind present new information from the world of searching &amp; finding with
+            our products over two days.   May IntraFind presents products and solutions for searching and text
+            classification at international Enterprise Search conferences in New York and London.   April IntraFind
+            asserts itself successfully against renowned competitors in a tender and wins over the commercial vehicle
+            producer MAN Truck &amp; Bus AG as a new customer. IntraFind is part of IBM PureSystem as one of the first
+            certified providers.   March Move from Martinsried/Planegg to Munich: IntraFind moves into new, larger
+            offices in Landsberger Straße 368. 2011 October &quot;IntraFind goes UK&quot; and participates in the &quot;Enterprise
+            Search Europe Summit&quot; in London as a sponsor and exhibitor.   May Programmed for growth: The team of
+            experts in IntraFind Software AG comprises of 20 employees.   March IntraFind expands the connector
+            framework by powerful connectors for Notes and Exchange. 2010 October IntraFind celebrates its 10-year
+            anniversary on October 20th.   June Release of version 4.5 of IntraFind iFinder with new and improved
+            functions for company-wide searches. 2009 October IntraFind becomes a &quot;Microsoft Gold Certified Partner&quot;.
+              June Interactive Search $ Explorative Search are integrated into IntraFind iFinder.   May Publication of
+            release 4.1 of Enterprise Search iFinder with intelligent filters (ContenXtors) for user-friendly, guided
+            search. Customer event: Executive briefing at Microsoft. Good search solutions despite cost pressure with
+            MOSS Search.   April Opinion mining at the European Patent Office (EPO) - IntraFind fulfills the highest
+            demands. 2008 December Bosch chooses iFinder as a file server search engine.   November A new version of
+            iFinder is published.   October IntraFind cooperates with the University of Saarland within the scope of a
+            BMBF [Federal Ministry of Education and Research] research project for the development of a natural language
+            search. IntraFind becomes a Fast X10-partner.   September Search for SharePoint comes onto the market with
+            clearly advanced functions in version 2.   August Microsoft again relies on the competency of IntraFind as a
+            Competence Center Search for SharePoint search.   July IntraFind starts partnerships with compliance
+            specialists. The spectrum of the morphological analysis components for qualitative improvement of searching
+            now covers 10 languages. The LiSa text analysis as an iFinder expansion module is now offered for German,
+            English, Dutch, Spanish, Italian, French, Serb-Croatian, Polish, Russian and Greek.   March IntraFind
+            develops a Chemical Named Entity Recognition for German and English together with Infochem in order to
+            improve the quality of patent search in the chemical sector. 2007 December Beiersdorf chooses IntraFind as a
+            supplier and system integrator of a specialized search solution for the Research and Development Department.
+              September IntraFind becomes a Competence Center Search for Microsoft Germany.   July Release 3 of the
+            classification product TopicFinder comes on the market.   May IntraFind develops the search expansion Search
+            for SharePoint 2007 and starts marketing it. 2006 July iFinder Release 3 is introduced.   June The strategic
+            direction as a product provider leads to new partnerships and internationalization of the partner network.  
+            January IntraFind moves from the software campus of Software-Offensive Bayern in Munich-Moosach to their own
+            offices in Planegg (district Martinsried). The former Managing Director of Oracle Germany, Franz
+            Niedermaier, becomes the chairman of the supervisory board of IntraFind Software AG. 2005 November IntraFind
+            wins over Bosch as a reference customer in the automobile industry.   May IntraFind wins over Tech Data as a
+            reference customer for TopicFinder in the eCommerce area. The IT wholesale distributor relies on this
+            technology for the fully automated creation of customized product catalogues (BMECat-creation).   April
+            iMonitor-Service, an internet based tool for market, competition and media observation, is introduced.  
+            March IntraFind participates for the first time as an independent product provider for retrieval as an
+            exhibitor at CeBIT. 2004 September TopicFinder 1.0 for automatic text classification is published.   May
+            IntraFind publishes iFinder version 2.0.   March IntraFind establishes the partner channel with VAR, OEM and
+            system integration partners. 2003 December Associative search is completed and introduced. 2002 November The
+            first version of the linguistic word analysis for German (LiSa) is published. 2001 March The intelligent
+            Enterprise Search iFinder Release 1.0 is published.   January IntraFind wins over Merck KGaA as a customer.
+            2000 Foundation of IntraFind Software AG in Munich.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/text-analytics</url>
+        <id>D6B9D1C24FF7677729F8F3B7CA565A59</id>
+        <title>Text analytics</title>
+        <body>Text analytics   Text analysis  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/strukturierte-daten</url>
+        <id>2289B69456A8633E72B8BD9A22D44066</id>
+        <title>Strukturierte Daten</title>
+        <body>Strukturierte Daten   Als strukturierte Daten bezeichnet man Daten, die eine einheitliche Struktur
+            aufweisen (z.B. Datenbanken). zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/semantics</url>
+        <id>25E4A08F1F7F1E3F6284B62077963DF3</id>
+        <title>Semantics</title>
+        <body>Semantics   Semantics deals with meaning. It deals with the meaning of words, characters, symbols, etc.
+            The meaning, the semantics of terms, plays an important role particularly for search engines and for the
+            creation of search results.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/training-corpus</url>
+        <id>17B37CBA6C364AB6B34E1A10B9E95B65</id>
+        <title>Training corpus</title>
+        <body>Training corpus   A corpus used to train a classifier.  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/textklassifikation</url>
+        <id>AFA27A5489B43D030BEBE543B525B1D5</id>
+        <title>Textklassifikation</title>
+        <body>Textklassifikation   Die Textklassifikation ist eine zentrale Technologie für die Analyse von Dokumenten
+            und die Identifizierung von Themen und Inhalten. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/boolsche-suche</url>
+        <id>EA4D61801667EE8E03CA7D805E89DB14</id>
+        <title>Boolsche Suche</title>
+        <body>Boolsche Suche   Siehe Boolsche Operatoren  </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/blog/wie-enterprise-search-loesungen-content-delivery-portale-sinnvoll-ergaenzen-koennen-439
+        </url>
+        <id>9DF3B3AA44936756EBD5D5148466E1A4</id>
+        <title>Wie Enterprise Search Lösungen Content Delivery Portale sinnvoll ergänzen können</title>
+        <body>Wie Enterprise Search Lösungen Content Delivery Portale sinnvoll ergänzen können Wie Enterprise Search
+            Lösungen Content Delivery Portale sinnvoll ergänzen können Der Begriff „Content Delivery Portal“ (CDP) ist
+            noch recht jung. Geprägt hat ihn Prof. Dr. Wolfgang Ziegler, Leiter des Instituts für Informations- und
+            Content-Management (I4ICM) der Steinbeis Transferzentren GmbH an der Hochschule Karlsruhe. Ähnlich wie ein
+            CMS, ECM oder DCM stellt ein CDP Inhalte zur Verfügung und ist oftmals auch mit einer Navigationsstruktur
+            und einer internen Suche ausgestattet. Nutzer können sich über ein CDP Informationen zu
+            Vertriebsaktivitäten, Produktionsprozessen oder Serviceeinsätzen holen. In vielen Fällen muss ein CDP die
+            Inhalte jedoch nicht mehr einfach nur managen, sondern präsentieren. In der Praxis liegen die Daten aber
+            meist nur unstrukturiert vor, weshalb sie durch die Standardsuche oftmals nur schwer zu finden sind. Neue
+            Technologien wie Smart Devices stellen außerdem neue Anforderungen an die Art und Weise der Präsentation der
+            Daten. Nutzer wollen Informationen nicht mehr nur abrufen, sondern proaktiv und interaktiv präsentiert
+            bekommen. Durch Google Now, Siri oder Cortana sind Anwender außerdem an die natürlichsprachige Suche von
+            ihren Smartphones her gewöhnt.   Von der Enterprise Search zur Insight Engine Eine professionelle Enterprise
+            Search Lösung stellt Inhalte schnell im Kontext der Anfrage zur Verfügung.  Durch spezielle linguistische
+            Module werden selbst Tippfehler bei der Suche berücksichtigt und auch dann die richtigen Ergebnisse
+            angezeigt, wenn der Nutzer den Begriff falsch schreibt. Die Enterprise Search Lösung ist auch in der Lage,
+            Dokumente nach Dateiformaten zu filtern und Mehrwortbegriffe zu erkennen. Dank einer großen Anzahl an
+            Konnektoren lassen sich außerdem an die Suchlösung auch andere Systeme wie E-Mailprogramme oder
+            Netzlaufwerke anbinden. Der nächste Schritt wäre, wenn die Lösung dem Nutzer nun proaktiv themenrelevante
+            Ergebnisse auflistet ohne dass der Anwender gezielt danach suchen muss. Der Analyst Gartner spricht von
+            einer Entwicklung von der Enterprise Search Lösung hin zur Insight Engine.   In der Praxis kann das
+            folgendermaßen funktionieren: Ein Elektroniker wird in eine Fleischerei bestellt, um eine defekte Waage zu
+            reparieren. Mit der Technologie der Insight Engine bekommt der Elektroniker schon beim Betreten des
+            Geschäfts die richtige Reparaturanleitung per Push auf sein Mobile Device geliefert. Die Geolokalisation
+            „weiß“, dass er sich in der Baumstraße 3 in Neuburg befindet. Das CRM „weiß“, dass es sich dabei um den
+            Bestandskunden Fleischerei Maier handelt. Die defekte Waage übermittelt dem mobilen Endgerät den Fehlercode
+            und die intelligente Suche muss nur noch die relevanten Faktoren zusammenfügen und kann in dem Moment auch
+            die relevante Information „proaktiv“ liefern. Vorteil: Anbindung an viele Datenquellen Ein umfassendes
+            Tagging ist für eine Enterprise Search Lösung unerlässlich. Der Taggingservice reichert überall dort
+            Metadaten an, wo Content entsteht und unterstützt dabei beliebige Systeme wie DMS, Wikis oder Mail. Nur wenn
+            ich die Information, wie beispielsweise eine Serviceanleitung zu einem bestimmten Produkt, auch mit dem
+            Produkt verbunden habe, kann mir der Service auch die Serviceanleitung proaktiv auf mein Smart Device
+            schicken. Die Anbindung an möglichst viele Datenquellen ist von entscheidender Bedeutung. So werden mittels
+            Tagging (Named Entity Recognition) aus Dokumenten weitere Stammdaten ermittelt und zum Beispiel Adressdaten,
+            Kundennummern, Auftragsnummern, Rechnungsnummern, Produktdaten oder Orte aus dem Text extrahiert und als
+            zusätzliche Metadaten in den Index übernommen. Nichts ist frustrierender für den Servicetechniker, als wenn
+            er bereits den Fehler im Gerät aufgrund eines Fehlercodes einschränken konnte, dann aber eine 235-seitige
+            Betriebsanleitung als Treffer zurückgeliefert bekommt, ohne dass der Kontext seines Errorcodes für ihn im
+            Treffer ersichtlich ist. Hilfreich ist sicherlich die kurze Textvorschau im sogenannten Snippet des
+            Treffers. Viel wichtiger ist aber in dem ihm bekannten Dokument anzuzeigen, auf welchen Seiten seine
+            Suchbegriffe stehen und auch gleich an die richtige Stelle zu springen. Wir nennen das Matching Pages. Wenn
+            man eine Vorschau des Dokuments öffnet, sieht man auf einen Blick, auf welcher Seite der Suchbegriff
+            auftaucht. So bleibt der Kontext der Information direkt in der dem Anwender bekannten Struktur. All diese
+            Funktionalitäten lassen sich mit dem iFinder 5 elastic abbilden. Erfahren Sie hier mehr zum Produkt. Mehr
+            zum Thema Content Delivery Portale und Enterprise Search Lösungen erfahren Sie außerdem auf der
+            Tekom-Jahrestagung in Stuttgart. Am Donnerstag, den 10. November 2016, halte ich dazu einen Workshop von
+            15.30-16.15 Uhr in Plenum 2. Ich freue mich auf Ihren Besuch und auf Ihre Fragen. Der Autor Manuel Brunner
+            ist Experte für das Thema Suchtechnologien. Seit 2008 ist er für die IntraFind Software AG tätig und leitete
+            u.a. viele Jahre lang das Team Professional Services, bevor er in seiner neuen Rolle die Bereiche Partner
+            Management &amp; Business Development übernahm. Manuel Brunner is an expert in search technologies. He has
+            been working at IntraFind Software AG since 2008 and has managed the team Professional Services for many
+            years. In his new role he took over the divisions Partner Management &amp; Business Development.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/test-corpus</url>
+        <id>4BEC3DBA8E731DFFC28E966531E3F9B0</id>
+        <title>Test corpus</title>
+        <body>Test corpus   A corpus used to test a classifier. The test corpus should never be used for improving the
+            training corpus, or (hyper)parameter tuning.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/homograph</url>
+        <id>6F71846CFC6394EFC74F9C9B9A3BC6B1</id>
+        <title>Homograph</title>
+        <body>Homograph   A homograph describes a word in a group of words, which all have the same spelling, but
+            different meanings and often also a different pronunciation, for example, Konstanz (consistency) vs.
+            Konstanz (city on Lake Constance) 11/28/2012 Wikipedia.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/guided-search</url>
+        <id>F48D82022784DBC3F3A084CD370F83A1</id>
+        <title>Guided Search</title>
+        <body>Guided Search   Guided Search bietet Hilfestellung im Suchprozess durch Funktionalitäten wie dem
+            Vorschlagen von Suchbegriffen oder der Möglichkeit Filter zu setzen. Ein Merkmal der IntraFind Guided Search
+            ist, dass der Anwender jederzeit nachvollziehen kann, wie er ein bestimmtes Ergebnis erreicht hat und somit
+            auch zurückgehen kann. Genutzt wird Guided Search vor allem in dem Modul der Wissenslandkarte. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/information-access</url>
+        <id>72728721F430F3A77E74D444918F900D</id>
+        <title>Information Access</title>
+        <body>Information Access   Über Suchmaschinen erhalten Anwender einfachen Zugriff auf Informationen. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/total-cost-of-ownership-tco</url>
+        <id>053A0D7EEAD633F6C145487A40B33553</id>
+        <title>Total Cost of Ownership (TCO)</title>
+        <body>Total Cost of Ownership (TCO)   Total operational costs.  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/dublette</url>
+        <id>68E32D8D1F0DA8DE5B0AB02928AF6348</id>
+        <title>Dublette</title>
+        <body>Dublette   Doppelte Inhalte, Doppelte Dateien deren Informationen redundant sind. Entsprechend der
+            Kundenwünsche bereinigt die iFinder Enterprise Search Lösung Dubletten automatisch. Auch Varianten und
+            Versionen von Dokumenten können bei der Suche nach einer entsprechend definierten Regel berücksichtigt
+            werden. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/kmu</url>
+        <id>B20BBE022A33E2A39C0C0F6CB75216D3</id>
+        <title>KMU</title>
+        <body>KMU   Small and medium sized companies  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company</url>
+        <id>19BDF9BB4E57D4573D34B4992B4D6AB8</id>
+        <title>Overview of the IntraFind Software AG</title>
+        <body>Who are we?   IntraFind stands for competence, innovation and high quality, powerful products and
+            solutions. With our motivated team of experienced search experts and developers, we belong to the market
+            leaders for search technologies in Germany, Switzerland and Austria.   With comprehensive expert knowledge
+            and years of project experience, our 40 employees lend their support as competent contact persons - personal
+            contact to the customer and individual support are very important to us!   Since 2000, we have been
+            operating as a provider in the area of enterprise search, information access &amp; text mining and offer our
+            customers software products, solutions and product-independent consultation. IntraFind is headquartered in
+            Munich, Germany.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/imprint</url>
+        <id>F3B5F17BF3574A49DD029D3FF7D120FD</id>
+        <title>Imprint</title>
+        <body>Imprint   IntraFind Software AG Landsberger Strasse 368 80687 München Germany   Phone:   49 89 30 90 446-0
+            Fax:        49 89 30 90 446-29 Email:    info@intrafind.de   Authorized representative board directors:
+            Franz Kögl, Bernhard Messer   Register court: District Court Munich  Register number: HRB 134378  VAT no.:
+            DE 813073059   Notice of liability: Despite careful contextual inspection, we do not take over any liability
+            for the content of external links. The operators of the linked sites are solely responsible for the content
+            of the linked pages.   Photo credits / copyright: Copyright (C) Fotolia 2004-2014: Alliance / bloomua /
+            FotolEdhar   Web pages tracking: The website of IntraFind Software AG uses a web analysis service. This
+            service uses so-called &quot;cookies&quot;, text files that are saved on your computer and allow for an
+            analysis of the web page usage.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/blog/content-delivery-von-technischen-informationen</url>
+        <id>CD91B1634FF535B3981DF837661AA18D</id>
+        <title>Content Delivery von Technischen Informationen</title>
+        <body>Content Delivery von Technischen Informationen Wie wird Content intelligent nutzbar? Durch Klasse und
+            dynamisches Content Delivery! Meist wird - auch heutzutage noch - Technische Dokumentation nicht als gute
+            oder hilfreiche Informationsquelle geschätzt. Zu viele unverständliche oder nicht handhabbare Dokumente
+            haben die Vergangenheit geprägt und frustrierte bis verzweifelte Anwender hinterlassen. Ganz zu schweigen
+            von Experten und Technikern, die lieber ihrer Erfahrung vertrauen als langen Texten und unpassenden
+            Illustrationen. Dabei hat sich in den letzten Jahrzehnten vieles massiv geändert. Insbesondere haben sich
+            für die Technische Redaktion spezielle Content-Management-Systeme (CMS) etabliert, deren Grundprinzip die
+            modulare Informationserfassung ist. Die technischen Inhalte werden als „Module“ oder „Topics“ in
+            XML-Strukturen erfasst und je nach Technischer Konfiguration des zu beschreibenden Produkts
+            zusammengestellt. So können Dokumentationen als Informationsprodukte hocheffizient aus wiederverwendbaren
+            Einheiten konfiguriert werden. Variantenspezifisch, marktabhängig und - bei Bedarf - kundenspezifisch. Genau
+            wie die Produkte selbst. Die zielgerichtete Verwendung und vor allem Wiederverwendung des Contents in den
+            speziellen CMS gelingt, wenn der modulare Content für den Anwendungszweck intelligente, d.h. für die
+            unterschiedlichen Nutzungsfälle passende Metadaten trägt. Eine der hierfür häufig angewandten Methoden ist
+            die sogenannte PI-Klassifikation: Content-Module tragen dann eindeutige Informationen zu den beschriebenen
+            Hard- oder Software-Komponenten eines Produktes („P“) sowie zum jeweiligen Typ der enthaltenen Information
+            („I“). So können Automatismen und selektive (PI-)Mechanismen zur effizienten Erstellung von Dokumentationen
+            genutzt werden. Der Leser profitiert durch genaue, zielgerichtete Informationen. Eigentlich. Häufig aber
+            auch nicht. Der Grund liegt nicht in den Inhalten, sondern in den Medien. Erst langsam setzen sich für die
+            Verbreitung von Dokumentationen echte elektronische Formate durch. Formate, die intelligenter sein sollen
+            als monolithische PDF; intelligenter zu durchsuchen und intelligenter darzustellen. Auch die bekannten
+            Formen der Online-Hilfen und Web-Formate genügen – wer machte diese Erfahrung nicht? - häufig nicht den
+            Anforderungen. Zu wenig anwendungsbezogen, zu wenig durchsuchbar, oder besser, auffindbar sind meist die
+            nötigen Informationen. So war es nur logisch, dass sich seit kurzem Systeme am Markt formieren, die die
+            Intelligenz der Daten endlich auch für den Nutzer von Informationen wirksam werden lassen: Neuartige
+            Content-Delivery-Portale (CDP) sollen die Inhalte mit den notwendigen Navigations-, Such und
+            Zugriffsmöglichkeiten erschließen: per Navigation über traditionelle Dokumentstrukturen (die
+            Inhaltsverzeichnisse) sowie durch dynamische Filter und Facetten, z.B. über Informationsklassen,
+            Produktkomponenten und Variantenmerkmalen (u.a. gemäß der PI-Klassifikation). Und schließlich über direkte
+            Suchmechanismen im Content. So können viele Szenarien des Informationsbedarfs und der Informationsnutzung
+            geplant und erfüllt werden. Die Anwendungsszenarien können dabei in der Realität extrem unterschiedlich
+            sein. Alle Prozessbeteiligten und alle Stationen des „Product Lifecycle“ können Nutznießer zielgerichteter
+            und vor allem online verfügbarer Informationen sein: Vertriebsaktivitäten, Produktionsprozesse, Schulung und
+            Training, Installation und Abnahme, Serviceeinsätze und, und, und. Und eben auch Endkunden bzw. Anwender.
+            Hieraus folgt aber ebenso, dass Content-Delivery-Applikationen auch bezüglich der IT-Architektur
+            verschiedene Ausprägungen und Skalierungen haben können oder müssen: Globale Internet-Portale, interne
+            Unternehmensportale mit begrenztem Zugriff, produktgebundene Onsite-Portale bis hin zu lokalen
+            rechnergebundenen Online-Hilfen. Und natürlich auch alles als mobile App mit Offline-, Online- und
+            Update-Mechanismen. Soweit, so hilfreich und gut. Eine weitere Dimension der Anwendungen ergibt sich aber,
+            wenn man beachtet, dass eine große Menge des Contents eigentlich aus Quellen kommt, die nicht auf der
+            Modularität beruhen und nicht tief strukturiert sind. Prominente Beispiele sind die Unmenge an
+            service-relevanten Informationen z.B. aus den Bereichen Montage, Diagnose, Fehler- und Einsatz-Protokollen
+            oder die Masse der Zulieferinformationen im Maschinen- und Anlagenbau. Je heterogener diese Quellen, je
+            wichtiger sie für den Anwendungsfall eines CDP sind, desto stärker müssen zusätzliche intelligente Such- und
+            Auswerteverfahren zum Einsatz kommen. Statistische, terminologische, linguistische und/oder ontologische
+            Methoden können hier dazu dienen, die Inhalte für die Suche zu erschließen und die Informationen, natürlich
+            gemeinsam mit den strukturierten Informationen, auffindbar zu machen. So ist es auch verständlich, dass sich
+            die Anbieter aus unterschiedlichen Richtungen dem zentralen Thema des Content-Delivery nähern:
+            Content-Management-Systeme der Technischen Kommunikation,  Dienstleistungsunternehmen mit Portalen als
+            Managed Services, klassische Unternehmensportale, Werkzeuge für elektronische (Web-)Publikationen und eben
+            auch Anbieter von Suchportalen wie die IntraFind Software AG mit ihren unterschiedlichen technologischen
+            Möglichkeiten der intelligenten Erschließung von strukturierten und unstrukturierten Informationen. Der
+            Markt ist heterogen und formiert sich zusehends für alle Unternehmen, die aktuell und zukünftig ein
+            Content-Delivery-Anwendungsszenario mit der intelligenten Nutzung von Informationen verfolgen. Treiber des
+            Marktes sind derzeit natürlich auch „Industrie 4.0“ und die allgegenwärtige Digitalisierung von Produkten
+            und Dienstleistungen. Um eine Übersicht über die vorhandenen Lösungen zur erhalten, findet, wie im Jahr
+            2015, auch 2016 wieder das Content-Delivery-Symposium in Stuttgart statt. Der Autor Prof. Dr. Ziegler ist
+            Leiter des Instituts für Informations- und Content- Management (I4ICM) der Steinbeis Transferzentren GmbH an
+            der Hochschule Karlsruhe. In dieser Funktion arbeitet er am Forschungstransfer zu aktuellen Themen wie
+            PI-Class, Content Intelligence (REx) und Content Delivery. An der Hochschule Karlsruhe lehrt und forscht er
+            im Studiengang Kommunikation und Medienmanagement rund um die Themen Daten-, Informations-, und Content
+            Management
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/press-contact</url>
+        <id>5C4E57228E7F9A076F34CA059B97DF93</id>
+        <title>Press contact</title>
+        <body>Press contact</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/kompositazerlegung</url>
+        <id>63841AAE5549639DF40CA833A53CADBA</id>
+        <title>Kompositazerlegung</title>
+        <body>Kompositazerlegung   Bei der Kompositazerlegung handelt es sich um ein Verfahren der linguistischen
+            Texterschließung, die Zerlegung zusammengesetzter Mehrwortbegriffe. Eines der berühmtesten Beispiele der
+            deutschen Sprache ist sicherlich der &quot;Donaudampfschifffahrtskapitän&quot;. IntraFind bietet hierfür die
+            Software LISA. Die linguistische Aufbereitung von Texten bewirkt im Kontext von Suche eine höhere
+            Trefferqualität.   zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/kontaktformular-landingpage-big-data</url>
+        <id>2B64F6E7A5571CEE8FD44D9BE49F1D84</id>
+        <title>IntraFind Lösung für Big Data</title>
+        <body>Danke für Ihr Interesse am Thema Big Data     Für die Zusendung weiterführender Informationen zu den
+            IntraFind Lösungen für Big Data und möglichen Einsatzszenarien für Enterprise Search und Tagging in Ihrem
+            Unternehmen benötigen wir Ihre Kontaktinformationen. Nach dem Absenden des Formulars erhalten Sie von uns
+            eine zeitnahe Antwort per E-Mail.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/products/elasticsearch/services-plugins/simfinder-service</url>
+        <id>9DF61E445BB86AF91A0796A2048D91DA</id>
+        <title>SimFinder Service</title>
+        <body>SimFinder Service The SimFinder Service displays documents that have been stored in different locations or
+            in other systems but have a similar content as the chosen document in the hit list. Statistical methods are
+            used to calculate the similarity.   Technical specification: Operating systems Windows Server 2008 R2 or
+            higher and Linux Installation requirements Java 7 Combinable services: The SimilarDoc Service can only be
+            used in combination with the IntraFind Index and Search Service All other services and plug-ins can be
+            combined orthogonally Documentation: SOA documentation Sample implementation in Java is provided Demo
+            directory with simple click-and-play usage examples The service is interesting for: Companies that want to
+            expand a hit list with the search for similar documents Embedding partner Elasticsearch developers Solr
+            developers
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/semantic-descriptors</url>
+        <id>20F314ADAE426EEF614F9B02BBC2CE63</id>
+        <title>Semantic descriptors</title>
+        <body>Semantic descriptors   Content-related metadata, see also: Descriptor  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/full-text-search</url>
+        <id>802D80E51981707165DD25134B1692B4</id>
+        <title>Full text search</title>
+        <body>Full text search   It describes primarily the searching and finding in several files simultaneously, which
+            are either on a computer or file system. Since full text search is also used to find relevant, complex
+            information, it is an important component of text mining.  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/produkte/ifinder5-elastic/kontaktformular-online-experten-session-ifinder5-elastic
+        </url>
+        <id>344521B903BFD707F45EA6050A77A31E</id>
+        <title>Online Experten Session iFinder5 elastic</title>
+        <body>Online Experten Session iFinder5 elastic</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/agb</url>
+        <id>95334952BE1BD275C173F60F97A344BC</id>
+        <title>Allgemeine Geschäftsbedingungen (AGB)</title>
+        <body>Allgemeine Geschäftsbedingungen (AGB) 1. Geltungsbereich a) Alle Lieferungen und Leistungen (im folgendem
+            einheitlich: Lieferungen) erfolgen vorbehaltlich abweichender individueller Vertragsabreden nur aufgrund
+            dieser Allgemeinen Geschäftsbedingungen. Sie finden Anwendung gegenüber Unternehmern, juristischen Personen
+            des öffentlichen Rechts und öffentlich-rechtlichen Sondervermögen (Kunden). b) Der Kunde erklärt sich durch
+            die widerspruchslose Entgegennahme mit der ausschließlichen Geltung dieser Bedingungen für die jeweilige
+            Lieferung sowie für alle Folgegeschäfte einverstanden. Abweichende oder ergänzende Einkaufsbedingungen des
+            Kunden haben nur Gültigkeit, wenn sie von INTRAFIND schriftlich anerkannt sind. Diese Bedingungen gelten
+            auch dann, wenn INTRAFIND in Kenntnis entgegenstehender oder abweichender Bedingungen des Kunden die
+            Lieferung vorbehaltlos ausführt. 2. Angebot, Vertragsabschluss, Informationen, Garantien a) Sämtliche
+            Angebote von INTRAFIND sind bezüglich Preise, Menge, Lieferfrist und Liefermöglichkeit freibleibend.
+            Angebote können nur binnen 30 Tagen angenommen werden. b) Beschaffenheits- und Haltbarkeitsangaben gelten
+            nur dann als Garantien, wenn sie ausdrücklich als solche bezeichnet werden. Dasselbe gilt für die Übernahme
+            eines Beschaffungsrisikos. c) Die in Datenblättern, Broschüren, Handbüchern und anderem Informationsmaterial
+            enthaltenen Informationen dienen nur als Richtschnur und werden nur dann verbindlicher Vertragsinhalt, wenn
+            INTRAFIND dem ausdrücklich schriftlich zugestimmt hat. d) Der Vertrag ist erst dann verbindlich, wenn
+            INTRAFIND die schriftliche Auftragsbestätigung erteilt hat. Nachträgliche mündliche Abreden bedürfen der
+            schriftlichen Bestätigung durch INTRAFIND. 3. Ausführung der Lieferung Falls nicht anders vereinbart,
+            bestimmt INTRAFIND Versandart und -weg. 4. Gefahrtragung Die Preisgefahr geht spätestens mit der Absendung
+            der Ware oder Abnahme auf den Kunden über. Verzögert sich die Lieferung infolge von Umständen, die der
+            Kunden zu vertreten hat, geht die Preisgefahr am Tag der Mitteilung der Leistungsbereitschaft auf ihn über.
+            5. Lieferung, Lieferzeit a) Für Art und Umfang der Lieferung ist die schriftliche Auftragsbestätigung von
+            INTRAFIND maßgebend, sofern dieser nicht unverzüglich schriftlich durch den Kunden widersprochen wird.
+            INTRAFIND ist zu Teillieferungen berechtigt, soweit sie für den Kunden zumutbar sind. b) Lieferfristen
+            gelten nur annähernd, sofern sie nicht ausdrücklich schriftlich als verbindlich zugesagt wurden. Die
+            Lieferzeit beginnt mit der Absendung der Auftragsbestätigung, jedoch nicht vor Klärung aller für die
+            Durchführung des Vertrags wesentlicher Fragen. 6. Rechte an Softwareprodukten a) Mit der Lieferung von
+            Softwareprogrammen wird kein Eigentum am Programm erworben, sondern lediglich das Nutzungsrecht. Die
+            Programme bleiben Eigentum von INTRAFIND. Die Nutzung eines Programms darf nur auf einem Computersystem
+            erfolgen. Eine Reproduktion oder Kopie der Programme, ganz oder teilweise ist dem Kunden nicht gestattet.
+            Ausgenommen sind Kopien, die der Kunde zu Zwecken der Datensicherung für sich anwendet. b) Der Auftraggeber
+            erhält das zeitlich unbegrenzte, nicht ausschließliche, nicht übertragbare Recht zum ausschließlichen
+            Gebrauch der ausführbaren Version (nicht des Quellcodes) der lizenzierten Softwareprodukte zu seinen eigenen
+            Zwecken. Die Nutzung ist dabei auf den in diesem Angebot definierten Einsatzzweck, die Anzahl der
+            angebotenen Serverlizenzen und auf die Anzahl der lizenzierten, zu indizierenden Dokumentenmenge beschränkt.
+            Eine darüber hinausgehende Nutzung erfordert eine Nachlizenzierung, die der Auftraggeber an den
+            Auftragnehmer unaufgefordert innerhalb von 4 Wochen berichtet. c) Die Installation der lizenzierten Software
+            erfordert einen Serialisierungsvorgang, d.h. es wird von IntraFind ein Serialisierungscode (Lizenzkey)
+            generiert. Der Auftraggeber erklärt sich damit einverstanden, diesen Serialisierungscode keinen anderen
+            Dritten weiterzugeben und diesen nicht zu veröffentlichen. Die Serialisierungscodes werden im Lizenzdokument
+            zusammengefasst und dort verwaltet. Ebenso werden dort die Test- und Migrationsserver definiert und
+            verwaltet. Die Dokumente werden bei Änderungen jeweils aktualisiert und von beiden Vertragsparteien
+            rechtsverbindlich unterzeichnet. d) Dekompilierung und Urhebervermerke. Die Rückübersetzung der lizenzierten
+            Software in andere Codeformen (Dekompilierung) sowie sonstige Arten der Rückerschließung der verschiedenen
+            Herstellungsstufen der lizenzierten Software (reverse engineering) sind verboten. Urhebervermerkte,
+            Seriennummern sowie sonstige der Programmidentifikation dienende Merkmale dürfen auf keinen Fall entfernt
+            oder geändert werden. e) Eine wirtschaftliche, kommerzielle Verwertung der gelieferten Produkte ist dem
+            Auftraggeber untersagt. Die Produkte sind für einen definierten Rechner bestimmt und dürfen nicht an interne
+            oder externe Dritte – auch unentgeltlich – weitergeben werden. f) Der Kunde verpflichtet sich, Programme
+            oder Kopien und/oder Reproduktionen hiervon, nicht an Dritte weiterzugeben oder Dritten zugänglich zu
+            machen. 7. Mängel der Lieferung, Pflichten des Kunden bei Mängelanzeige durch seine Endkunden,
+            Aufwendungsersatz, Haftung a) Gewährleistungsansprüche des Kunden setzen voraus, dass er seinen gesetzlichen
+            Untersuchungs- und Rügepflichten ordnungsgemäß nachgekommen ist. Bei offensichtlicher Mangelhaftigkeit oder
+            Unvollständigkeit der Ware sind INTRAFIND die Beanstandungen unverzüglich, spätestens aber innerhalb von 2
+            Wochen nach Lieferung bzw. Abnahme schriftlich unter genauer Bezeichnung des Fehlers und der Rechnungsnummer
+            anzuzeigen. Auf Aufforderung von INTRAFIND sind Belege, Muster, Packzettel und/oder die fehlerhafte Ware an
+            INTRAFIND zurückzusenden. Ansprüche des Kunden wegen Mangelhaftigkeit oder Unvollständigkeit der Lieferung
+            sind ausgeschlossen, wenn er dieser Verpflichtung nicht nachkommt. b) INTRAFIND übernimmt keine Gewähr für
+            eine bestimmte Verwendbarkeit der Lieferung. Der Kunde ist für eine bestimmungsgemäße Verwendung sowie
+            Sicherung seiner Daten verantwortlich. c) Sollte die Ware Mängel aufweisen, kann INTRAFIND nach seiner Wahl
+            als Nacherfüllung die Mängel beseitigen oder mangelfreien Ersatz leisten. Erst wenn dies wiederholt
+            fehlgeschlagen oder unzumutbar sein sollte und es sich nicht nur um unerhebliche Mängel handelt, ist der
+            Kunden nach Maßgabe der gesetzlichen Vorschriften zum Rücktritt oder zur Minderung berechtigt. § 478 BGB
+            bleibt unberührt. Schadensersatzansprüche stehen dem Kunden nach Maßgabe von Ziffer 7. f) – k) zu. d) Der
+            Kunde hat INTRAFIND unverzüglich über jede Mängelanzeige seines Endkunden in Bezug auf die Liefergegenstände
+            zu informieren. Kommt der Kunde dieser Verpflichtung nicht nach, hat er keine Mängelansprüche gegen
+            INTRAFIND, auch keinen Aufwendungsersatzanspruch gemäß § 478 BGB. e) Ersatzansprüche aus dem Erwerb der
+            nachzuliefernden Ware von Dritten oder aus der Einschaltung Dritter zur Nachbesserung kann der Kunde nur
+            dann im Wege des Rückgriffs (§ 478 BGB) gegen INTRAFIND geltend machen, wenn er zuvor für die Nacherfüllung
+            erfolglos eine angemessene Nachfrist gesetzt hat. f) INTRAFIND haftet unbeschränkt nach dem
+            Produkthaftungsgesetz, in Fällen der ausdrücklichen Übernahme einer Garantie oder eines Beschaffungsrisikos
+            sowie wegen vorsätzlicher oder grob fahrlässiger Pflichtverletzungen. Ebenso haftet INTRAFIND unbeschränkt
+            bei vorsätzlicher oder fahrlässiger Verletzung des Lebens, des Körpers oder der Gesundheit. Für leicht
+            fahrlässig verursachte Sach- und Vermögensschäden haftet INTRAFIND nur im Falle der Verletzung wesentlicher
+            Vertragspflichten (Kardinalpflichten), jedoch begrenzt auf den bei Vertragsschluss voraussehbaren,
+            vertragstypischen Schaden. g) Ansprüche auf Ersatz von Schäden aller Art, die infolge unsachgemäßer
+            Behandlung, Veränderung, Montage und/oder Bedienung der Liefergegenstände oder durch fehlerhafte Beratung
+            oder Einweisung durch den Kunden entstehen, sind ausgeschlossen, es sei denn, INTRAFIND hat sie zu
+            vertreten. Zudem trägt der Kunden die volle Verantwortung für die Verwendung eines auf seinen Wunsch auf der
+            Ware erscheinenden Designs, Warenzeichens oder Handelsnamens. h) Ist der Kunde berechtigt, Schadensersatz
+            statt der Leistung zu verlangen oder vom Vertrag zurückzutreten, so muss er sich auf Verlangen von INTRAFIND
+            binnen angemessener Frist erklären, ob und wie er von diesen Rechten Gebrauch machen wird. Erklärt er sich
+            nicht fristgerecht oder besteht er auf der Leistung, ist er zur Ausübung dieser Rechte erst nach fruchtlosem
+            Ablauf einer weiteren angemessenen Nachfrist berechtigt. i) Ansprüche wegen Mängeln verjähren in 12 Monaten
+            ab Gefahrübergang. Für Rechtsmängel gilt Entsprechendes. Bei vorsätzlichen Pflichtverletzungen, bei
+            Ansprüchen aus unerlaubter Handlung, beim Fehlen garantierter Eigenschaften, bei Übernahme von
+            Beschaffungsrisiken sowie bei Verletzung von Personen oder bei Leistungen für Bauwerke gelten die
+            gesetzlichen Verjährungsfristen. j) Eine weitergehende Haftung auf Schadensersatz als in den vorstehenden
+            Absätzen dieser Klausel 7. vorgesehen, ist - ohne Rücksicht auf die Rechtsnatur des geltend gemachten
+            Anspruchs - ausgeschlossen. k) Die vorstehenden Haftungsbeschränkungen gelten nach Grund und Höhe auch
+            zugunsten der gesetzlichen Vertreter, Mitarbeiter und sonstigen Erfüllungs- und/oder Verrichtungsgehilfen
+            von INTRAFIND. l) Vollständigkeit der Indizierung. Die IntraFind übernimmt keine Gewährleistung für
+            Vollständigkeit bei der Indizierung. Dies umfasst die Konvertierung von Dateien für die Indizierung sowie
+            die Indizierung sämtlicher Inhalte eines Dokumentes. Die IntraFind ist hierbei auf die Qualität von
+            Zukaufprodukten für die Format-Konvertierung angewiesen. Die IntraFind weist daher explizit darauf hin, dass
+            eventuell nicht alle Dokumente, die sich z.B. auf Fileservern oder in Datenbanken befinden, indiziert und
+            damit suchbar gemacht werden können. 8. Höhere Gewalt Alle Fälle von höherer Gewalt, Streik, Aussperrung,
+            unzureichender Material- oder Energieversorgung, Mangel an Transportmöglichkeiten und andere ähnliche
+            Ereignisse oder Ursachen außerhalb des Einwirkungsbereiches von INTRAFIND entbinden diesen für die Zeitdauer
+            und den Umfang solcher Hindernisse von der Verpflichtung zur Erfüllung des Vertrages. Dies gilt auch, wenn
+            diese Umstände bei den Zulieferern von INTRAFIND eintreten. Die vorbezeichneten Umstände sind auch dann von
+            INTRAFIND nicht zu vertreten, wenn sie während eines bereits vorliegenden Verzuges eintreten. Beginn und
+            Ende solcher Hinderungsgründe teilt INTRAFIND dem Kunden baldmöglichst mit. 9. Zahlungsbedingungen, Preise,
+            Verzug a) Die Preise verstehen sich, soweit nicht anders vereinbart, ausschließlich gesetzlicher
+            Mehrwertsteuer und Versandkosten. b) Alle Rechnungen sind innerhalb von 10 Tagen ab Rechnungsdatum ohne
+            jeden Abzug zahlbar. Maßgebend für die Einhaltung von Zahlungsfristen ist der Eingang der Zahlung auf den
+            Konten von INTRAFIND. c) Bei Zahlungsverzug werden Zinsen in Höhe von 8 Prozentpunkten jährlich über dem
+            jeweiligen Basiszinssatz (§ 247 BGB) fällig. Der Nachweis eines weitergehenden Verzugsschadens bleibt
+            vorbehalten. d) INTRAFIND ist zur Erfüllung des Vertrages solange nicht verpflichtet, wie der Kunden seinen
+            Pflichten auch aus anderen Verträgen mit ihm nicht vereinbarungsgemäß nachkommt, insbesondere fällige
+            Rechnungen nicht bezahlt. e) INTRAFIND ist bei Bestehen mehrerer Forderungen berechtigt, Zahlungen des
+            Kunden mit seinen Forderungen in der Reihenfolge ihrer Fälligkeit zu verrechnen. Das Bestimmungsrecht des
+            Schuldners gemäß § 366 Absatz 1 BGB wird insoweit ausgeschlossen. f) Der Kunde kann nur mit solchen
+            Ansprüchen aufrechnen oder ihretwegen die Zahlung zurückhalten, die schriftlich unbestritten oder
+            rechtskräftig festgestellt sind. g) INTRAFIND ist nach erfolglosem Ablauf einer angemessenen Nachfrist
+            berechtigt, ausstehende Lieferungen nur gegen Vorkasse durchzuführen oder von der Stellung einer Sicherheit
+            abhängig zu machen, wenn der Kunden mit vereinbarten Zahlungszielen in Verzug ist oder Umstände vorliegen,
+            die bei Anlegung banküblicher Maßstäbe Zweifel an der Zahlungsfähigkeit des Kunden begründen. 10. Leistung
+            durch verbundene Unternehmen Auf Verlangen von INTRAFIND kann jede seiner vertraglichen Verpflichtungen
+            durch ein anderes Unternehmen der INTRAFIND Gruppe erfüllt werden. Die berechtigten Interessen des Kunden
+            sind dabei angemessen zu berücksichtigen. Solange die Leistung gleichwertig ist, gelten die betreffenden
+            vertraglichen Verpflichtungen als erfüllt. 11. Eigentumsvorbehalt a) Gelieferte Ware bleibt bis zur
+            vollständigen Bezahlung des Kaufpreises und aller sonstigen Forderungen von INTRAFIND gegen den Kunden
+            Eigentum von INTRAFIND. Bei laufender Rechnung gilt das vorbehaltene Eigentum als Sicherung für die
+            Saldoforderung von INTRAFIND. Bei Zahlungseinstellung ist die Ware ohne Aufforderung auszusondern und zur
+            Verfügung von INTRAFIND zu halten. b) Eine Verarbeitung der gelieferten Ware durch den Kunden erfolgt für
+            INTRAFIND als Hersteller im Sinne des § 950 BGB, ohne diesen dadurch zu verpflichten. Wird die
+            Vorbehaltsware mit anderen, INTRAFIND nicht gehörenden Gegenständen zu einer einheitlichen Sache verbunden
+            oder untrennbar vermengt und ist diese Sache als Hauptsache anzusehen, so überträgt der Kunden INTRAFIND
+            hiermit anteiliges Miteigentum, soweit die Hauptsache ihm gehört. Der Kunden verwahrt das so entstandene
+            Eigentum unentgeltlich für INTRAFIND mit. c) Der Kunde ist bis zum jederzeit und ohne besonderer Begründung
+            zulässigen Widerruf durch INTRAFIND berechtigt, die Vorbehaltsware im Rahmen ordnungsgemäßer
+            Geschäftsführung zu veräußern, weiterzuverarbeiten oder umzubilden. Hieraus entstehende Forderungen tritt er
+            bereits jetzt an INTRAFIND ab. Wird die Vorbehaltsware vom Kunden zusammen mit anderen, nicht von INTRAFIND
+            gelieferten Sachen veräußert, so gilt die Abtretung nur in Höhe der in der Rechnung von INTRAFIND genannten
+            Werte der jeweils veräußerten Vorbehaltsware. Bei der Weiterveräußerung von Gegenständen, an denen INTRAFIND
+            gemäß Ziffer 10. b) Miteigentumsanteile hat, gilt die Abtretung in Höhe dieser Miteigentumsanteile. Die
+            abgetretenen Forderungen dienen in demselben Umfang zur Sicherheit wie die Vorbehaltsware. d) Übersteigt der
+            Wert der für INTRAFIND bestehenden Sicherheiten dessen Forderungen um insgesamt mehr als 10 %, so ist
+            INTRAFIND auf Verlangen des Kunden insoweit zur Freigabe von Sicherheiten nach Wahl von INTRAFIND
+            verpflichtet. e) Zu anderen Verfügungen über die Vorbehaltsware (Verpfändungen, Sicherungsübereignungen)
+            oder anderen Abtretungen der in Ziffer 10. c) genannten Forderungen ist der Kunde nicht berechtigt. Im Falle
+            von Pfändungen oder Beschlagnahmen der Vorbehaltsware hat der Kunde auf das Eigentum von INTRAFIND
+            hinzuweisen und INTRAFIND unverzüglich zu informieren. f) Der Kunde ist verpflichtet, die Vorbehaltsware
+            gegen alle üblichen Risiken, insbesondere gegen Feuer, Einbruchs- und Wassergefahren auf eigene Kosten
+            angemessen zu versichern, sie pfleglich zu behandeln und ordnungsgemäß zu lagern. g) Ist der Kunde in
+            Zahlungsverzug, ist INTRAFIND nach erfolglosem Ablauf einer Nachfrist auch dann zur Rücknahme der
+            Vorbehaltsware berechtigt, wenn INTRAFIND nicht vom Vertrag zurückgetreten ist. 12. Schutzrechte Dritter Die
+            Verantwortung für die Beachtung von Urheberrechten und anderen Schutzrechten an der vom Kunden vorgegebenen
+            Ausstattung der Ware trägt allein der Kunde. Im Falle von Inanspruchnahmen wegen angeblicher Verletzung von
+            Schutzrechten Dritter stellt der Kunde INTRAFIND auf erstes Anfordern frei. 13. Nennung des Auftraggebers
+            und des Projekts Der Auftraggeber erklärt sich mit der Nennung als Kunde der IntraFind nach erfolgter
+            Beauftragung einverstanden. Des Weiteren erlaubt der Auftraggeber der IntraFind die Nennung des
+            Auftraggebers als Referenzkunde nach erfolgreichem Projektabschluss. IntraFind ist auch berechtigt, das Logo
+            des Auftraggebers auf der Webseite der IntraFind und in Marketingunterlagen zu verwenden. Der Auftraggeber
+            erklärt sich ebenfalls bereit, bei der Erstellung einer Case Study mitzuwirken und nach Rücksprache
+            einzelfallbezogen als Referenzansprechpartner zu fungieren. Sämtliche den Auftraggeber oder das Projekt
+            betreffende Marketing-Dokumente werden dem Auftraggeber zur Freigabe vorlegt. 14. Erfüllungsort,
+            Gerichtsstand, Übertragung von Rechten, anzuwendendes Recht a) Als Erfüllungsort für die Lieferung und
+            Zahlung wird der Sitz von INTRAFIND vereinbart. b) Für alle sich aus dem Vertragsverhältnis ergebenden
+            Streitigkeiten ist, wenn der Kunde Kaufmann, eine juristische Person des öffentlichen Rechts oder ein
+            öffentlich-rechtliches Sondervermögen ist oder im Inland keinen allgemeinen Gerichtsstand hat, als
+            Gerichtsstand nach Wahl von INTRAFIND München oder der jeweilige Erfüllungsort (Ziffer 12. a)) vereinbart,
+            auch für Wechsel-, Urkunden- und Scheckverfahren. INTRAFIND ist aber berechtigt, den Kunden auch an seinem
+            Wohnsitzgericht zu verklagen. c) Eine Übertragung der Rechte des Kunden aus der Vertragsbeziehung ist nur
+            mit der vorherigen, schriftlichen Zustimmung von INTRAFIND zulässig. d) Es gilt ausnahmslos das für die
+            Rechtsbeziehungen inländischer und ausländischer Vertragspartner maßgebliche Recht der Bundesrepublik
+            Deutschland; die Anwendung von UN-Kaufrecht wird hiermit ausgeschlossen. e) Sollte eine Bestimmung dieser
+            Vereinbarung unwirksam sein oder werden, so gelten sämtliche übrigen Bestimmungen fort. Die Partner werden
+            die unwirksame Bestimmung durch eine wirksame ersetzen, die der unwirksamen in wirtschaftlicher Hinsicht
+            möglichst nahe kommt. Stand: Oktober 2010
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/semantik</url>
+        <id>10246E7BF6677ED60BC72BA243F8CD1D</id>
+        <title>Semantik</title>
+        <body>Semantik   Semantik ist die Bedeutungslehre. Sie befasst sich mit den Bedeutungen von Wörtern, Zeichen,
+            Symbolen usw. Gerade für Suchmaschinen und die Herstellung von Suchergebnissen spielt die Bedeutung, die
+            Semantik von Begriffen eine wichtige Rolle. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/products/ifinder5-elastic/contact-form-online-expert-session-ifinder5-elastic</url>
+        <id>BADE69B3A6790653FDD6354A2CCBEFE2</id>
+        <title>Online Expert Session iFinder5 elastic</title>
+        <body>Online expert session iFinder5 elastic</body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/blog/auf-welche-technologischen-grundlagen-baut-google-seine-semantische-suche-auf
+        </url>
+        <id>7BFDA653874831DBB8918638466C2169</id>
+        <title>Auf welche technologischen Grundlagen baut Google seine “Semantische Suche” auf?</title>
+        <body>Auf welche technologischen Grundlagen baut Google seine “Semantische Suche” auf?   “Semantische Suche” ist
+            ein schönes Buzzword — es bietet (so wie “Big Data”) die nötige Unschärfe um als Projektionsfläche für
+            Geek-Träume einer fernen SciFi Zukunft zu dienen. Nun, was versteht Google unter semantischer Suche und
+            worauf basieren dessen Lösungen?   Grundbaustein für Googles semantischer Suche ist der sogenannte Knowledge
+            Graph (KG), ein Wissensnetz von öffentlich zugänglichen semantisch annotierten Daten (im Sinne des semantic
+            web). In diesem Graph werden Entitäten (Personen, Orte, Organisationen, etc.) und deren Beziehungen
+            zueinander hinterlegt. Von Google genannte Quellen für Inhalte sind: der “CIA World Factbook”, Freebase und
+            Wikipedia. Die Befüllung des KG erfolgt somit hauptsächlich manuell (2013 hatte der KG eine Mächtigkeit von
+            knapp 600Mio Entitäten und Fakten).   Weiteres wichtiges Element des Systems ist die Verarbeitung der
+            Suchanfrage und sonstigen Signalen des Benutzers. Dabei ist es wichtig, möglichst präzise, Gelegenheiten des
+            Einsatzes des KG für die Beantwortung der Queries zu erkennen und auszunutzen. [Am Rande sei bemerkt, dass
+            die reguläre Term-Suche immer noch durchgeführt wird und Ergebnisse aus dem KG die Trefferliste bereichern
+            und nicht ersetzen.] Dazu kommen zusätzlich zur Verarbeitung natürlicher Sprache (Erkennung von Entitäten
+            und Nominalphrasen, Benutzung von Thesauri für Termerweiterungen, soweit möglich auch das Parsen der Queries
+            — Query-Sprache ist selten grammatisch), Signale wie geographische Lage, Query-History und -Trends, oder
+            persönliche Informationen (z.B. aus Gmail erkannte Flugdaten oder Onlinebestellungen) hinzu. Die Kombination
+            aus Verarbeitung natürlicher Sprache (“bank” –&gt; etwas zum sitzen, oder ein Geldhaus, oder …) und Kontext
+            (Benutzer hat kürzlich nach Stühlen gesucht –&gt; also wahrscheinlicher die Bank zum sitzen) erlaubt eine
+            präzise Disambiguierung von Begriffen, und somit eine sichere Ausbeute des KGs. Die immer tiefere
+            Verwurzelung von Google in das Alltag vieler Menschen (über Android, Gmail, Google , etc.) bietet einen
+            unglaublichen Reichtum an Kontextinformationen.   Die hohe Datenqualität des KGs erlaubt Google eine bessere
+            Platzierung von Anzeigen, und eröffnet völlig neue Geschäftsgebiete — statt nach einer Seite für
+            Restaurantreservierungen zu suchen, reserviert man direkt bei Google.   Semantische Suche bei Google ist
+            also eine dem persönlichen Kontext maßgeschneiderte Erweiterung der herkömmlichen Term-Suche mit Daten aus
+            einer handkuratierten Wissensdatenbank. Über die Kombination von Verarbeitung natürlicher Sprache und
+            Googles berüchtigter Datensammelwut (inkl. persönlicher Natur) erreicht die Disambiguierung von Suchanfragen
+            und somit auch die Ausbeute des KGs eine hohe Präzision.   Der Autor Breno Faria, Head of Development, ist
+            seit 2012 für die IntraFind Software AG tätig. Seit den späten 2000er Jahren beschäftigt er sich intensiv
+            mit den Themen Content Analytics und Information Retrieval. 2015 übernahm er die Rolle des
+            Entwicklungsleiters bei IntraFind.   Im Rahmen von Veranstaltungen, z.B. Berlin Buzzwords 2014 oder &quot;IntraFind
+            Enterprise Search Day 2015&quot;, referiert er regelmäßig über neue Technologien oder präsentiert innovative
+            Lösungen aus IntraFind Kundenprojekten.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/loesungen/produktivitaetssteigernde-loesungen</url>
+        <id>84832BF3A80A7CDD5A9D25A80D571950</id>
+        <title>Produktivitätssteigernde Lösungen</title>
+        <body>Lösungen zur Produktivitätssteigerung IntraFind Enterprise Search Profitieren Sie und Ihr Unternehmen
+            jeden Tag von der intelligenten Suche in zahlreichen Datenquellen. Sie entscheiden, welche Datenquellen zu
+            durchsuchen sind. Wir achten darauf, dass jeder Mitarbeiter vollständig, thematisch zusammenhängend und
+            rechtegeprüft sämtliche Informationen findet, um Ihr Unternehmen erfolgreicher zu gestalten. Mehr
+            Informationen &gt;&gt; Personensuche „Who does What?“ in Ihrem Unternehmen? Finden Sie schnell den Experten
+            in Ihrer Organisation, der Ihre Frage beantwortet. Big Data Analytics &amp; Big Content Analytics
+            Profitieren Sie von der Möglichkeit des iFinder5 elastic, größte Datenmengen auszulesen, intelligent
+            anzureichern. Erhalten Sie auf Knopfdruck inhaltlich stark korrelierende Informationspakete, die echte
+            Rückschlüsse zulassen. Weitere Informationen &gt;&gt; Automatische Klassifikation von Dokumenten Ihr
+            Unternehmen erhält täglich unzählige Dokumente per Post oder E-Mail? Mit der Integration einer automatischen
+            Dokumentenklassifikation übernimmt unsere Software die Aufgabe der Zuordnung der Inhalte in verschiedene
+            Kategorien, so dass sich der richtige Ansprechpartner in Ihrem Unternehmen mit den Themen befassen kann.
+            Suche in PowerPoint-Bibliotheken Sie wollen nicht ständig neue Folien erstellen sondern auf bereits
+            erstellte zurückgreifen? Oder Sie wollen wissen, wie Ihre Kollegen ein für Sie interessantes Thema
+            präsentieren? Unsere Lösung unterstützt Sie bei der folienbasierten Suche.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/facette</url>
+        <id>E5C98365495845704734B8AB86DBB09C</id>
+        <title>Facette</title>
+        <body>Facette   Filtermöglichkeit in der Standardansicht, aber auch in der Wissenslandkarte. Facetten basieren
+            auf Metadaten.   zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/solutions/business-sectors/automotive</url>
+        <id>5D08E894BE6D67DFB2CF600F5E34983B</id>
+        <title>Software solution for the automotive sector</title>
+        <body>Solutions for Automotive Industry: Relevant information uncomplicated just in time Find company data
+            easier, faster and more completely Employees need information - whether in research &amp; development, sales
+            or marketing. A fast, uncomplicated and complete access to the required information, as offered by the
+            Enterprise Search solution iFinder from IntraFind, means a valuable saving in time for the searcher. Optimal
+            provision of information in online portals A few IntraFind customers from the automotive industry operate
+            special online portals in order to provide information for their employees, but also for journalists,
+            dealers or workshops.   The use of a search solution makes sense here too, in order to facilitate
+            orientation of the portal visitor through the provision of high quality search results and to lead them to
+            the desired information in a user-friendly manner. All product data at a glance - no problem thanks to
+            iFinder The use of IntraFind search technologies has proven itself in practice also in combination with a
+            PLM system that contains all product data across the entire product lifecycle.   Through the integration of
+            the IntraFind iFinder in PLM-systems from, for example, Oracle Agile or Teamcenter, a full text search can
+            be used for metadata and data contents in indexed files.   The automobile industry, one of the central
+            mainstays of world economy, needs solutions for numerous challenges. Efficient structures and processes are
+            required in order to be able to fulfill the expectations and requirements of lawmakers and consumers for
+            new, high quality products in shorter periods of time.   Powerful search technologies cannot, of course,
+            solve all problems, but they can provide a significant contribution to simplify the provision of and access
+            to company information.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/deskriptor</url>
+        <id>F4315BBF1B35AFAF39FE51DA9315A0C0</id>
+        <title>Deskriptor</title>
+        <body>Deskriptor   Schlagwort zur inhaltlichen Beschreibung eines Objektes, z.B. das Thema eines Textes. Die
+            Vergabe von Deskriptoren ist Bestandteil der inhaltlichen Erschließung von Dokumenten, z.B. in Bibliotheken.
+            Meist sind Schlagwörter in einem kontrollierten Vokabular (z.B. Normdatei oder Thesaurus) hinterlegt und
+            werden regelbasiert vergeben. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/career</url>
+        <id>36E142993E1D2A35CD2F547377987898</id>
+        <title>Current job offers at IntraFind Software AG</title>
+        <body>Here you can find our current job offers IntraFind Software AG is growing - Grow with us! We develop
+            products and solutions for efficient searching, finding and analyzing of information from the most different
+            data sources. We implement innovative ideas in promising and powerful technologies in customer projects. If
+            you are just as passionate and enthusiastic about this as we are, are looking for new occupational
+            challenges and would like to work in a young, motivated team, then contact us. We look forward to hearing
+            from you! Current job offers: Project Manager Search &amp; Content Analytics (m/f) Software Developer -
+            Enterprise Search &amp; Big Data for our Professional Services team (m/f) Software Developer - Machine
+            Learning (m/f) Java Developer - Enterprise Search (m/f) Software Tester (m/f) Full Stack Web Developer (m/f)
+            Web Frontend Developer (m/f) DevOps Artist (m/f) Please send your application with your salary expectation
+            by email to jobs@intrafind.de Please note: Communication is very important to us. Therefore, we are
+            searching for colleagues who are either German native speakers or fluent in English and can read and
+            understand German.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/thesaurus</url>
+        <id>3EBC536973DA68E0F0CCD97088E5E156</id>
+        <title>Thesaurus</title>
+        <body>Thesaurus   Ein Thesaurus oder Wortnetz enthält Synonyme, Ober- und Unterbegriffe. zurück  </body>
+    </Document>
+</documents>

@@ -1,0 +1,16 @@
+spring:
+  output:
+    ansi:
+      enabled: detect
+
+security:
+  user:
+    name: ${security.user.password}
+    password: ESqIMPNz7I2l3F6lnotc87Jh9ud97GD5bsaSKsJJafk=
+  oauth2:
+    client:
+      clientId: a4d43021fa657695d4a7
+      clientSecret: ${random.uuid} # add valid token to your local configuration
+#      pre-established-redirect-uri: https://api.sitesearch.cloud/login
+#      registered-redirect-uri: https://api.sitesearch.cloud/login
+#      use-current-uri: true

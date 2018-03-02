@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="description" content="IntraFind Searchbar">
+    <meta name="author" content="IntraFind Software AG">
+
+    <title>iFinder Basic-UI</title>
+    <link rel="stylesheet" type="text/css" href="css/app.css" media="all"/>
+
+
+    <style>
+        body {
+            height: 100%;
+            background-color: #f1f4f6;
+        }
+    </style>
+
+</head>
+
+<body>
+            <div class="container" style="max-width: 800px; margin:0 auto; margin-top:50px;height:100%;">
+                <div id="searchbar"></div>
+
+                <div id="ifs-tab-wrapper" class="ifs-component" style="margin-top:20px;">
+                    <div id="if-sa-col" class="if-content-col">
+                        <div class="if-areas-btn ab-right">
+                            <div class="if-areas-blur"></div>
+                            <a href="javascript:void(0);" id="if-hs-scrollright"><i class="glyphicons glyphicons-chevron-right"></i></a>
+                        </div>
+                        <div class="if-areas-btn ab-left">
+                            <div class="if-areas-blur"></div>
+                            <a href="javascript:void(0);" id="if-hs-scrollleft"><i
+                                    class="glyphicons glyphicons-chevron-left"></i></a>
+                        </div>
+                        <div id="if-searchareas" class="if-areas">
+                            <ul class="nav nav-pills">
+                                <li role="presentation" class="active">
+                                    <a href="javascript:void(0);" id="check1" data-value="all" data-action="switch-tab">
+                                        <i class="glyphicons glyphicons-list-alt"></i> <span class="hidden-xs">Alle</span>
+                                    </a>
+                                </li>
+                                <li role="presentation">
+                                    <a href="javascript:void(0);" id="check2" data-value="people" data-action="switch-tab">
+                                        <i class="glyphicons glyphicons-user"></i> <span class="hidden-xs">Personen</span>
+                                    </a>
+                                </li>
+                                <li role="presentation">
+                                    <a href="javascript:void(0);" id="check3" data-value="documents" data-action="switch-tab">
+                                        <i class="glyphicons glyphicons-file"></i> <span class="hidden-xs">Dokumente</span>
+                                    </a>
+                                </li>
+                                <li role="presentation">
+                                    <a href="javascript:void(0);" id="check4" data-value="websites" data-action="switch-tab">
+                                        <i class="glyphicons glyphicons-globe"></i> <span class="hidden-xs">Webseiten</span>
+                                    </a>
+                                </li>
+                                <li role="presentation">
+                                    <a href="javascript:void(0);" id="check5" data-value="images" data-action="switch-tab">
+                                        <i class="glyphicons glyphicons-picture"></i> <span class="hidden-xs">Bilder</span>
+                                    </a>
+                                </li>
+                                <li role="presentation" class="disabled">
+                                    <a href="javascript:void(0);" id="check6" data-value="remote" data-action="switch-tab">
+                                        <i class="glyphicons glyphicons-display"></i> <span class="hidden-xs">Remote</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div id="resultlist" style="margin-top:20px;"></div>
+            </div>
+
+
+<script type="text/javascript" src="js/app.js"></script>
+<script type="text/javascript">
+  IFS.noConflict();
+  IFS.jQuery(document).ready(function ($) {
+
+    IFS.eventbus.addEventListener(IFS.constants.events.STATE_LOADED, function(e){
+      $('li.active').removeClass('active');
+      $('a[data-value=' + e.target.id + ']').parent().addClass('active');
+    });
+
+    IFS.initClient({
+      sbTarget: '#searchbar',
+      rlTarget: '#resultlist',
+//      stateParams: {
+//        encoded: 'ifs_state',
+//        query: "ifs_query",
+//        id: "ifs_connector_id",
+//        source: "ifs_source"
+//      },
+      configurl: './data/config.json',
+      sitesearch: false,
+      cors: true,
+      withCredentials: true
+
+//      callbacks: {
+//        transformer: {
+//          resultlistTransformer: function(data) {
+//            return data;
+//          }
+//        },
+//        persistentState: function(){ return false;}
+//        onSearch: function(event) {
+//            console.log("A search has been triggered!", event.target);
+//            var shouldResultBeRendered = false;
+//            return shouldResultBeRendered;
+//        }
+//        jQueryErrorCallbackMap: {
+//          500: function(errorObject, thrownError) {
+//            console.log("called if request returns HTTP 500 Error");
+//          }
+//        },
+//        jwtTokenProvider: function() {
+//          return "VALID_JWT_TOKEN"; //always needs to return a valid token
+//        }
+//        persistentState: false //can also be a function returning a boolean, i.e. function(){ return true;}
+//      },
+//
+//
+//      preview: {
+//        getCustomPreviewUrl: function(hit) {
+//          return "http://www.example.com/"
+//        },
+//        shouldUseCustomPreview: function(hit){
+//          return hit.fileext ? hit.fileext !== 'docx' : true;
+//        }
+//      }
+//
+//      ,customConfig: {
+//        merge: {},
+//        overwrite: {
+//          "appLang": "de",
+//          "ajax.limit": 10
+//        }
+//      }
+    });
+
+
+      /*// Dummy Tabs //////////////////////////////////
+       * to show how to integrate the search bar with tabs
+       */
+
+    $('body').on('click', '[data-action="switch-tab"]', function(e) {
+      e.preventDefault();
+
+      // Cache vars
+      var me = $(this);
+      var parent = me.parent();
+
+
+      if (!parent.hasClass('disabled')) {
+
+        var oldTarget = $('#if-searchareas li.active > a').attr('data-value');
+        var newTarget = me.attr('data-value');
+
+        // Reset active state
+        for (var i = 1;i <= 8; i++) {
+          $('#check'+i+'').parent().removeClass('active');
+        }
+
+        // Set active
+        parent.addClass('active');
+
+        IFS.eventbus.dispatch(IFS.constants.events.RESULT_TARGET_CHANGED, {
+          oldTarget: oldTarget,
+          newTarget: newTarget
+        });
+
+      }
+    });
+
+
+      /*// Horizontal Scrollbox //////////////////////////////////*/
+    $('#if-sa-col').ifHscroll({
+      scrollArea: '#if-searchareas',
+      scrollLeftTrigger: '#if-hs-scrollleft',
+      scrollRightTrigger: '#if-hs-scrollright',
+      scrollAmount: 200
+    });
+
+/*
+    IFS.eventbus.addEventListener(IFS.constants.events.RESULTLIST_HIT_CLICKED, function(event) {
+      console.log("event.target: ", event.target);
+      var clickTarget = $(event.target.clickTarget);
+      if (!clickTarget.attr('data-preview-id')) {
+        var index = clickTarget.closest('li').attr('data-index');
+        var url = "http://localhost:8090/if5/ifinder5/api/track"
+                            + "?id=" + event.target.item.id
+                            + '&idx=' + index
+                            + '&query=' + event.target.querySpec.query
+                            + '&timestamp=' + (new Date().getTime());
+
+        $.get({ 'url': url });
+      }
+
+    });
+*/
+    IFS.eventbus.addEventListener(IFS.constants.events.NEW_RESULT_LOADED, function(event) {
+      $('#if-searchareas li').removeClass('active');
+      $('#if-searchareas li > a[data-value="' + event.target.id + '"]').parent().addClass('active');
+    });
+  });
+
+</script>
+</body>
+</html>

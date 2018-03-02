@@ -1,0 +1,19 @@
+<div class="row">
+    <div class="col-sm-10 nopadding">
+        <a href="javascript:void(0);" data-action="preview" {{#if shouldUseCustomPreview}}data-preview-custom="{{customPreviewUrl}}"{{/if}} data-preview-id="{{urlbase64}}" class="ifs-dw-link">
+            <img src="{{rootDir}}/{{iconPath}}/{{fileExtension}}.png"
+                 class="ifs-ico-ft"
+                 onerror="this.src='{{rootDir}}/{{iconPath}}/_blank.png'">
+        </a>
+
+        {{#if url}}
+        	<a href="{{url}}" target="_blank" class="ifs-dw-link">{{filename}}</a>
+        {{else}}
+        	{{filename}}
+    	{{/if}}
+    
+    </div>
+    {{#if modified}}
+        <div class="col-sm-2 text-right text-nowrap hidden-xs nopadding">{{modified}}</div>
+    {{/if}}
+</div>

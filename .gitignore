@@ -1,14 +1,18 @@
+confidential
 generated_tests/
 config.json
 
+\.DS_Store
+/service/data
+/*.log
+/*.hprof
+
 /data
+service/config
 
-# Spring Boot
-/config
-
-/target
-
-/build
+client/build/js
+service/src/main/resources/static/app
+build
 /.gradle
 
 # IntelliJ

@@ -14,4 +14,6 @@
  * limitations under the License.
  */
 
-rootProject.name = 'if-sitesearch'
+rootProject.name = "if-sitesearch"
+
+include "service", "client", "finder", "gadget"

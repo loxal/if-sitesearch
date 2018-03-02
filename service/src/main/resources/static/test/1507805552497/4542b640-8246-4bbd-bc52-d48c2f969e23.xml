@@ -1,0 +1,1496 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!--
+  ~ Copyright 2017 IntraFind Software AG. All rights reserved.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<documents count="50">
+    <Document>
+        <url>
+            http://www.intrafind.de/unternehmen/news/intrafind-stellt-neue-produktgeneration-fuer-intelligentes-finden-von-unternehmensinformationen
+        </url>
+        <id>BE8705282E13C0983DD38F421F2B43C6</id>
+        <title>17/11/2015 - IntraFind stellt neue Produktgeneration für intelligentes Finden von
+            Unternehmensinformationen vor
+        </title>
+        <body>IntraFind stellt neue Produktgeneration für intelligentes Finden von Unternehmensinformationen vor Der
+            iFinder5 elastic als zentraler Einstieg in die Suche nach Unternehmensdaten Suchergebnisse werden
+            signifikant verbessert durch die Verbindung von Enterprise Search und Content Analytics Neues Facelift der
+            Benutzeroberfläche, neues Dashboard und zahlreiche weitere neue Funktionen erleichtern den Umgang mit
+            Informationen im Alltag und den Informationsaustausch in Teams Hohe Skalierbarkeit, Load Balancing erlauben
+            Realtime-Indexierung und Ausfallsicherheit, schnelle Lastenverteilung und damit eine schnelle Suche in
+            großen Datenbeständen – Big Data Analytics   München, 17. November 2015 - IntraFind stellt mit der
+            Markteinführung des iFinder5 elastic eine neue Produktgeneration vor, die Unternehmen und deren Mitarbeitern
+            den Umgang mit Informationen massiv erleichtert.   Das Produkt iFinder5 elastic ist sowohl für kleine und
+            mittelständische Unternehmen als auch für Konzerne interessant. Die Verbindung von Enterprise Search und
+            Content Analytics-Methoden - wie zum Beispiel die linguistische Aufbereitung von Inhalten - sorgt zum einen
+            für eine vollständige Trefferliste und zum anderen dafür, dass relevante Inhalte intelligent verknüpft
+            werden. Der Anwender sieht auf einem Blick, welche Dokumente für ihn interessant sind.   Ob eingesetzt als
+            klassische Enterprise Search-Lösung mit Anbindung von unterschiedlichen Datenquellen, integriert in eine
+            bestehende Applikation oder in ein Portal – der iFinder5 elastic ist vielfach einsetzbar und erfüllt dabei
+            höchste Anforderungen an eine Suche.   „Mit dem iFinder5 elastic bieten wir Unternehmen einen komplett neuen
+            Zugang zu Informationen. Unsere Entwicklung geht weit darüber hinaus, nur eine Trefferliste zu liefern;
+            jeder Anwender kann zukünftig Suchergebnisse mit Kollegen teilen. Über das Dashboard erhält er ein
+            personalisierbares Informationscenter. Der Anwender kann interne und externe Quellen (Social Media,
+            Internet) miteinander verbinden und wichtige Informationen verknüpft erhalten. Wie oft sind Fachabteilungen
+            aufgefordert, Situationen schnell und kompetent zu bewerten und wie hilfreich ist es, wenn schnell
+            historische Daten mit aktuellsten Informationen verbunden werden können. Auf diesem Weg lassen wir unsere
+            Kunden nicht allein.“, sagt Franz Kögl, Vorstand der IntraFind Software AG.   Tools, die den Arbeitsalltag
+            erleichtern. Von der einfachen Suche zum Informationscenter IntraFind setzt mit der komplett überarbeiteten
+            Benutzeroberfläche neue Standards. Dem Anwender steht ab sofort ein Dashboard mit intelligenten und
+            personalisierbaren Widgets zur Verfügung. So kann er bspw. neueste Unternehmensnachrichten lesen, seinen
+            wichtigsten Blog oder Newsfeed einbinden, mittels der Personensuche  Ansprechpartner in seinem Unternehmen
+            finden und darüber hinaus direkt über das Dashboard seinen Rechercheprozess vom Vortag wieder aufnehmen.  
+            Profitieren wird der Anwender von der konzeptionell überarbeiteten Trefferliste. Intuitiv begleiten
+            Autovervollständigung, grafische Menüpunkte und ausgeklügelte Filtermechanismen den Anwender bei seinem
+            Such- oder Rechercheprozess. IntraFind verfügt über Preview-Möglichkeiten von mehr als 600 Dateiformaten, so
+            dass Dokumente schon aus der Trefferliste heraus gesichtet werden können. Ein Highlight ist an dieser Stelle
+            die folienbasierte Darstellung von Präsentationen in der Trefferliste.   Der Anwender sieht sofort, welche
+            Folien für ihn relevant sind und kann diese direkt öffnen. Ermöglicht wird dies vom eigens dafür
+            entwickelten Template-Konzept, welches sich sogar auf Kundenanforderungen anpassen lässt.   Natürlich werden
+            gemäß Secure Search alle Benutzerrechte auch im Suchprozess berücksichtigt, sowohl in der Suchoberfläche als
+            auch in der Trefferliste. Jeder Anwender sieht nur das, was er sehen darf.   Technologische Maßstäbe setzen
+            – universelle Suche in unterschiedlichen Datenquellen Der iFinder5 elastic ist plattformunabhängig
+            konzipiert und hoch skalierbar. Die intelligente Mehrschichtarchitektur ermöglicht eine hohe
+            Ausfallsicherheit sowie eine einfach zu erreichende Lastverteilung. Basierend auf der führenden Open
+            Source-Volltextsuchmaschine Elasticsearch unterstützt der iFinder5 elastic größte Datenmengen. Das
+            einzigartige Konzept des iFinder5 elastic erlaubt natürlich auch den wirtschaftlich sinnvollen Einsatz in
+            mittleren und kleineren Projekten. Dabei ist es vollkommen egal, aus welchen Quellen die zu indizierenden
+            Dokumente stammen. iFinder5 elastic verfügt über umfangreiche Schnittstellen zu Quellsystemen, wie z.B.
+            Microsoft Exchange, Dateisysteme und viele mehr.   Verfügbarkeit und Preise Der iFinder5 elastic ist ab
+            sofort bestellbar und bereits bei ersten Kunden produktiv im Einsatz.   Veranstaltungen LIVE WEBCASTS:
+            Donnerstag, 3. Dezember 2015, 10:00 Uhr: &quot;iFinder5 elastic: IntraFinds neue Produktgeneration verbindet
+            intelligente Suche mit Content Analytics (Live Demo Anwendungsbeispiele)&quot;  Donnerstag, 14. Januar 2016,
+            10:00 Uhr: &quot;iFinder5 elastic: Suche in Dateisystemen – von A bis Z&quot;   BUSINESS BRUNCH mit
+            folgenden Stationen: Donnerstag, 21. Januar 2016, Hamburg Donnerstag, 25. Februar 2016, Frankfurt Freitag,
+            26. Februar 2016, Düsseldorf   Verwandte Links: www.intrafind.de iFinder5 elastic Blog   Über die IntraFind
+            Software AG IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden, Analysieren von
+            Informationen unter Berücksichtigung aller Datenquellen eines Unternehmens. Volltextsuche und die komplette
+            Bandbreite an Textanalyseverfahren bilden die Grundlage für optimale Rechercheergebnisse. Das
+            IntraFind-Lösungsspektrum reicht von der Suche in einer Applikation, Enterprise Search und
+            Metadatenmanagement bis hin zu spezialisierten, suchbasierten Anwendungen und Textanalyselösungen. IntraFind
+            betreut seine Kunden umfassend – beginnend mit einer Bedarfsanalyse bietet IntraFind Beratung, Konzeption
+            und Umsetzung sowie Unterstützung im laufenden Betrieb an. Die IntraFind Software AG wurde im Jahr 2000
+            gegründet und hat ihren Firmensitz in München. Namhafte Kunden von IntraFind sind: AUDI AG, Robert Bosch
+            GmbH, ZEIT ONLINE GmbH.   Für weitere Informationen wenden Sie sich bitte an   IntraFind Software AG Sonja
+            Bellaire Leitung Marketing Landsberger Straße 368 D-80687 München Email: sonja.bellaire@intrafind.de
+            Telefon: 49 89 3090446-0 Internet: http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/unternehmen/news/intrafind-verwandelt-elasticsearch-zu-einer-kompletten-enterprise-search-loesung
+        </url>
+        <id>06B67F249AF42B97657BEEE3CFB9C801</id>
+        <title>06/03/2017 - IntraFind verwandelt Elasticsearch zu einer kompletten Enterprise Search-Lösung</title>
+        <body>IntraFind verwandelt Elasticsearch zu einer kompletten Enterprise Search-Lösung München, den 06.03.2017 –
+            Auf der Elastic{ON}17 (07. – 09. März 2017, San Francisco) zeigt IntraFind neue Features im iFinder5
+            elastic. Das Unternehmen mit Sitz in München und New York präsentiert am Stand 3 eine Komplettlösung für
+            Enterprise Search und Content Analytics auf Basis der offenen Suchtechnologie Elasticsearch. „Die
+            Elastic{ON} in San Francisco ist die weltweit wichtigste Messe für die Branche im Bereich Elasticsearch“,
+            erklärt Bernhard Messer, Vorstand der IntraFind Software AG. „Wir nutzen unsere Präsenz vor Ort, um zu
+            demonstrieren, wie IntraFind mit innovativen Erweiterungen aus der offenen Elasticsearch-Technologie eine
+            leistungsfähige Enterprise Search-Plattform für Unternehmen entwickelt hat. Mit dem iFinder5 elastic können
+            sich unsere Kunden auf ihre Kernkompetenz konzentrieren und müssen nicht zusätzlich in Know-how für die
+            Programmierung von weiteren Features investieren.“ iFinder5 elastic: 33 Sprachen, 600 Dateiformate Der
+            iFinder5 elastic bietet ein verständliches, einfach zu bedienendes User Interface. Ähnlich wie es der Nutzer
+            auch von anderen Suchmaschinen (z.B. erfolgreichen Online Shops) kennt, erfolgt die Bedienung über ein
+            zentrales Suchfeld. Die Autocomplete-Funktion ermöglicht durch die intelligente Ergänzung des eingegebenen
+            Suchbegriffs eine schnelle Suche in großen Datenbeständen und dank „Meinten-Sie“-Tippfehlerkorrektur muss
+            der Nutzer nicht zwingend wissen, wie der Suchbegriff korrekt geschrieben wird. Der iFinder5 elastic
+            unterstützt außerdem 600 Dateiformate. Nutzer können die gefundenen Dokumente in der Vorschauansicht öffnen,
+            ohne dass das entsprechende Programm auf ihrem Gerät installiert sein muss. Die Rechte sind dank Secure
+            Search im Index gespeichert, sodass Nutzer nur die Daten bei der Suche in der Trefferliste angezeigt
+            bekommen, die sie berechtigt sind zu sehen. Linguistik und Content Analytics Der iFinder5 elastic
+            unterstützt bis zu 33 Sprachen und bietet optional auch sprachübergreifende (crosslinguale) Suche.
+            Zahlreiche Linguistik Features wie Eigennamenerkennung und Kompositazerlegung können ebenfalls bei Bedarf
+            hinzugebucht werden, um präzisere Suchtreffer zu erhalten. So findet die Anwendung zum Beispiel den Begriff
+            „Komplettradsatz“, auch wenn der Nutzer nur nach „Räder“ gesucht hat. IntraFind adressiert mit der
+            Enterprise Search-Lösung iFinder5 elastic sowohl kleine, innovative Unternehmen als auch internationale
+            Konzerne mit vielen Standorten und großen Datenbeständen. Dazu gehören unter anderem Unternehmen wie Audi,
+            Bosch oder MAN, aber auch die IHK Berlin. „Der iFinder5 elastic hat sich besonders bei der Suche in Big Data
+            Beständen bewährt,“ sagt Messer. „Dadurch, dass der iFinder komplett auf Elasticsearch basiert, erreichen
+            wir eine optimale Lastverteilung auf möglichst viele Server und sind ausfallsicherer. Gerade für große
+            Unternehmen, deren Server und Daten über mehrere Standorte verteilt sind, ist das von erheblichem Vorteil.“
+            Enterprise Search-Lösungen für fundierte Geschäftsentscheidungen Wachsende Datenmengen in den Unternehmen,
+            unstrukturiert beispielsweise in E-Mails und Präsentationen oder strukturiert als Sensordaten aus dem IoT in
+            Datenbanken, bergen ein enormes Potenzial. Oftmals lagern diese Daten und Dokumente in cloudbasierten
+            Applikationen, verschiedenen Systemen oder Laufwerken ohne dass die Mitarbeiter wissen, dass es die Dateien
+            überhaupt gibt. Um fundierte Geschäftsentscheidungen zu treffen ist es wichtig, Informationen aus
+            strukturierten und unstrukturierten Daten zu gewinnen und diese zu analysieren. Hier setzt IntraFind mit
+            seiner Enterprise Search-Lösung an, um den Kunden für bessere Geschäftsentscheidungen tiefgreifende Analysen
+            von Daten und Wissen im Unternehmen bereitzustellen.   Über IntraFind Software AG IntraFind entwickelt
+            Produkte und Lösungen für das effiziente Suchen, Finden, Analysieren von strukturierten und unstrukturierten
+            Informationen unter Berücksichtigung aller verfügbaren Datenquellen eines Unternehmens. Volltextsuche und
+            die komplette Bandbreite an Textanalyse- und Machine Learning-Verfahren, Natural Language Processing,
+            kombiniert mit den Möglichkeiten von Graphdatenbanken für Big Data Analytics, bilden hierbei den
+            Schwerpunkt. Namhafte Kunden sind: AUDI AG, Bundeswehr, IHK Berlin, Robert Bosch GmbH und Rohde &amp;
+            Schwarz GmbH &amp; Co. KG. Mehr Informationen: www.intrafind.de. Für weitere Informationen wenden Sie sich
+            bitte an IntraFind Software AG Christiane Stagge Landsberger Straße 368 D-80687 München Email:
+            christiane.stagge@intrafind.de Internet: http://www.intrafind.de   Pressekontakt AxiCom GmbH Frank
+            Mihm-Gebauer Infanteriestr. 11 80676 München Tel.: 089 800 908 15 E-Mail: frank.mihm-gebauer@axicom.com
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/unternehmen/news/diakonie-deutschland-setzt-ifinder5-elastic-fuer-die-suche-in-netapp-fileservices-ein
+        </url>
+        <id>6CC60D9C128BFAA0B38862A3C49F4C8D</id>
+        <title>06/02/2017 - Diakonie Deutschland setzt iFinder5 elastic für die Suche in NetApp Fileservices ein</title>
+        <body>Diakonie Deutschland setzt iFinder5 elastic für die Suche in NetApp Fileservices ein München, den
+            06.02.2017 – Die Diakonie Deutschland – Evangelischer Bundesverband ist der soziale Dienst der evangelischen
+            Kirchen. Zu ihr gehören 18 Landesverbände und 69 Fachverbände, die in unterschiedlichen Bereichen der
+            sozialen Arbeit, des Gesundheitswesens sowie der Jugend- und Erziehungshilfe tätig sind. Die Diakonie
+            Deutschland setzt ab sofort für die Suche in NetApp Filesystemen den iFinder5 elastic ein. Der iFinder5
+            elastic wird dabei mit dem fpolicy Konnektor an die bestehenden NetApp Fileservices angebunden. Die Storage
+            Lösungen von NetApp speichern große Datenmengen auf Filesystemen. Mit dem iFinder5 elastic können diese
+            Filesysteme nun noch schneller durchsucht werden und die zeitaufwändige Suche über den Windows Explorer ist
+            damit passé: Wird ein Dokument neu angelegt, gelöscht, geändert oder auch nur eine Berechtigung geändert, so
+            wird diese Änderung direkt und ohne aufwändiges Crawling im iFinder verarbeitet. Die Suchergebnisse spiegeln
+            stets den aktuellen Stand in Echtzeit wider. Der iFinder5 elastic  ist eine Enterprise Search Lösung für die
+            übergreifende Volltextsuche in strukturierten und unstrukturierten Daten unter Berücksichtigung der
+            Benutzerrechte. Mit dem iFinder5 elastic ist gewährleistet, dass die Benutzer bei der Suche nur die Daten
+            angezeigt bekommen, die sie auch berechtigt sind zu sehen. Über Single Sign On kann der Nutzer bequem über
+            ein browserbasiertes UI auf alle Funktionalitäten einer komfortablen Suche für alle Mitarbeiter eines
+            Unternehmens zugreifen. Neben der Such-/Trefferseite kann sich jeder Nutzer individuell auch ein Dashboard
+            mit den für ihn relevanten Informationsbausteinen („Dashlets“) selbst konfigurieren und sich beispielsweise
+            die Telefonliste, einen News-Stream oder bestimmte Suchergebnisse als Favoriten anzeigen lassen. Um dem User
+            das Arbeiten zu erleichtern, wird jede Suchanfrage in einem separaten Reiter dargestellt. Bei Eingabe eines
+            Suchbegriffs öffnet sich automatisch ein neuer Tab. Die vorhergehende Suchanfrage bleibt bestehen und kann
+            jederzeit wieder über einen Klick zurückgeholt und weiter bearbeitet werden. Für den Nutzer bleibt der
+            gesamte Suchprozess so einfach wie möglich: Die jeweiligen Fundstellen in den einzelnen Trefferdokumenten
+            sind farblich markiert, so dass der Mitarbeiter einen guten Überblick über die jeweiligen in Frage kommenden
+            Dokumente hat. Regelmäßig wiederkehrende oder komplexe Suchanfragen lassen sich außerdem als Favorit
+            speichern und im Dashboard anzeigen. Relevante Dokumente kann der Nutzer ebenfalls als Favorit markieren.  
+            Der iFinder5 elastic korrigiert außerdem Tippfehler und macht intelligente „Meinten-Sie“-Vorschläge. Egal ob
+            Word, PDF, Excel oder HTML – der iFinder5 elastic unterstützt über 600 Dateiformate, die aus
+            unterschiedlichen Systemen wie Netzlaufwerken, dem Intranet oder aus der Cloud stammen können.      Über
+            IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden,
+            Analysieren von strukturierten und unstrukturierten Informationen unter Berücksichtigung aller verfügbaren
+            Datenquellen eines Unternehmens. Volltextsuche und die komplette Bandbreite an Textanalyse- und Machine
+            Learning-Verfahren, Natural Language Processing, kombiniert mit den Möglichkeiten von Graphdatenbanken für
+            Big Data Analytics, bilden hierbei den Schwerpunkt. Namhafte Kunden sind: AUDI AG, Bundeswehr, IHK Berlin,
+            Robert Bosch GmbH und Rohde &amp; Schwarz GmbH &amp; Co. KG. Mehr Informationen: www.intrafind.de. Für
+            weitere Informationen wenden Sie sich bitte an IntraFind Software AG Christiane Stagge Landsberger Straße
+            368 D-80687 München Email: christiane.stagge@intrafind.de Internet: http://www.intrafind.de
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/unternehmen/news/airbus-defence-and-space-nutzt-erfolgreich-intrafind-ifinder-fuer-suche-in-microsoft-sharepoint
+        </url>
+        <id>9B659162ED2241C2D73E88CC2D38AF81</id>
+        <title>11/11/2015 - Airbus Defence and Space nutzt erfolgreich IntraFind iFinder für Suche in Microsoft
+            SharePoint
+        </title>
+        <body>Airbus Defence and Space nutzt erfolgreich IntraFind iFinder für Suche in Microsoft SharePoint   München,
+            11.11.2015 – Airbus Defence and Space setzt seit längerem das Enterprise Search Produkt iFinder ein, um die
+            Inhalte interner Projektverzeichnisse in Microsoft SharePoint zu durchsuchen.   Die Verwendung des iFinder
+            als leistungsfähiges Recherchewerkzeug bringt für den Kunden Airbus deutliche Vorteile im Vergleich zur
+            SharePoint Standardsuche mit sich.   Zusätzliche Suchfunktionalitäten und Filter, wie z.B. nach
+            Datumsbereichen, verbessern Recherche und Navigation und erleichtern den Mitarbeitern den Weg zum besten
+            Trefferdokument.   Erfahren Sie mehr über die Einsatzmöglichkeiten des IntraFind iFinder. Zahlreiche
+            namhafte Kunden verwenden die Technologien von IntraFind - lesen Sie dazu ausgewählte Referenzberichte.  
+            Über Airbus Defence and Space Airbus Defence and Space, eine Division des Airbus-Konzerns, ist das führende
+            Verteidigungs- und Raumfahrtunternehmen Europas und erzielt mit etwa 40.000 Mitarbeitern einen Jahresumsatz
+            von rund 14 Mrd. €.   Über die IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für das
+            effiziente Suchen, Finden, Analysieren von Informationen unter Berücksichtigung aller Datenquellen eines
+            Unternehmens. Volltextsuche und die komplette Bandbreite an Textanalyseverfahren bilden die Grundlage für
+            optimale Rechercheergebnisse. Das IntraFind-Lösungsspektrum reicht von der Suche in einer Applikation,
+            Enterprise Search und Metadatenmanagement bis hin zu spezialisierten, suchbasierten Anwendungen und
+            Textanalyselösungen. IntraFind betreut seine Kunden umfassend – beginnend mit einer Bedarfsanalyse bietet
+            IntraFind Beratung, Konzeption und Umsetzung sowie Unterstützung im laufenden Betrieb an. Die IntraFind
+            Software AG wurde im Jahr 2000 gegründet und hat ihren Firmensitz in München. Namhafte Kunden von IntraFind
+            sind: AUDI AG, Robert Bosch GmbH, ZEIT ONLINE GmbH.   Für weitere Informationen wenden Sie sich bitte an  
+            IntraFind Software AG Sonja Bellaire Landsberger Straße 368 D-80687 München Email:
+            sonja.bellaire@intrafind.de Internet: http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/news/webcast-intrafind-praesentiert-anwendungsbeispiele-fuer-enterprise-search-in-unternehmen
+        </url>
+        <id>2C719548B993B0500583872231A4D173</id>
+        <title>30/07/2015 - Webcast: IntraFind präsentiert Anwendungsbeispiele für Enterprise Search in Unternehmen
+        </title>
+        <body>Webcast: IntraFind präsentiert Anwendungsbeispiele für Enterprise Search in Unternehmen   München,
+            30.07.2015 – IntraFind, führender Anbieter von Lösungen für das effiziente Suchen, Finden und Analysieren
+            von Informationen aus verschiedensten Datenquellen, veranstaltet am 07. August 2015 von 10 bis 11 Uhr einen
+            Live Webcast zum Thema „Use Cases aus Kundenprojekten“.   Interaktiv erläutern die beiden IntraFind
+            Moderatoren Peter Pleschak, Head of Professional Services, und Manuel Brunner, verantwortlich für Partner
+            Management &amp; Business Development, das breite Einsatzspektrum von Enterprise Search-Lösungen sowie die
+            damit verbundenen Mehrwerte für Unternehmen.   Basierend auf seiner langjährigen Erfahrung in der
+            Konzeptionierung und Umsetzung von Enterprise Search-Projekten lautet das Credo von Manuel Brunner: &quot;Suche
+            ist weitaus mehr als die einfache Suche nach Dokumenten im Dateisystem.&quot;   Anhand von Referenz- und
+            Praxisbeispielen verdeutlicht er, wie IntraFind Kunden aus verschiedensten Branchen und mit
+            unterschiedlichsten Anforderungen und Geschäftsprozessen erfolgreich Enterprise Search-Produkte wie iFinder
+            einsetzen und dadurch zahlreiche Vorteile erzielen.   Im Anschluss an die Präsentation besteht für die
+            Teilnehmer die Möglichkeit, Fragen zu stellen.   Die Teilnahme an der Veranstaltung ist kostenfrei.   Zum
+            Live Webcast am Freitag, 07.08.2015, 10 Uhr bis 11 Uhr Mehr Informationen zum Lösungsportfolio der IntraFind
+            Software AG Enterprise Search bedeutet mehr als Suche und Finden - lernen Sie Anwendungsbeispiele kennen  
+            Über die IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden,
+            Analysieren von Informationen unter Berücksichtigung aller Datenquellen eines Unternehmens. Volltextsuche
+            und die komplette Bandbreite an Textanalyseverfahren bilden die Grundlage für optimale Rechercheergebnisse.
+            Das IntraFind-Lösungsspektrum reicht von der Suche in einer Applikation, Enterprise Search und
+            Metadatenmanagement bis hin zu spezialisierten, suchbasierten Anwendungen und Textanalyselösungen. IntraFind
+            betreut seine Kunden umfassend – beginnend mit einer Bedarfsanalyse bietet IntraFind Beratung, Konzeption
+            und Umsetzung sowie Unterstützung im laufenden Betrieb an. Die IntraFind Software AG wurde im Jahr 2000
+            gegründet und hat ihren Firmensitz in München. Namhafte Kunden von IntraFind sind: AUDI AG, Robert Bosch
+            GmbH, ZEIT ONLINE GmbH.   Für weitere Informationen wenden Sie sich bitte an   IntraFind Software AG Sonja
+            Bellaire Landsberger Straße 368 D-80687 München Email: sonja.bellaire@intrafind.de Internet:
+            http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/news/fraport-entscheidet-sich-fuer-intrafind</url>
+        <id>46574DE64D3DA681E3C4175C06BFAEE3</id>
+        <title>21/02/2017 - Fraport entscheidet sich für IntraFind</title>
+        <body>IntraFind löst erfolgreich Google Search Appliance (GSA) bei Fraport ab München, den 22.09.2017 – Wenn
+            Mitarbeiter der Fraport AG früher im Intranet Kontaktdaten oder Telefonnummern von Ansprechpartnern gesucht
+            haben oder nach speziellen Kostenstellen recherchieren mussten, haben sie die dafür vorgesehene Suchfunktion
+            der Google Search Appliance (GSA) genutzt. Nun hat sich der Konzern dafür entschieden, die bisherige
+            Suchlösung abzulösen. Künftig setzt Fraport bei der Suche im Intranet auf den iFinder5 elastic.   Mit dem
+            iFinder5 elastic lässt sich die GSA schnell und unkompliziert ersetzen. Besonders praktisch: Die vorhandenen
+            Google Feed Infrastruktur kann problemlos weitergenutzt werden. Dadurch kann IntraFind unter geringem
+            Aufwand die neue und verbesserte Suche vielen Anwendern zur Verfügung stellen. Fraport nutzt für die Suche
+            im Intranet die Suchoberfläche des iFinder5 elastic. Kunden, die sich für eine GSA-Ablöse bei IntraFind
+            entscheiden, hätten aber auch die Möglichkeit, die Suche in eine eigene Benutzeroberfläche oder Applikation
+            zu integrieren. Für die Custom UI bietet IntraFind zahlreiche Integrationskomponenten, wie zum Beispiel eine
+            Searchbar oder eine Trefferliste.    Integration von Fluginformationen in die Suche Bei Fraport wurden in
+            die Suchfunktion außerdem die Fluginformationen mit eingebunden. So erfahren die Mitarbeiter, ob ein Flug
+            pünktlich ist oder Verspätung hat. Der iFinder5 elastic punktet außerdem mit einem barrierearmen User
+            Interface. Davon profitiert Fraport besonders, denn die Mitarbeiter verwenden die Suchfunktion im Intranet
+            nicht nur auf dem Desktop-PC, sondern auch auf dem Smartphone, da sie sich oft auf dem Flughafengelände
+            aufhalten. Für die Metadatenerzeugung nutzt Fraport außerdem den IntraFind Tagging Service, um den Content
+            automatisch zu verschlagworten und damit den Content-Erstellungsprozess deutlich zu verbessern. „Mit dem
+            iFinder5 elastic finden die Mitarbeiter nun noch schneller alle wesentlichen Kontaktdaten im Intranet und
+            können sofort reagieren, wenn ein Flug Verspätung hat,“ so Franz Kögl, Vorstand der IntraFind Software AG.
+            „Der iFinder 5 elastic ist damit weitaus mehr als nur eine Suchanwendung, die bloß eine Trefferliste
+            ausliefert. Durch die Anbindung weiterer Quellen wie im Beispiel von Fraport werden Mitarbeiter bei der
+            Suche proaktiv mit allen relevanten Informationen versorgt, die sie für ihre Arbeit brauchen.   Über Fraport
+            AG: Die Fraport AG ist ein Full-Service-Anbieter im Airport-Management und gehört mit zehn
+            Flughafen-Beteiligungen auf drei Kontinenten zu den international führenden Unternehmen im Airport-Business.
+            Das Unternehmen mit Sitz in Frankfurt am Main ist auch die börsennotierte Betreibergesellschaft des
+            Flughafens Frankfurt am Main. Über IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für das
+            effiziente Suchen, Finden, Analysieren von strukturierten und unstrukturierten Informationen unter
+            Berücksichtigung aller verfügbaren Datenquellen eines Unternehmens. Volltextsuche und die komplette
+            Bandbreite an Textanalyse- und Machine Learning-Verfahren, Natural Language Processing, kombiniert mit den
+            Möglichkeiten von Graphdatenbanken für Big Data Analytics, bilden hierbei den Schwerpunkt. Namhafte Kunden
+            sind: AUDI AG, Bundeswehr, IHK Berlin, Robert Bosch GmbH und Rohde &amp; Schwarz GmbH &amp; Co. KG.  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/news/intrafind-veranstaltet-enterprise-search-content-analytics-day-am-17-juni-2015-in-muenchen
+        </url>
+        <id>E65ACA2F431F65790766455FB29043B6</id>
+        <title>07/05/2015 - IntraFind veranstaltet Enterprise Search &amp; Content Analytics Day</title>
+        <body>IntraFind veranstaltet Enterprise Search &amp; Content Analytics Day am 17. Juni 2015 in München  
+            München, 07.05.2015 – IntraFind, führender Anbieter von Lösungen für das effiziente Suchen, Finden und
+            Analysieren von Informationen aus verschiedensten Datenquellen, lädt am 17. Juni 2015 Kunden, Interessenten
+            und Partner zum Enterprise Search &amp; Content Analytics Day nach München ein.   Die ganztägige
+            Veranstaltung widmet sich in praxisnahen Vorträgen und Workshops folgenden Themen:   Neue Produktgeneration
+            iFinder5 elastic: modernes Frontend, innovative Funktionalitäten und der Weg von iFinder4 zu iFinder5
+            elastic Spannende Praxisberichte aus Kundenprojekten (Audi, BG BAU, Hirschvogel und weitere) Mobile Client
+            für den iFinder, optimierte Linguistik, intelligentes Autocomplete, neue Konnektoren Mehrwerte durch
+            Metadaten: Tagging Content Analytics &amp; Big Data: Kundenprojekte und Anwendungsszenarien
+            Wissensmanagement &amp; Semantische Netze Großzügige Pausen ermöglichen einen Erfahrungsaustausch und die
+            Diskussion der Teilnehmer untereinander.   Die Veranstaltung dauert von 09:30 Uhr bis 17 Uhr, die
+            Registrierung ist ab 9 Uhr möglich. Die Teilnahme ist kostenfrei.   Die Anmeldung zum Enterprise Search
+            &amp; Content Analytics Day ist bis Freitag, 05. Juni 2015 möglich.   Über die IntraFind Software AG
+            IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden, Analysieren von Informationen
+            unter Berücksichtigung aller Datenquellen eines Unternehmens. Volltextsuche und die komplette Bandbreite an
+            Textanalyseverfahren bilden die Grundlage für optimale Rechercheergebnisse. Das IntraFind-Lösungsspektrum
+            reicht von der Suche in einer Applikation, Enterprise Search und Metadatenmanagement bis hin zu
+            spezialisierten, suchbasierten Anwendungen und Textanalyselösungen. IntraFind betreut seine Kunden umfassend
+            – beginnend mit einer Bedarfsanalyse bietet IntraFind Beratung, Konzeption und Umsetzung sowie Unterstützung
+            im laufenden Betrieb an. Die IntraFind Software AG wurde im Jahr 2000 gegründet und hat ihren Firmensitz in
+            München. Namhafte Kunden von IntraFind sind: AUDI AG, Robert Bosch GmbH, ZEIT ONLINE GmbH.   Für weitere
+            Informationen wenden Sie sich bitte an   IntraFind Software AG Sonja Bellaire Landsberger Straße 368 D-80687
+            München Email: sonja.bellaire@intrafind.de Internet: http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/news/intrafind-zieht-erfolgreiche-bilanz-aus-enterprise-search-content-analytics-day
+        </url>
+        <id>7603605A468E0FF7DD6D72C63C898B59</id>
+        <title>18/06/2015 - IntraFind zieht erfolgreiche Bilanz aus Enterprise Search &amp; Content Analytics Day
+        </title>
+        <body>IntraFind zieht erfolgreiche Bilanz aus Enterprise Search &amp; Content Analytics Day   München,
+            18.06.2015 – IntraFind, führender Anbieter von Lösungen für das effiziente Suchen, Finden und Analysieren
+            von Informationen aus verschiedensten Datenquellen, begrüßte am 17. Juni 2015 in den IntraFind
+            Büroräumlichkeiten in München 50 interessierte Teilnehmer zum Enterprise Search &amp; Content Analytics Day.
+              Im Fokus der ganztägigen Veranstaltung standen neben der Präsentation neuer IntraFind Softwareprodukte für
+            Enterprise Search &amp; Content Analytics vor allem die Erfahrungsberichte aus aktuellen Kundenprojekten.  
+            Die Projektverantwortlichen Raphael Müller, AUDI AG, und Tobias Kettner, Hirschvogel Holding GmbH, stellten
+            ihre Lösungen für die unternehmensweite Suche in großen bis hin zu sehr großen Datenmengen (Big Data) vor.
+            Im Vortrag der Berufsgenossenschaft der Bauwirtschaft (BG BAU) erläuterte Dr. Ursula Schies die Vorteile der
+            Kombination aus Suche und Semantik am Beispiel des &quot;Präventionsforum &quot;, einer internationalen
+            Wissensplattform zum Arbeits- und Gesundheitsschutz.   Einen exklusiven Blick auf die neue Produktgeneration
+            iFinder5 elastic mit modernem Frontend und innovativen Funktionalitäten gewährten IntraFind Vorstand
+            Bernhard Messer und Produkt Manager Ralf Klinkhammer den Teilnehmern in ihrem Vortrag.   &quot;Der iFinder4
+            ist eine etablierte Lösung für Enterprise Search und für applikationsspezifische Suche, den wir auch künftig
+            nutzen und weiterentwickeln werden, die Erfolgsstory geht weiter. Mit dem iFinder5 elastic stoßen wir aber
+            in ganz neue Anwendungsfelder vor und bieten damit unseren Kunden vielfältige Einsatzmöglichkeiten: von
+            einfacher Suche bis hin zu Knowledge Management-Lösungen für den Wissensarbeiter.&quot;, ergänzte IntraFind
+            Vorstand Franz Kögl.   Den Weg von iFinder4 zu iFinder5 elastic zeigte Ralf Klinkhammer den anwesenden
+            iFinder Kunden in seinem anschließenden Vortrag zu Migrationskonzepten auf. Ein Vortrag von After Sales
+            Manager Ralf Estermann und Text Analytics Experte Breno Faria zum Mehrwert der automatischen
+            Metadatenerzeugung mit dem IntraFind Produkt Tagging Service rundete den Vormittag ab.   Nach der
+            Mittagspause standen mehrere Impulsvorträge auf dem Programm, beispielsweise zum neuen IntraFind Produkt
+            Semantic Modeller, einem Werkzeug zur Abbildung von semantischem Wissen im Unternehmen. Im Praxisteil der
+            Veranstaltung präsentierte Manuel Brunner, Head of Professional Services, aus seiner langjährigen
+            Projektpraxis verschiedenste Anwendungsbeispiele für Enterprise Search &amp; Content Analytics im
+            Unternehmen.   Anschließend war die Beteiligung der Teilnehmer gefordert: in interaktiven Workshops wurden
+            die Themen &quot;Relevanz und Relevanz Tuning&quot; sowie &quot;Content Analytics&quot; näher beleuchtet und
+            ein gemeinsames Verständnis für die Begrifflichkeiten geschaffen. Wertvolle Praxistipps rundeten das
+            Programm ab.   Im ersten Feedback der Teilnehmer fand die Veranstaltung guten Anklang, vor allem die
+            Möglichkeit zum Erfahrungsaustausch und zur Diskussion untereinander wurde sehr positiv bewertet. Weitere
+            IntraFind Veranstaltungen zu kundenrelevanten Themen sind bereits in Planung.     Über die IntraFind
+            Software AG IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden, Analysieren von
+            Informationen unter Berücksichtigung aller Datenquellen eines Unternehmens. Volltextsuche und die komplette
+            Bandbreite an Textanalyseverfahren bilden die Grundlage für optimale Rechercheergebnisse. Das
+            IntraFind-Lösungsspektrum reicht von der Suche in einer Applikation, Enterprise Search und
+            Metadatenmanagement bis hin zu spezialisierten, suchbasierten Anwendungen und Textanalyselösungen. IntraFind
+            betreut seine Kunden umfassend – beginnend mit einer Bedarfsanalyse bietet IntraFind Beratung, Konzeption
+            und Umsetzung sowie Unterstützung im laufenden Betrieb an. Die IntraFind Software AG wurde im Jahr 2000
+            gegründet und hat ihren Firmensitz in München. Namhafte Kunden von IntraFind sind: AUDI AG, Robert Bosch
+            GmbH, ZEIT ONLINE GmbH.   Für weitere Informationen wenden Sie sich bitte an   IntraFind Software AG Sonja
+            Bellaire Landsberger Straße 368 D-80687 München Email: sonja.bellaire@intrafind.de Internet:
+            http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/formulare/download-kundenreferenz-diakonie-registrierung</url>
+        <id>EE88E634D5506CA6E916D354EFC21603</id>
+        <title>Download Kundenreferenz Diakonie</title>
+        <body>Registrierung für Download Kundenreferenz Diakonie   Wir bitten Sie um eine kurze Registrierung - Sie
+            werden anschließend direkt zur Kundenreferenz Diakonie weitergeleitet.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/news/audi-mediacenter-mit-intrafind-an-nr-1</url>
+        <id>A48AAD0C6214E054FBC13AB26F8CF8F7</id>
+        <title>08/09/2016 - AUDI-MediaCenter mit IntraFind an Nr. 1</title>
+        <body>AUDI-MediaCenter mit IntraFind an Nr. 1 Beste Media-Relations-Webseite München, 08.09.2016 - AUDI hat im
+            Rahmen der aktuellen Netfed Studie, bei der 75 deutsche Media-Relations-Webseiten miteinander verglichen und
+            bewertet wurden, den ersten Platz erreicht. Die IntraFind Software AG war im Relaunch-Projekt dieser Seite
+            für Indexierung und Suche sowie für ein intelligentes Autocomplete verantwortlich. Das Projekt verfolgte das
+            Ziel, die Webseite des Audi MediaCenter zu den Besten der Branche zu machen. Gemeinsam mit den
+            Projektpartnern INTRAFIND, KULTWERK und MAKANDRA hat AUDI dieses Ziel voll erreicht. Der Automobilhersteller
+            konnte mit 884 von 1000 möglichen Punkten die beste Media-Relations-Webseite vorweisen. Besonderen Wert
+            legte die Netfed Studie auf die schnelle Auffindbarkeit von Informationen. Dabei nutzten die Tester die
+            sogenannte &quot;30-Sekunden-Regel&quot;: Sie besagt, dass ein Benutzer erwartet, die gesuchte Information
+            innerhalb von 30 Sekunden über Suchfilter, Suchvorschläge oder andere Navigationsfunktionen zu finden. Ist
+            dies nicht der Fall, gilt sie als nicht vorhanden und wird demnach auch nicht gewertet. Am Ergebnis des
+            Vergleichstests hatte das IntraFind-Produkt iFinder5 elastic einen wesentlichen Anteil. IntraFind liefert
+            bei den neuen Audi Presseseiten, dem Audi MediaCenter, die Indexierung, die Suche und ein intelligentes
+            Autocomplete, das nicht nur Einwort- und Mehrwort-Begriffe vorschlägt, sondern auch Hinweise und
+            Zusammenhänge aus Inhalten des MediaCenter auswertet und Tippfehler ausgleicht, wobei es sich durch eine
+            sehr hohe Verarbeitungsgeschwindigkeit auszeichnet. Hinzu kommt die gute Qualität der Trefferliste, das
+            sogenannte Ranking, das der iFinder von IntraFind als linguistisch aufbereiteter Index deutlich besser macht
+            als andere Suchmaschinen. Sucht man beispielsweise nach dem Begriff „Räder“, findet man auch Treffer zum
+            Wort „Komplettradsatz“. Das erwartet der Benutzer und genau das liefert der iFinder auch zuverlässig als
+            Treffer zurück. Auch das ist ein Aspekt von Vorsprung durch Technik. Über die IntraFind Software AG
+            IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden, Analysieren von Informationen
+            unter Berücksichtigung aller Datenquellen eines Unternehmens. Volltextsuche und die komplette Bandbreite an
+            Textanalyseverfahren bilden die Grundlage für optimale Rechercheergebnisse. Das IntraFind-Lösungsspektrum
+            reicht von der Suche in einer Applikation, Enterprise Search und Metadatenmanagement bis hin zu
+            spezialisierten, suchbasierten Anwendungen und Textanalyselösungen. IntraFind betreut seine Kunden umfassend
+            – beginnend mit einer Bedarfsanalyse bietet IntraFind Beratung, Konzeption und Umsetzung sowie Unterstützung
+            im laufenden Betrieb an. Die IntraFind Software AG wurde im Jahr 2000 gegründet und hat ihren Firmensitz in
+            München. Namhafte Kunden von IntraFind sind: AUDI AG, Robert Bosch GmbH, MAN Truck &amp; Bus AG, Voith GmbH.
+            Für weitere Informationen wenden Sie sich bitte an IntraFind Software AG Sonja Bellaire Landsberger Straße
+            368 D-80687 München Email: sonja.bellaire@intrafind.de Internet: http://www.intrafind.de
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/unternehmen/news/intrafind-bietet-netapp-kunden-schluesselfertige-enterprise-search-loesung
+        </url>
+        <id>801E1083F7040E3A90C0DDEBC954FBEE</id>
+        <title>21/11/2016 - IntraFind bietet NetApp Kunden schlüsselfertige Enterprise Search Lösung</title>
+        <body>IntraFind bietet NetApp Kunden schlüsselfertige Enterprise Search Lösung München, den 21.11.2016 – Als
+            erster Enterprise Search Anbieter weltweit bietet der NetApp Alliance Partner IntraFind Software AG mit dem
+            iFinder5 elastic eine von NetApp zertifizierte Lösung für die intelligente Volltextsuche in NetApp
+            Fileservices an. Die Storage Lösungen von NetApp speichern große Datenmengen auf Filesystemen. Mit dem
+            iFinder5 elastic können Nutzer Dokumente in ihren Filesystemen nun noch schneller durchsuchen, und zwar
+            sowohl Volltexte als auch zugehörige Metadaten. Die Vorteile: Der Anwender muss dadurch nicht mehr die
+            zeitaufwändige, langsame und ressourcenintensive Explorer-Suche nutzen und findet in Sekundenbruchteile die
+            gewünschten Informationen. Einer der zentralen Aspekte für den Einsatz im Unternehmen ist die
+            Berücksichtigung von Berechtigungen. Dank Secure Search finden Nutzer nur die Dokumente, auf die sie auch
+            berechtigt sind, zuzugreifen.   Durch den IntraFind NetApp Konnektor in Verbindung mit der
+            fpolicy-Schnittstelle werden große Datenmengen schnell und sicher verarbeitet. Wird ein Dokument neu
+            angelegt, gelöscht, geändert oder auch nur eine Berechtigung geändert, so wird diese Änderung direkt und
+            fast ohne Zeitverzögerung im iFinder verarbeitet. Ein aufwändiges Crawling ist dafür nicht notwendig. Damit
+            bleiben die Informationen und Berechtigungen immer aktuell und die Suchergebnisse spiegeln stets den
+            aktuellen Stand in Echtzeit wider.   Dank zahlreicher Konnektoren wie z.B. zu Microsoft Exchange,
+            Confluence, Microsoft SharePoint, ERP- oder CRM-Systemen ist der iFinder auch problemlos zu einer
+            unternehmensweiten, universellen Suchlösung ausbaubar. Der iFinder5 elastic bildet somit das zentrale
+            Informations- und Wissensrepository eines Unternehmen.   Der iFinder – abgestimmt auf die qualitativen
+            Anforderungen eines Kunden – bietet alle für eine professionelle, marktführende Suchlösung üblichen
+            Funktionen wie Facettierung und Filterung, Vorschau mit Trefferhervorhebung, intelligentes Autocomplete mit
+            Tippfehlerkorrektur und den vollen Umfang einer Boole´schen Suche. Darüber hinaus differenziert sich der
+            iFinder mit zahlreichen Erweiterungsmöglichkeiten wie z.B. semantischer Suche oder Eigennamenerkennung und
+            kann dank der exzellenten Linguistik in Kombination mit Deep Learning-Verfahren zu einer Insight Engine
+            ausgebaut werden, die natürlichsprachliche Suchanfragen (NLP) versteht. Schlüsselfertige Lösung für NetApp
+            Kunden IntraFind bietet NetApp Kunden mit dem iFinder5 elastic ein schlüsselfertiges Produkt auf Basis von
+            Elasticsearch mit einer intuitiven Bedienoberfläche. Das Softwarepaket gibt es entweder als Lizenz oder
+            Subskription. Nutzer erhalten eine flexible Suchlösung, die entweder als Standalone-Solution für die NetApp
+            Fileservices eingesetzt oder zu einer umfassenden Enterprise Search Lösung erweitert werden kann. Der
+            iFinder lässt sich nahtlos in die bestehende IT-Infrastruktur integrieren. Die Anwendung ist einfach
+            skalierbar: Wächst der Datenbestand, so wächst auch der iFinder5 elastic mit. Die Enterprise Search Lösung
+            eignet sich daher sowohl für kleine Unternehmen als auch für Großkonzerne. Die IntraFind bietet ein
+            Testpaket, mit dem Sie die Suchlösung schnell und ohne großen Aufwand mit Ihren eigenen Dokumenten testen
+            können.   Über IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen,
+            Finden, Analysieren von strukturierten und unstrukturierten Informationen unter Berücksichtigung aller
+            verfügbaren Datenquellen eines Unternehmens. Volltextsuche und die komplette Bandbreite an Textanalyse- und
+            Machine Learning-Verfahren, Natural Language Processing, kombiniert mit den Möglichkeiten von
+            Graphdatenbanken für Big Data Analytics, bilden hierbei den Schwerpunkt. Namhafte Kunden sind: AUDI AG,
+            Bundeswehr, IHK Berlin, Robert Bosch GmbH und Rohde &amp; Schwarz GmbH &amp; Co. KG. Mehr Informationen:
+            www.intrafind.de. Für weitere Informationen wenden Sie sich bitte an IntraFind Software AG Christiane Stagge
+            Landsberger Straße 368 D-80687 München Email: christiane.stagge@intrafind.de Internet:
+            http://www.intrafind.de
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/brueggemannchemical-durchsucht-dateisystem-und-e-mails-mit-intrafind-ifinder</url>
+        <id>DE7F74E27CDC6120000B4A6387373A4A</id>
+        <title>10/12/2015 - BrüggemannChemical durchsucht Dateisystem und E-Mails mit IntraFind iFinder</title>
+        <body>BrüggemannChemical durchsucht Dateisystem und E-Mails mit IntraFind iFinder München, 10.12.2015 –
+            BrüggemannChemcial nutzt den IntraFind iFinder als unternehmensweite Lösung für die Suche in
+            Unternehmensinformationen. Ende 2014 begann das Unternehmen, verschiedenste Suchtechnologien zu evaluieren.
+            Insbesondere für die Bereiche Forschung und Entwicklung sowie Vertrieb erhoffte man sich durch den Einsatz
+            einer Suchlösung die Freisetzung großer Effizienzsteigerungspotentiale. Nach intensiven Tests entschied sich
+            BrüggemannChemical für den Einsatz des iFinder als übergreifende Suchmaschine für Inhalte aus Datei- und
+            E-Mail-System. Das Produkt iFinder überzeugte vor allem durch seine einfache Installation, die problemlose
+            Einbindung der Dokumente aus den Dateisystemen sowie die Anbindung der E-Mail-Postfächer unter Einhaltung
+            der komplexen Berechtigungsstrukturen. Im Produktivbetrieb wurde das gewünschte Projektziel erreicht: der
+            Einsatz des iFinder erhöht die Effizienz der Mitarbeiter, die nun durch eine gezielte Recherche schneller
+            zur benötigten Information gelangen. Erfahren Sie mehr über das Produkt iFinder. Zahlreiche namhafte Kunden
+            verwenden die Technologien von IntraFind - lesen Sie dazu ausgewählte Referenzberichte. IntraFind
+            veranstaltet am 14.01.2016 einen Live Webcast zum Thema &quot;Suche im Dateisystem&quot; - nehmen Sie am
+            Webcast teil. Über BrüggemannChemical Die BrüggemannGruppe, ein mittelständisches Traditionsunternehmen mit
+            Sitz in Heilbronn, ist mit 220 Mitarbeitern in mehr als 50 Ländern tätig und erzielte 2014 einen
+            Jahresumsatz von rund 105 Mio. Euro. Seit der Gründung im Jahr 1868 beruht der dauerhafte Erfolg des
+            Unternehmens auf der Herstellung einer breiten Palette von Industriechemikalien, Kunststoffadditiven und
+            Alkoholen für verschiedenste Einsatzbereiche. Über die IntraFind Software AG IntraFind entwickelt Produkte
+            und Lösungen für das effiziente Suchen, Finden, Analysieren von Informationen unter Berücksichtigung aller
+            Datenquellen eines Unternehmens. Volltextsuche und die komplette Bandbreite an Textanalyseverfahren bilden
+            die Grundlage für optimale Rechercheergebnisse. Das IntraFind-Lösungsspektrum reicht von der Suche in einer
+            Applikation, Enterprise Search und Metadatenmanagement bis hin zu spezialisierten, suchbasierten Anwendungen
+            und Textanalyselösungen. IntraFind betreut seine Kunden umfassend – beginnend mit einer Bedarfsanalyse
+            bietet IntraFind Beratung, Konzeption und Umsetzung sowie Unterstützung im laufenden Betrieb an. Die
+            IntraFind Software AG wurde im Jahr 2000 gegründet und hat ihren Firmensitz in München. Namhafte Kunden von
+            IntraFind sind: AUDI AG, Robert Bosch GmbH, ZEIT ONLINE GmbH. Für weitere Informationen wenden Sie sich
+            bitte an IntraFind Software AG Sonja Bellaire Landsberger Straße 368 D-80687 München Email:
+            sonja.bellaire@intrafind.de Internet: http://www.intrafind.de
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/kontaktformular-google-partner</url>
+        <id>435D370EB091AC47FA3F7FEB61B91F2A</id>
+        <title>IntraFind Kontaktformular für Google Partner</title>
+        <body>IntraFind Kontaktformular für Google Partner Sie sind Google Partner und auf der Suche nach einer neuen
+            Enterprise Search-Lösung für Ihr Portfolio? Wir freuen uns auf Ihre Nachricht.
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/unternehmen/news/bizerba-setzt-ifinder5-elastic-fuer-die-unternehmensweite-suche-ein
+        </url>
+        <id>84CC903287C02419AF6A58A67D5CFB2F</id>
+        <title>22/06/2017 - Bizerba setzt iFinder5 elastic für die unternehmensweite Suche ein</title>
+        <body>Bizerba setzt iFinder5 elastic für die unternehmensweite Suche ein München, den 22. Juni 2017 – Schneiden,
+            Wiegen, Kassieren – Bizerba bietet zahlreiche Hard- und Softwarelösungen für Wägetechnik an. Die bekannten
+            Waagen sind nicht nur beim Bäcker oder Fleischer im Einsatz, sondern auch in größeren Handels- und
+            Industrieunternehmen. Neben seinem Hauptsitz in Balingen betreibt Bizerba ein weltweites Netz von Vertriebs-
+            und Servicestandorten. Damit die Mitarbeiter künftig noch besser und schneller ihre technischen Dokumente
+            finden, setzt Bizerba jetzt den iFinder5 elastic für die unternehmensweite Suche ein. Im Zeitalter der
+            Digitalisierung und wachsenden technologischen Entwicklung steht das Unternehmen vor der Herausforderung,
+            vorhandenes Wissen zielführend einzusetzen und dem Verlust von Wissen vorzubeugen. Wissen gehört für Bizerba
+            zu den wichtigsten Ressourcen, denn innerhalb des Unternehmens gibt es sehr viel davon: sowohl in den Köpfen
+            der Mitarbeiter als auch in digitaler Form verborgen in zahlreichen Dateien, Datenbanken oder Ordnern. Durch
+            die unternehmensweite Suche soll dieses Wissen wieder verfügbar gemacht werden, nach dem Motto: das richtige
+            Wissen zur richtigen Zeit am richtigen Ort. Insgesamt werden rund 3.500 Mitarbeiter die Enterprise Search
+            Lösung nutzen. „Wir freuen uns, mit Bizerba einen weiteren Kunden gewonnen zu haben, der von den zahlreichen
+            Funktionen des iFinder5 elastic profitiert“, sagt Franz Kögl, Vorstand der IntraFind Software AG. „Der
+            iFinder5 elastic lässt sich an zahlreiche Anwendungen und Dateisysteme anbinden und liefert rechtegeprüfte
+            Ergebnisse“, so Kögl weiter. Mit der Einführung des iFinder5 elastic ist Bizerba für die zunehmende
+            Produktkomplexität und Produktdiversifikation nun noch erfolgreicher gerüstet. Über IntraFind Software AG
+            IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden, Analysieren von strukturierten
+            und unstrukturierten Informationen unter Berücksichtigung aller verfügbaren Datenquellen eines Unternehmens.
+            Volltextsuche und die komplette Bandbreite an Textanalyse- und Machine Learning-Verfahren, Natural Language
+            Processing, kombiniert mit den Möglichkeiten von Graphdatenbanken für Big Data Analytics, bilden hierbei den
+            Schwerpunkt. Namhafte Kunden sind: AUDI AG, BMW AG, Bundeswehr, IHK Berlin, Robert Bosch GmbH und Rohde
+            &amp; Schwarz GmbH &amp; Co. KG. Mehr Informationen: www.intrafind.de. Für weitere Informationen wenden Sie
+            sich bitte an   IntraFind Software AG Christiane Stagge Landsberger Straße 368 D-80687 München Email:
+            christiane.stagge@intrafind.de Internet: http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/newsletter-anmeldung</url>
+        <id>462F973D90E7FD831E0F1127994F801B</id>
+        <title>Newsletter-Anmeldung</title>
+        <body></body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/news/intrafind-feiert-15-jaehriges-unternehmensjubilaeum</url>
+        <id>01E46E98A4B85060DA5721B65CB595AB</id>
+        <title>20/10/2015 - IntraFind feiert 15-jähriges Unternehmensjubiläum</title>
+        <body>IntraFind feiert 15-jähriges Unternehmensjubiläum   München, 20.10.2015 – IntraFind feiert heute sein
+            15-jähriges Unternehmensjubiläum.   Das Unternehmen mit Sitz in München wurde am 20. Oktober 2000 von den
+            beiden Vorständen Franz Kögl und Bernhard Messer gegründet. In 15 Jahren entwickelte sich die IntraFind
+            Software AG vom Start Up zu einem erfolgreichen mittelständischen Unternehmen und beschäftigt derzeit mehr
+            als 30 Mitarbeiter.   &quot;Unser Dank gilt heute in erster Linie unserem Team, unseren Familien und
+            Freunden, unseren Kunden und Partnern, die uns in den 15 Jahren begleiteten und unterstützten und diese
+            Entwicklung der Firma erst ermöglichten.&quot;, so IntraFind Vorstand Franz Kögl.     Ein kurzes Video gibt
+            Einblick in die Unternehmensphilosophie: http://www.intrafind.de/de/unternehmen Erfahren Sie mehr über das
+            Produktportfolio der IntraFind Software AG   Über die IntraFind Software AG IntraFind entwickelt Produkte
+            und Lösungen für das effiziente Suchen, Finden, Analysieren von Informationen unter Berücksichtigung aller
+            Datenquellen eines Unternehmens. Volltextsuche und die komplette Bandbreite an Textanalyseverfahren bilden
+            die Grundlage für optimale Rechercheergebnisse. Das IntraFind-Lösungsspektrum reicht von der Suche in einer
+            Applikation, Enterprise Search und Metadatenmanagement bis hin zu spezialisierten, suchbasierten Anwendungen
+            und Textanalyselösungen. IntraFind betreut seine Kunden umfassend – beginnend mit einer Bedarfsanalyse
+            bietet IntraFind Beratung, Konzeption und Umsetzung sowie Unterstützung im laufenden Betrieb an. Die
+            IntraFind Software AG wurde im Jahr 2000 gegründet und hat ihren Firmensitz in München. Namhafte Kunden von
+            IntraFind sind: AUDI AG, Robert Bosch GmbH, ZEIT ONLINE GmbH.   Für weitere Informationen wenden Sie sich
+            bitte an   IntraFind Software AG Sonja Bellaire Landsberger Straße 368 D-80687 München Email:
+            sonja.bellaire@intrafind.de Internet: http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/news/mtu-aero-engines-nutzt-erfolgreich-intrafind-ifinder-fuer-unternehmensweite-suche
+        </url>
+        <id>444AAE25A5AC38AF104D97211C3BEF31</id>
+        <title>25/02/2015 - MTU Aero Engines nutzt erfolgreich IntraFind iFinder für unternehmensweite Suche</title>
+        <body>MTU Aero Engines nutzt erfolgreich IntraFind iFinder für unternehmensweite Suche und Wissensmanagement  
+            München, 25.02.2015 – Neue Suchlösung ermöglicht MTU Mitarbeitern unkomplizierten und rechtegeprüften
+            Zugriff auf Produktdaten, Terminologie, Fachliteratur und Intranetseiten   IntraFind, Anbieter von Lösungen
+            für das effiziente Suchen, Finden und Analysieren von Informationen aus verschiedensten Datenquellen,
+            liefert mit der iFinder Suchtechnologie in Kombination mit qualitativen Erweiterungsmodulen für Linguistik
+            und Ähnlichkeitssuche eine leistungsfähige Lösung für den einheitlichen Zugriff auf die wesentlichen
+            internen Datenquellen der MTU Aero Engines AG (MTU).   Im Rahmen einer Mitarbeiterbefragung erfasste MTU die
+            Erwartungen der Anwender sowie der IT-Abteilung und fomulierte daraus die Systemanforderungen und Ziele des
+            Wissensmanagement-Projektes. Neben Aspekten wie Skalierbarkeit, leichter Integration in die bestehende
+            IT-Landschaft und der Berücksichtigung komplexer Rechte- und Rollenstrukturen stand vor allem die intuitiv
+            einfache Bedienbarkeit der Suchlösung im Fokus des Kunden.   Nach der Evaluation mehrerer Softwarelösungen
+            namhafter Hersteller fiel die Entscheidung auf das Enterprise Search-Produkt iFinder der IntraFind Software
+            AG, das vor allem aufgrund der hohen Qualität der Suchergebnisse und eines optimalen
+            Preis-Leistungs-Verhältnisses überzeugen konnte.   Nach Inbetriebnahme verzeichnete die neue Suche in kurzer
+            Zeit ein Vielfaches an Zugriffen im Vergleich zur alten Suchlösung. Die hohe Akzeptanz und das positive
+            Feedback sowohl der Anwender als auch des Projektteams resultierten in einem Folgeprojekt mit IntraFind, in
+            dem die MTU-Suche um zusätzliche Funktionalitäten erweitert wird.   Den kompletten Referenzbericht finden
+            Sie hier: http://www.intrafind.de/de/unternehmen/referenzen#mtu Mehr Informationen zum Enterprise Search
+            Produkt iFinder erhalten Sie unter: http://www.intrafind.de/de/produkte/ifinder Alternativ können Sie sich
+            auch Webcastaufzeichnungen zu iFinder ansehen: http://intrafind.de/de/unternehmen/webcast-center   Über die
+            IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für das effiziente Suchen, Finden,
+            Analysieren von Informationen unter Berücksichtigung aller Datenquellen eines Unternehmens. Volltextsuche
+            und die komplette Bandbreite an Textanalyseverfahren bilden die Grundlage für optimale Rechercheergebnisse.
+            Das IntraFind-Lösungsspektrum reicht von der Suche in einer Applikation, Enterprise Search und
+            Metadatenmanagement bis hin zu spezialisierten, suchbasierten Anwendungen und Textanalyselösungen. IntraFind
+            betreut seine Kunden umfassend – beginnend mit einer Bedarfsanalyse bietet IntraFind Beratung, Konzeption
+            und Umsetzung sowie Unterstützung im laufenden Betrieb an. Die IntraFind Software AG wurde im Jahr 2000
+            gegründet und hat ihren Firmensitz in München. Namhafte Kunden von IntraFind sind: AUDI AG, Robert Bosch
+            GmbH, ZEIT ONLINE GmbH.     Für weitere Informationen wenden Sie sich bitte an IntraFind Software AG Sonja
+            Bellaire Landsberger Straße 368 D-80687 München Email: sonja.bellaire@intrafind.de Internet:
+            http://www.intrafind.de  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/kreuzvalidierung</url>
+        <id>9EA1CB16A1DEEB43C06ADD844A13586E</id>
+        <title>Kreuzvalidierung</title>
+        <body>Kreuzvalidierung   Die Kreuzvalidierung ermöglicht die Messung der Qualität eines Klassifikationsmodells,
+            wenn kein Testkorpus verfügbar ist. In einem n-fachen Kreuzalidierungs-Setup werden die Trainingsdaten in
+            eine Anzahl n nicht zusammenhängender Sets aufgeteilt.   n verschiedene Modelle werden dann auf Basis von
+            n-1 Sets trainiert und auf dem (immer unterschiedlichen) verbleibenden Set getestet. Die berechneten
+            Qualitätsstatistiken für jede der n Runden werden anschließend gemittelt und als Schätzwert für die
+            tatsächliche Qualität verwendet. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/unified-information-access</url>
+        <id>0DBB20A5F0178CF402558FF7940119AC</id>
+        <title>Unified Information Access</title>
+        <body>Unified Information Access   Enterprise Search includes all applications available in the company and
+            thus, all data sources. Hit lists, quick access to information for further processing in, for example,
+            Business Intelligence systems are an important component here.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/skalierbarkeit</url>
+        <id>E98C34706C9DBE68EBAB211F1AE9F8F6</id>
+        <title>Skalierbarkeit</title>
+        <body>Skalierbarkeit   Im Zusammenhang mit Software versteht man unter Skalierbarkeit Maßnahmen zur
+            Leistungssteigerung von Systemen aus Hard- und Software durch das Hinzufügen weiterer Ressourcen. Es wird
+            dabei zwischen vertikaler (z.B. Vergrößerung des Speicherplatzes) und horizontaler (Hinzufügen zusätzlicher
+            Rechner/Knoten) Skalierung unterschieden. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/blog/new-high-quality-search-for-ifinder5-elastic-en</url>
+        <id>3317DE9D72069D9D2D19DA5A9E9974DA</id>
+        <title>New High Quality Search and Linguistics for iFinder5 elastic</title>
+        <body>New High Quality Search and Linguistics for iFinder5 elastic   IntraFind has long been known for high
+            quality information retrieval. For our new product generation iFinder5 elastic we completely overhauled our
+            core search technology consisting of our Lucene / Elasticsearch Analyzers and our Query Parser. The goal was
+            to provide search that works intuitively from scratch without requiring any user training and that at the
+            same time offers powerful new query operators for expert users. Furthermore, we wanted to minimize
+            configuration efforts, especially in multilingual environments.   In part 1 of this blog article I talk
+            about advantages for the standard user and how we are able to reduce configuration efforts. In part 2 I am
+            going to talk about new features for experts such as our powerful new Near-Queries, Search Modes and future
+            plans based on our concept of the Typed Index [1] [2].   Tokenization: Why it matters and why our users
+            don’t have to care Search functionality provided by a search engine is different from text search people
+            know e.g. from their text editors or office software. In your office software you can search for any
+            substring of your text. The more text you have, the longer your search will take. The computational
+            complexity for this kind of search is linear in the overall text size. Therefore, it is intractable for big
+            document sets. Search engines like iFinder use a data structure called inverted file index (see Fig 1) to
+            implement search efficiently for huge document sets. Fig 1: Inverted File Index The inverted file index
+            consists of a term dictionary, which is an alphabetically sorted list of all words occurring within the
+            document set, and posting lists for each word. A posting list is a list of all documents (their numbers), in
+            which the word occurs together with the position of the word within the document. The good thing about the
+            inverted file index is, that it allows to search for words from the term dictionary and combinations of them
+            with high efficiency, even for huge document sets. The bad thing is, that it allows to search only for words
+            that are in the term dictionary [1].   Every document / text is a stream of characters. The process that
+            breaks it into words is called tokenization which is often followed by one or several normalization steps.
+            The following example shows how tokenization influences and limits the kind of words for which we can
+            search.   Text: “Send questions for OpenOffice to support@fufu.org”   Words generated by a standard
+            tokenization &amp; lowercase normalization: send, questions, for, openoffice, to, support@fufu.org → No
+            search results for “support” since it’s not a word in the term dictionary   Words generated by a splitting
+            tokenizer and lowercase normalization: send, questions, for, open, office, to, support fufu org → No search
+            results for “openoffice” (all lowercase) since there is no simple algorithmic way to know that it should be
+            splitted [2]   Though a search engine can never provide efficient search for arbitrary substrings we come
+            very close to that. We decided to use a tokenizer that allows very complex tokens such as email addresses,
+            but we additionally split complex tokens into their parts and also add these parts as words to our term
+            dictionary.   We not only split at special signs such as “@”, “-”, etc.., we also split CamelCase tokens
+            such as OpenOffice and we split tokens when letters and numbers are adjacent. In this way users do not have
+            to distinguish between “iphone6” and “iphone 6” when they search for information on their latest new iphone.
+            Whatever reasonable assumption about words our users make, they find them with our search technology. [1]
+            With Fuzzy-, Wildcard-, or Regex-Queries you can search for words that are not in the term dictionary.
+            However, this kind of search is often very inefficient since it requires scanning big chunks of the term
+            dictionary and the whole index. Furthermore, it requires some expert knowledge about the syntax of these
+            query types. [2] &quot;OpenOffice&quot; could only be splitted based on a lexicon ressource that contains
+            &quot;open&quot; and &quot;office&quot; as valid entries. Word Normalization: Why we need more than one
+            normal form for a word In the last section about tokenization we also mentioned word normalization. We used
+            a lowercase normalization in the example. Usually lowercase normalization is a good idea. However, sometimes
+            case matters. There is a big company named “MAN” and we want to be able to distinguish a search for “MAN”
+            from a search for “man”. Therefore, we also retain exact words besides normalized forms in our index.   In
+            many languages we have diacritics or umlaut signs e.g. in “Amélie” or “Müller”. Very often, people do not
+            type these special characters, especially when they type queries. Therefore, it is a reasonable
+            normalization step to remove them. On the other hand, there might be a guy named “Muller” in our company and
+            another guy named “Müller”. So we should still be able to distinguish both names in our search. Furthermore,
+            there is more than one diacritics normal form. In Germany people tend to normalize “Müller” to “Mueller”
+            while in other countries people will use “Muller”. We therefore have more than one diacritics normal form in
+            our index.   A very import kind of word normalization concerns inflections. In many languages words occur in
+            different forms in order to express grammatical roles such as tense, person, number, case, etc. If you
+            search for “mouse” you also want to find “mice”.   Usually simple algorithmic stemmers are used to strip off
+            typical suffixes of words in order to achieve this kind of normalization. However, these approaches tend to
+            over- and understem.   Examples for stemming:    going → go decoder, decoding, decodes → decod Examples for
+            overstemming:      Messer → mess      king → k Examples for understemming: spoke → speak     IntraFind has
+            developed high quality morphological lexicons for most European languages which deliver much more accurate
+            normalization than algorithmic stemmers. For a comparison of simple stemmers and morphological normalization
+            see [3]. Some examples of lemmatization are shown in the following table.   English:       German: going →
+            go (Verb)       lief → laufen (Verb) bought → buy (Verb)       rannte → rennen (Verb) bags → bag (Noun)    
+              Bücher → Buch (Noun) bacteria → bacterium (Noun)       Taschen → Tasche (Noun)   Even this kind of high
+            quality normalization is not always desirable. Our search engine also allows wildcard, fuzzy and regex
+            searches. If the user searches for “mou*” (any term that starts with “mou”) he does not expect to find a
+            document containing the word “mice”.  This means that besides morphologically normalized words we also need
+            the original forms at least for wildcard, fuzzy or regex queries.   Phonetic normalization can also be very
+            useful, especially for names. There are often different spelling variations for foreign names and a phonetic
+            normal form allows to abstract from these more precisely than a simple fuzzy search.   Example for phonetic
+            Normalization: Muhamed → MHMD    Mohammed → MHMD   We integrated phonetic normalizations such as Soundex,
+            Metaphone, Double Metaphone, Cologne Phonetic and many more. They can easily be activated and since they are
+            tuned for special languages we can activate them for each language individually. Since phonetic
+            normalization makes most sense for proper names, we can optionally exclude normal words (identified by our
+            morphological lexicons) from phonetic normalization making phonetic normal forms much more useful.   Each of
+            these normal forms has its justification and is used for its own purposes. None of them is revolutionary
+            new. Many of them are available as separate Lucene analyzers. We have integrated all these normal forms into
+            one Lucene / Solr / Elasticsearch analyzer and all normal forms share one Lucene field. By using prefixes we
+            are still able to distinguish different normal forms from each other. We call this approach the Typed Index
+            (see e.g. [1], [2]). This approach has two key advantages.   First, it reduces configuration efforts
+            considerably. We no longer need to specify different index fields and analyzers in complex mappings or index
+            schemas and we don’t have to configure a complex query analysis. We only need one content field and one
+            analyzer. Furthermore, we provide a query parser that allows to specify search modes for expert users, if
+            they explicitly want to do exact search, search on lowercase / diacritics normal forms or on morphological
+            normalized terms, and that implements a default search mode using all normal forms with configurable boosts
+            for each of them. In this way, search for the non-expert user can be configured so that all possible matches
+            are provided, but exact matches (MAN vs. man) are ranked much higher.   Second, since all normal forms are
+            in one field, we can use word proximity information and can combine different normal forms in near or phrase
+            queries. We can e.g. search for the words “book” and “Mohamed” close to each other with NEAR/2(book AND
+            Mohamed) and this query will match a document containing “books of Muhammed”. For this match to work neither
+            morphological normalization nor phonetic normalization alone would suffice, since “book” and “books” are
+            phonetically different and for “Mohamed” to match “Muhammed” we need phonetic normalization. Note that this
+            kind of Near Query that combines different normal forms is only possible with our Typed Index approach. Word
+            decomposition and search When introducing tokenization, I already talked about additionally splitting
+            complex words into their parts. Besides the plain algorithmic splitting methods described above, we have a
+            very sophisticated linguistic compound decomposition based on lexicons and complex heuristics. Compound
+            splitting is very important for German, which uses complex compound nouns where other languages tend to use
+            phrases.   Some examples of German compounds: Kinderbuch   means   children’s book Bundesfamilienministerium
+              means   Federal Ministry for Family Issues   With our compound decomposition we can split these words into
+            their lemmata (semantic parts) and we can even distinguish between head and modifier parts. The head word of
+            “children’s book” is “book”, because it’s a special kind of book, modified by the modifier “child”. Whenever
+            we search for “Buch” we also get matches for “Kinderbuch”.   Depending on the boosting-configuration we can
+            boost compound matches equally high, higher or lower than matches for individual words and we can boost
+            matches with head words higher than matches with modifiers. This means that “Buchladen” (book store) could
+            score lower than “Kinderbuch” when we search for “Buch”. A search for “Bundesfamilienminsterium” will also
+            match “Ministerium des Bundes für Familie”, a variant of expressing the same concept in a way more similar
+            to other languages and equally frequent in German.   By the way, we recognize paragraph, sentence, and
+            general separator boundaries in documents and usually forbid such boundaries within compound matches,
+            complex token matches, and phrase / near searches. “Kinderbuch” will only match with occurrences of “Kind”
+            and “Buch” if these two parts are close to each other and e.g. not in different sentences. Multiliguality
+            and Mixed Language Documents Morphological normalization, word decomposition, and even phonetic
+            normalization are usually language specific. The traditional approach to do search in a multilingual
+            environment works by determining a language for each document and selecting a language-specific analyzer
+            based on the result. User Queries are usually expanded into all configured languages.   This approach has
+            two disadvantages. It requires complex configuration (mappings, index schemata) and it cannot handle mixed
+            language documents (emails in which users switch between languages, documents with an English abstract and
+            French content, etc.). In my last blog article I talked about language identification and language chunking
+            [4]. Our language chunker splits arbitrary text into chunks of the same language. See Fig 2 for an example.
+              Fig 2: Language Chunking: Different Chunks are marked with different colours.   We have integrated the
+            language chunker into our analyzer. Document content is first splitted into chunks of the same language and
+            for each chunk a language-specific analysis is started. All terms / words end up in the same field,
+            language-specific normal forms are again distinguished by their prefix (typed index). This way, no
+            additional configuration is needed and we can handle mixed-language documents in a natural way. [1] “The
+            Typed Index”, C. Goller, FOSDEM 2015, https://archive.fosdem.org/2015/schedule/event/the_typed_index/ [2]
+            “The Typed Index”, C. Goller, Lucene Revolution 2013, Dublin, https://www.youtube.com/watch?v=X93DaRfi790
+            [3] “The difference between stemming and lemmatization”, U. Seisenberger, IntraFind Blog,
+            http://www.intrafind.de/en/blog/blog-details/the-difference-between-stemming-and-lemmatization-380 [4]
+            Language Identification and Language Chunking, C. Goller, IntraFind Blog,
+            http://www.intrafind.de/en/blog/blog-details/language-identification-and-language-chunking-381 Der Autor Dr.
+            Christoph Goller verfügt über 15 Jahre Erfahrung im Enterprise Search Markt. Er promovierte in
+            Computerwissenschaften an der Technischen Universität in München und arbeitete im Anschluss in einigen
+            wissenschaftlichen Projekten zu Themenbereich Künstliche Intelligenz, Machine Learning sowie Neuronale
+            Netze.   Seit 2002 leitet er den Bereich Forschung bei IntraFind und verantwortet IntraFind&apos;s
+            Kern-Suche- und Content Analyse Technologien. Zwischen 2003 und 2007 arbeitete Christoph aktiv als Committer
+            in Apache&apos;s Open Source Projekt Lucene.    
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/unternehmen/news/enterprise-search-fuer-unterwegs-ifinder5-elastic-als-app-fuer-ios
+        </url>
+        <id>954AB66629743790FE6BA901BC7BC1AC</id>
+        <title>06/04/2017 - Enterprise Search für unterwegs: iFinder5 elastic als App für iOS</title>
+        <body>Enterprise Search für unterwegs: iFinder5 elastic als App für iOS München, den 06. April 2017 – IntraFind,
+            Hersteller von Lösungen für das effiziente Suchen, Finden, Analysieren von strukturierten und
+            unstrukturierten Informationen, hat seine Enterprise Search Lösung „iFinder5 elastic“ jetzt in den App Store
+            gebracht. Mit iFinder5 mobile können iFinder5 Anwender nun auch unterwegs auf ihrem iPhone oder iPad nach
+            Unternehmensdaten suchen. Wie von der Desktop-Anwendung her gewohnt, erfolgt die Bedienung über das zentrale
+            Suchfeld. Durch das flexible Templatekonzept werden die Treffer auch automatisch in dem jeweiligen Stil und
+            Layout der Kundeninstallation im iFinder5 elastic mobile dargestellt. Das schnelle Suchen und Finden nach
+            Ergebnissen in Unternehmensdaten ist mit dem iFinder5 elastic nun noch einfacher: Die Enterprise Search
+            Anwendung durchsucht unternehmensweit strukturierte und unstrukturierten Daten und bereitet die
+            Suchergebnisse übersichtlich auf. Egal ob Word, PDF oder Webseite: Der Nutzer bekommt alle relevanten
+            Informationen übersichtlich in einer Vorschauansicht präsentiert. Der entsprechende Suchbegriff ist darin
+            farblich hervorgehoben, sodass der Mitarbeiter auf einem Blick sieht, in welchem Zusammenhang der Begriff
+            steht ohne dass er das Dokument dafür zwingend öffnen muss. Der iFinder5 elastic kann an verschiedene
+            Datenquellen wie ERP-Systeme, E-Mail-Programme, Filesysteme oder Cloud Applikationen angebunden werden. Die
+            App bietet außerdem folgende Features: Autocomplete: Der Anwender erhält während der Sucheingabe Vorschläge
+            zur automatischen Vervollständigung des Suchbegriffs sowie auch kontextabhängige Vorschläge. Tippfehler
+            werden ebenso verbessert. Secure Search: Sie sorgt dafür, dass dem Suchenden nur die für ihn zugelassenen
+            Dokumente angezeigt werden. Sämtliche Informationen in der Trefferliste wie die Anzahl der Treffer sowie die
+            Suchergebnisse sind rechtegeprüft. Das gilt auch für die Autocomplete und „Meinten Sie“-Vorschläge. Natural
+            Language Processing (NLP): Die Suche kann auch mit Hilfe eines Fragesatzes („Welcher Mitarbeiter arbeitet in
+            Düsseldorf?“) durchgeführt werden. Unterstützung von über 600 Dateiformaten: Dazu gehören sämtliche gängigen
+            Office-Dateiformate sowie Text- und Bilddateien. Vorschau: Der Nutzer erhält eine Vorschau auf die
+            gefundenen Dokumente, ohne dass die entsprechende Originalanwendung auf dem Mobile Device installiert sein
+            muss. Um die App nutzen zu können, muss das Unternehmen die aktuelle Version des iFinder5 elastic im Einsatz
+            haben. An Sprachen unterstützt der iFinder5 mobile neben Deutsch auch Englisch, Französisch und Spanisch.
+            Voraussetzung ist iOS 9.0.      Über IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für
+            das effiziente Suchen, Finden, Analysieren von strukturierten und unstrukturierten Informationen unter
+            Berücksichtigung aller verfügbaren Datenquellen eines Unternehmens. Volltextsuche und die komplette
+            Bandbreite an Textanalyse- und Machine Learning-Verfahren, Natural Language Processing, kombiniert mit den
+            Möglichkeiten von Graphdatenbanken für Big Data Analytics, bilden hierbei den Schwerpunkt. Namhafte Kunden
+            sind: AUDI AG, BMW AG, Bundeswehr, IHK Berlin, Robert Bosch GmbH und Rohde &amp; Schwarz GmbH &amp; Co. KG.
+            Mehr Informationen: www.intrafind.de. Für weitere Informationen wenden Sie sich bitte an   IntraFind
+            Software AG Christiane Stagge Landsberger Straße 368 D-80687 München Email: christiane.stagge@intrafind.de
+            Internet: http://www.intrafind.de Pressekontakt AxiCom GmbH Frank Mihm-Gebauer Infanteriestr. 11 80676
+            München Tel.: 089 800 908 15 E-Mail: frank.mihm-gebauer@axicom.com    
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/services/service/beratung-kritische-projektsituationen</url>
+        <id>F0A582F609E1287E776DCFC59C5BD0A9</id>
+        <title>Beratung und Best Practice bei kritischen Projekten</title>
+        <body>Beratung in kritischen Projektsituationen IntraFind unterstützt IT-Projektleiter und Entscheider von
+            Unternehmen bei der Konzeption und Umsetzung einer erfolgreichen unternehmensweiten Suche. Die IntraFind
+            Spezialisten sind erfahrene und nach IPMA zertifizierte Projektleiter. Bereits in der Projektstartphase ist
+            es essenziell, die Projektumgebung detailliert zu analysieren und dem Kunden Chancen und Risiken seines
+            Suchprojektes aufzuzeigen. Dabei werden sowohl technische (z.B. Sicherheit, Redundanz, Skalierbarkeit,
+            Vollständigkeit, Relevanz) als auch organisatorische (z.B. interne und externe Interessensgruppen,
+            Projektteams, Anwenderverhalten und -erwartungen, Suchergonomie, Betriebsrat) Herausforderungen einbezogen.
+            Aufbauend auf dieser Analyse werden gemeinsam mit dem Kunden Strategien für die unterschiedlichen
+            Interessensgruppen innerhalb und außerhalb des Unternehmens entwickelt, um das Suchprojekt bestmöglich zum
+            Erfolg zu führen. Die Experten von IntraFind verfügen über langjährige und branchenübergreifende
+            Best-Practice-Erfahrung im Umgang mit Themen wie IT-Sicherheit und Datenschutz und Interessensgruppen wie
+            Betriebsräten, Entscheidern und Anwendern aus den unterschiedlichsten Fachabteilungen. Sie können ebenfalls
+            beratend unterstützen, wenn in einem bereits ohne die Beteiligung von IntraFind gestarteten Projekt
+            unerwartet Schwierigkeiten auftreten, die den Projekterfolg gefährden. Als renommierter Softwarehersteller
+            empfiehlt IntraFind auch den passenden Lösungsanbieter für ein konkretes Suchproblem.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/ifinder5-elastic/wesentliche-neuerungen</url>
+        <id>5D55B3712342E9006F4EEAE353632DC7</id>
+        <title>iFinder5 elastic - wesentliche Neuerungen</title>
+        <body>iFinder5 elastic - Die wichtigsten Neuerungen auf einem Blick Die richtige Information zum richtigen
+            Zeitpunkt. Der iFinder5 elastic ist der ideale Einstiegspunkt in Ihre Unternehmensdaten. Ihre Mitarbeiter
+            finden ad hoc genau die Information, die sie benötigen. Was sind die wesentlichen Neuerungen und welchen
+            Nutzen hat Ihr Unternehmen: Durch die Verbindung von Enterprise Search und Content Analytics werden
+            Suchergebnisse signifikant verbessert. Der Suchende erhält nicht nur Dokumente, die den Suchbegriff selbst
+            oder Ausprägungen erhalten, sondern auch Dokumente, die inhaltlich stark korrelieren. Neues Facelift der
+            Benutzeroberfläche, neues Dashboard und zahlreiche weitere neue Funktionen erleichtern den Umgang mit
+            Informationen im Alltag und den Informationsaustausch in Teams. Hohe Skalierbarkeit, Load Balancing erlauben
+            Realtime-Indexierung und Ausfallsicherheit, schnelle Lastenverteilung und damit eine schnelle Suche in
+            großen Datenbeständen – Big Data Analytics Gold &amp; Platinum Node Support für Elasticsearch eingebettet im
+            iFinder Natürlichsprachliche Suchanfragen mit NLP und Deep Learning Durch intelligente Verarbeitung von
+            Suchanfragen und der Analyse von Prädikat Argument Strukturen ist der iFinder5 elastic in der Lage,
+            natürlichsprachliche Suchanfragen zu interpretieren und zu verstehen. &quot;Präsentationen über Content
+            Analytics der letzten 4 Wochen&quot; liefert z.B. passende neue PPT oder PDF-Dokumente mit dem Thema Content
+            Analytics im angegebenen Zeitraum. Nutzungsbasierte Relevanz Die Qualität der Relevanz innerhalb der
+            Trefferliste ist eine der herausragenden Eigenschaften des iFinder5 elastic. Er bietet die Möglichkeit, dass
+            das Verhalten der Anwender die Relevanz der Trefferlisten beeinflusst. Häufig ausgewählte Suchoptionen und
+            Dokumente erhalten eine höhere Relevanz, zum Beispiel auch unter Berücksichtigung des Organigramms. So
+            erhält der Anwender z.B. die gewählten Filter seiner Abteilungskollegen im Autocomplete vorgeschlagen und
+            wird so im Rechercheprozess sinnvoll unterstützt. Der iFinder5 elastic lernt selbständig: Je häufiger
+            gesucht wird, desto mehr Einfluss wird auf die Relevanz genommen. Der iFinder5 elastic bietet dadurch den
+            Weg von der inhaltsbasierten Relevanz hin zur nutzungsbasierten Relevanz. Mandantenfähigkeit Durchgängiges,
+            im Datenmodell verankertes Mandantenkonzept zur Anbindung von mehreren Mandanten. Mobile Nutzen Sie den
+            iFinder5 mobile und greifen Sie unterwegs per iPhone oder iPad auf Ihre Unternehmensdaten zu.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/tag-cloud</url>
+        <id>E9BEF892DB649322388CB8B39A905093</id>
+        <title>Tag cloud</title>
+        <body>Tag cloud   Summation of characteristics, which reflect importance through the size of the writing and
+            form.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/plugins_services/pluginsservices-nutzungsvereinbarungen</url>
+        <id>A4F53D6B56120DC00564EF30F35E799F</id>
+        <title>Nutzungsvereinbarungen Services &amp; Plugins</title>
+        <body>IntraFind Software AG - Nutzungsvereinbarungen   Vielen Dank, dass Sie die IntraFind Cloud Services und
+            Plugins nutzen. Die IntraFind Cloud-Services in der Demo-Version sind ein für Sie kostenfreies Angebot der
+            IntraFind Software AG. Sie stimmen den im Folgenden dargelegten Nutzungsbedingungen zu, wenn Sie das Angebot
+            „Demo-Zugang zu Plugins &amp; Services“ der IntraFind Software AG nutzen. Damit wird eine
+            Nutzungsvereinbarung mit IntraFind Software AG (im Folgenden „IntraFind“ genannt) begründet. Vertragspartner
+            ist eine natürliche oder rechtliche Person (im Folgenden unabhängig vom Geschlecht der handelnden Person
+            „Interessent“) genannt.   Für den Fall, dass Sie die Cloud-Services und Plugins als Demo-Versionen im Namen
+            eines Unternehmens, eines Vereins oder einer anderen Organisation verwenden, stimmen Sie diesen
+            Nutzungsvereinbarung im Auftrag dieses Unternehmens, Vereins bzw. der entsprechenden Organisation zu. Der
+            Nutzer versichert sich, dass er bzw. sie als Vertreter des Unternehmens, Vereins bzw. der entsprechenden
+            Organisation dazu berechtigt ist.   Diese Nutzungsvereinbarungen können gelegentlich überarbeitet werden, um
+            sie an neue Bedingungen anzupassen. Die gültige Version ist auf der Webseite von IntraFind
+            (www.intrafind.de) veröffentlicht. Der Nutzer wird diese Seiten regelmäßig besuchen. Wenn der Nutzer die
+            IntraFind Plugins &amp; Services als Demo-Versionen nach Inkrafttreten von Änderungen weiter nutzt, gilt die
+            Zustimmung zu den Änderungen als erteilt.   Die Nutzungsvereinbarungen im Detail:   Mit Akzeptanz dieser
+            Nutzungsvereinbarung räumt die IntraFind Software AG dem Interessenten das eingeschränkte, nicht
+            übertragbare und nicht exklusive Recht ein, die ausgewählten IntraFind Produkte, Services bzw. Plugins im
+            Testzeitraum über die Cloud zu testen. Eine über diesen Test hinausgehende Nutzung, insbesondere die
+            wirtschaftliche Verwertung der von IntraFind zur Verfügung gestellten Produkte, Services und Plugins ist dem
+            Interessenten nicht gestattet. Demgemäß ist der Interessent insbesondere nicht berechtigt, das ihm von
+            IntraFind für Testzwecke überlassene Material in Form von Code, Codebeispielen und Dokumenten zu dem Zweck
+            zu vervielfältigen, um dieses an Dritte – auf welche Weise auch immer – zu vertreiben oder weiterzugeben.
+            Dies umfasst auch Partner, freiberufliche Mitarbeiter oder andere externe Dritte des Interessenten. Die
+            Dauer des Tests ist auf 20 Tage beschränkt. Nach Ablauf des genannten Zeitraums verpflichtet sich der
+            Interessent, alle überlassenen Daten, Informationen und Unterlagen vollständig zu löschen bzw. zu
+            vernichten, sollte keine Weiterarbeit mit den angebotenen Produkten, Services und Plugins über den Erwerb
+            von Produktivlizenzen oder einer Subscription beabsichtigt werden. Auf Verlangen von IntraFind ist über die
+            Löschung/Vernichtung eine eidesstattliche Versicherung abzugeben. Mit dem Test befasste Mitarbeiter des
+            Interessenten werden von diesem über die Regelungen dieser Nutzungsvereinbarung informiert. Externe
+            Mitarbeiter oder Partner des Interessenten erhalten keinen Zugang zu der Teststellung und dem mit ihr
+            überlassenen Material. Der Interessent erhält den Testzugang sowie das damit einhergehende Material zu
+            Testzwecken kostenfrei. Alle Produkte, Services und Plugins sowie dazugehörige Daten, Informationen,
+            Beispiele und Dokumente werden dem Interessenten ohne Gewährleistung irgendeiner Art, weder ausdrücklich
+            noch konkludent, zur Verfügung gestellt. Garantieleistungen oder Schadenersatz jeglicher Art sind
+            ausgeschlossen und werden nicht anerkannt. Dies gilt einschließlich, jedoch nicht beschränkt, bezüglich des
+            wirtschaftlichen Nutzens oder der Eignung für einen bestimmten Zweck. IntraFind ist nicht verantwortlich für
+            direkten, indirekten, nachfolgenden oder begleitenden Schaden, einschließlich des Schadens durch entgangenen
+            Gewinn, Unterbrechung von Geschäftsvorgängen oder Ähnliches, der aus dem Gebrauch oder der fehlenden
+            Gebrauchsmöglichkeit unserer Software, Services und Plugins resultiert. Der Interessent verpflichtet sich,
+            auf das Hochladen, Freigeben und Anwenden von schädlicher Software zu verzichten. Das Eigentum und das
+            Urheberrecht an den von IntraFind zur Verfügung gestellten Softwareprodukten, Services und Plugins
+            einschließlich des gesamten mitgelieferten Materials liegen bei der IntraFind Software AG und werden durch
+            das Urheberrecht und Bestimmungen internationaler Verträge geschützt. Der Interessent verpflichtet sich,
+            Detailinformationen, die aus der Verwendung der Softwareprodukte, Services und Plugins sowie des
+            überlassenen Begleitmaterials gewonnen werden, nicht an Dritte weiterzugeben oder diesen zugänglich zu
+            machen. Sollte dies z.B. im Rahmen von Projekten erforderlich sein, so ist dies von IntraFind
+            einzelfallbezogen im Vorhinein zu genehmigen. Der Interessent verpflichtet sich weiterhin, den Programmcode
+            der Softwareprodukte, Services und Plugins unter keinen Umständen durch Rückübersetzung in andere
+            Codeformen, Disassemblierung, Dekompilierung oder sonstige Arten der Rückerschließung der verschiedenen
+            Herstellungsstufen der Software zu überführen. Ebenso sind Änderungen an Softwareprodukten, Services und
+            Plugins unzulässig. Sämtliches überlassenes Material ist vom Interessenten an einem gegen den unberechtigten
+            Zugriff Dritter gesicherten Ort aufzubewahren. Alle Personen mit Zugangsberechtigung zu diesem Ort sind auf
+            die Einhaltung der vorliegenden Nutzungsvereinbarung sowie des Urheberrechts hinzuweisen. Der Interessent
+            ist nicht berechtigt, Copyright-Vermerke und weitere Produktidentifikationen zu entfernen oder zu ändern.
+            Der Testzugang wird dem Interessenten unter dem Gesichtspunkt gewährt, dass dieser nicht selbst
+            Suchmaschinenprodukte, Textklassifikationsprodukte, Text-Mining-Technologie, linguistische
+            Textanalyseprodukte oder Produkte für die assoziative Suche entwickelt oder deren Entwicklung plant. Darüber
+            hinaus verpflichtet sich der Interessent, die in Softwareprodukten, Services und Plugins ggf. mitgelieferten
+            Lexika nicht auszulesen, Wortlisten daraus zu generieren oder daraus eigene ähnliche Produkte für die
+            linguistische Wortanalyse (Grund- und Stammformerzeugung, Kompositazerlegung und Flexionsgenerierung) selbst
+            oder über Partner zu entwickeln oder zu vertreiben. Verstößt der Interessent gegen die vorstehend genannten
+            Nutzungsbedingungen, ist IntraFind zur fristlosen Beendigung der Teststellung mit sofortiger Wirkung
+            berechtigt. Darüber hinausgehende Ansprüche der IntraFind, insbesondere Schadenersatzansprüche wegen eines
+            Verstoßes des Interessenten gegen die vorstehenden Bestimmungen bleiben unberührt. Diese Bestimmungen sind
+            für den Interessenten, seine Rechtsnachfolger und Zessionare bindend. Sollten einzelne Bestimmungen dieser
+            Nutzungsvereinbarung unwirksam sein oder werden oder sollte sich eine Regelungslücke herausstellen, so
+            berührt das die Gültigkeit der übrigen Bestimmungen nicht. Es gilt das Recht der Bundesrepublik Deutschland
+            unter Ausschluss des internationalen Kaufrechts. Gerichtsstand für alle Streitigkeiten, die sich aus oder im
+            Zusammenhang mit diesen Nutzungsbestimmungen ergeben, ist der Sitz der IntraFind Software AG.   Absprachen
+            und Nebenabreden, die diese Nutzungsvereinbarungen ergänzen würden, gibt es nicht. Sollten einzelne
+            Bestimmungen ungültig sein oder werden, bleibt die Gültigkeit der übrigen Nutzungsvereinbarungen unberührt,
+            wobei die ungültigen Bestimmungen durch eine Bestimmung zu ersetzen ist, die der dargelegten Absicht
+            weitestgehend entspricht.    
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/gui</url>
+        <id>20D3CF482EDD9210E21757E28578609A</id>
+        <title>GUI</title>
+        <body>GUI   Graphic User Interface, anwendungsfreundliche Benutzeroberfläche zurück  </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/autocomplete</url>
+        <id>E56B9DC911D8E26A260EAB5F2134ECE9</id>
+        <title>Autocomplete Service</title>
+        <body>IntraFind Autocomplete - Ein kleines Instrument mit großen Auswirkungen für jeden starken Online Auftritt.
+            Klassische Autovervollständigungs-Technologien (Autocomplete) helfen dem Anwender während er seinen
+            Suchbegriff eintippt den Suchbegriff automatisch zu vervollständigen und nach starten des Suchauftrages
+            entsprechend Ergebnisse in Form einer Trefferliste zu erhalten. Dies geschieht jedoch meist 1:1 auf Basis
+            der Worte, die dem Autocomplete bekannt sind (also z.B. vorhandene Produktnamen). Doch wie viele Anwender
+            wollen viel Zeit darauf verwenden, die korrekte Schreibweise von Produktnamen oder von Markenbezeichnungen
+            zu recherchieren? Nachdem nun der Suchende unzählige Schreibvarianten eingetippt und vielleicht auch gesucht
+            hat und nicht das richtige Produkt &quot;gefunden&quot; hat, bricht er die Suche ab und verlässt die
+            Webseite. Ein Verlust für jedes Unternehmen, welches Zeit und Budget in Webseiten, Webshops investiert und
+            über intensive Werbemaßnahmen versucht Kunden zu erreichen. Autovervollständigung für Webshops Für die
+            Online-Shopping Welt ist ein gut geführter, sprich ein gut strukturierter Webshop mit schnell aufzufindenden
+            Produkten das A und O für ein erfolgreiches Einkaufserlebnis. Anbieter solcher Shopping-Portale sind im
+            höchsten Maße gefordert intelligente Mechanismen für eine Produktsuche, Produktrecherche parat zu haben. So
+            bieten Webshop-Anbieter ihren Kunden oft Suchmaschinen mit intelligenten Filtermechanismen welche den Käufer
+            durch die Produktvielfalt begleiten und sie hoffen, dass bei einem positiven Einkaufserlebnis, der Kunde
+            bald zurückkommt. Doch was passiert, wenn ein Kunde ein ganz bestimmtes Produkt oder eine ganz bestimmte
+            Marke sucht und die Schreibweise des Produktes nicht exakt weiß? Eine IntraFind interne Analyse von
+            kleineren und größeren Webshops bzw. Shopping Portalen hat ergeben, dass viele Shops an dieser Stelle
+            Schwächen aufzeigen. Brands oder Produkte mit Buchstabendrehern werden von bestehenden
+            Autocomplete-Funktionen nicht erkannt. Oft muss der Interessierte sogar die genaue Schreibweise eines
+            Produktes eingeben, um Vorschläge in der Autovervollständigung bzw. einen Schritt weiter – in der
+            Trefferliste zu erhalten. Nach etlichen Versuchen führt das Nichtauffinden eines Produktes letztendlich zu
+            einem enttäuschten Einkaufserlebnis und im schlimmsten Fall zu einem Webseiten-Absprung. IntraFind kann an
+            dieser Stelle intelligent unterstützen. Denn schon bereits bei der Eingabe von wenigen Buchstaben startet
+            die Autovervollständigung (Autocomplete) und ergänzt den Begriff, verbessert die Schreibweise bei Typos und
+            schlägt alternative Begrifflichkeiten vor. Der Kunde erkennt auf einem Blick sein Produkt, seine Marke,
+            bestätigt den Begriff und erhält als Ergebnis das gewünschte Produkt in der Trefferliste. Organisatorisch
+            profitieren Webshop-Anbieter bspw. im internationalen Bereich. Durch einfache Mechanismen werden dem Kunden
+            nur Produkte angezeigt, die in dem jeweiligen Land zu beziehen sind. Für das Land nicht relevante Produkte
+            werden im Autocomplete nicht angezeigt. Autovervollständigung für Unternehmenswebseiten Gerade Corporate
+            Webseiten mit unendlich vielen Unterseiten sind von Dritten - den Kunden - oft nur schwer zu erfassen.
+            Unterstützt wird der Kunde natürlich von einer gut durchdachten Navigation oder Filtermechanismen.
+            Übersteigt das Produktangebot die Möglichkeit dieser Mechanismen hilft eine gute Suchmaschine. Der
+            Autocomplete Service von IntraFind unterstützt intelligent den Kunden bei der Eingabe seines Suchbegriffes,
+            indem er automatisch Schreibweisen erkennt, Fehler toleriert, Synonyme bzw. verwandte Worte vorschlägt. Der
+            Kunde muss damit nicht mehr exakt wissen, wie der Hersteller sein Produkt schreibt. Die
+            Autovervollständigung erkennt auch bei einer Schreibweise des Wortes &quot;Kalaiduskop&quot; das richtige
+            Wort &quot;Kaleidoskop&quot;. Der Vorteil: Schnell und einfach kann der Kunde so sein gesuchtes Produkt
+            finden.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/elasticsearch/plugins_services/Linguistik_Plugin</url>
+        <id>F20AC8B5E590FFC834889A335A1BDD43</id>
+        <title>Elasticsearch Linguistik Plugin</title>
+        <body>Linguistik Plugin Das Linguistik Plugin erweitert eine Elasticsearch-Installation um Features wie
+            Lemmatisierung und Kompositazerlegung und verbessert so die Qualität der Suche bezüglich Vollständigkeit
+            (Recall) und Relevanz (Precision) der Suchergebnisse.   Technische Spezifikation: Betriebssysteme Alle von
+            Elasticsearch und Solr unterstützten Plattformen Installationsvoraussetzungen Aktuelle Solr- oder
+            Elasticsearch–Installation Eine im Pfad verfügbare Java 7-JRE–Installation Kombinierbare Dienste: Das
+            Linguistik Plugin kann als einzelnes Plugin genutzt oder vor den Search Service geschalten werden Alle
+            weiteren Services und Plugins können orthogonal kombiniert werden Dokumentation: SOA-Begleitdokumentation
+            Beispielimplementierung in Java Demo-Verzeichnis mit einfachen Click&amp;Play Nutzungsbeispielen Für wen ist
+            der Service interessant: Unternehmen, Behörden und wissenschaftliche Einrichtungen, die bereits Solr oder
+            Elasticsearch einsetzen und erhöhte Ansprüche an eine linguistische Verarbeitung haben Elasticsearch
+            Entwickler Solr Entwickler DEMO-ZUGANG &gt;&gt;
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/search-based-applications-search-driven-applications</url>
+        <id>D87DA8A0A58407A2BAC39487992238FA</id>
+        <title>Search-based applications / Search-driven applications</title>
+        <body>Search-based application / Search-driven application   An application that uses a search engine as main
+            backend system, but is not built around a search box.  
+        </body>
+    </Document>
+    <Document>
+        <url>
+            http://www.intrafind.de/unternehmen/news/intelligentes-autocomplete-intrafind-entwickelt-suche-auf-lexware-de
+        </url>
+        <id>E3FD3C43381058C84E07BC9E5515EEA1</id>
+        <title>16/05/2017 - Intelligentes Autocomplete: IntraFind entwickelt Suche auf Lexware.de</title>
+        <body>Intelligentes Autocomplete: IntraFind entwickelt Suche auf Lexware.de München, den 16. Mai 2017 – Lexware
+            bietet kaufmännische Software-Lösungen für Selbstständige, Freiberufler und auch für kleinere und mittlere
+            Unternehmen. Nutzer können damit bequem ihre Buchhaltung, Warenwirtschaft, Lohnabrechnung,
+            Reisekostenabrechnung und Fehlzeitenverwaltung vornehmen. Auch für Privatpersonen ist die Software gedacht,
+            zum Beispiel für das Anfertigen der Steuererklärung oder die Verwaltung von Wertpapieren. Seit 2010 gehört
+            die Marke Lexware zur Haufe-Gruppe. Neben seinen umfangreichen Softwarepaketen bietet Lexware auch
+            Schulungen und Services aus der Cloud an. Damit Kunden die entsprechenden Angebote jetzt noch schneller
+            finden, setzt Lexware ab sofort auf der Unternehmenswebseite www.lexware.de eine neue Suche ein: Es handelt
+            sich dabei um die Onsite Search von IntraFind, die auf dem iFinder5 elastic basiert. Suche mit
+            kontextabhängigen Vorschlägen Besonders herausragend ist hierbei die Autocomplete-Funktion mit automatischer
+            Tippfehlerkorrektur: Sobald der Nutzer die ersten drei Buchstaben in das Suchfeld eingibt, werden ihm
+            mögliche Suchbegriffe vorgeschlagen. Die Vorschläge werden dabei aus dem Datenbestand der Webseite
+            generiert. Ein besonderes Highlight: In der Trefferliste wird auch die Rubrik angezeigt, in der der mögliche
+            Suchbegriff vorkommt. Der Nutzer muss dabei nicht wissen, wie der Begriff richtig geschrieben wird, dank
+            automatischer Tippfehlerkorrektur wird der korrekte Begriff schon während der Eingabe angezeigt. Die
+            Suchfunktion macht auch kontextabhängige Vorschläge. Sucht man zum Beispiel nach „Steuer“ werden auch
+            Treffer für „Steuerberater“, „Steuersatz“ oder auch eine entsprechende Software für die Steuererklärung
+            angezeigt.    Auch die Trefferliste gestaltete sich entsprechend übersichtlich: Der Suchbegriff ist in der
+            Überschrift beziehungsweise im Dokument farblich hervorgehoben. Auch das Publikationsdatum des jeweiligen
+            Content Assets ist zu sehen.  Über IntraFind Software AG IntraFind entwickelt Produkte und Lösungen für das
+            effiziente Suchen, Finden, Analysieren von strukturierten und unstrukturierten Informationen unter
+            Berücksichtigung aller verfügbaren Datenquellen eines Unternehmens. Volltextsuche und die komplette
+            Bandbreite an Textanalyse- und Machine Learning-Verfahren, Natural Language Processing, kombiniert mit den
+            Möglichkeiten von Graphdatenbanken für Big Data Analytics, bilden hierbei den Schwerpunkt. Namhafte Kunden
+            sind: AUDI AG, BMW AG, Bundeswehr, IHK Berlin, Robert Bosch GmbH und Rohde &amp; Schwarz GmbH &amp; Co. KG.
+            Mehr Informationen: www.intrafind.de. Für weitere Informationen wenden Sie sich bitte an   IntraFind
+            Software AG Christiane Stagge Landsberger Straße 368 D-80687 München Email: christiane.stagge@intrafind.de
+            Internet: http://www.intrafind.de Pressekontakt AxiCom GmbH Frank Mihm-Gebauer Infanteriestr. 11 80676
+            München Tel.: 089 800 908 15 E-Mail: frank.mihm-gebauer@axicom.com    
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/text-mining</url>
+        <id>C09B545F3AF124FA991FCB6459070FF4</id>
+        <title>Text mining</title>
+        <body>Text mining   The task of extracting meaningful information bits out of text, such as entities, keywords,
+            document types. Text mining happens locally at the document, page, paragraph or sentence level.   Text
+            mining is the analysis of unstructured texts, which is based on the application of statistical and
+            linguistic methods. The objective of text analysis is the recognition of topics and core messages, which can
+            enable the user to quickly analyze a text and to find the most important information at a glance.   Often
+            the term clustering is used in connection with text mining - texts are grouped according to their contextual
+            similarity and combined into so-called clusters. A simple practical example is a possible cluster for the
+            term &quot;Mars&quot; - depending on whether you are talking about a chocolate bar or the planet Mars.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/committer</url>
+        <id>BC48F5C84D8E5025F26308EC1952B8DE</id>
+        <title>Committer</title>
+        <body>Committer   In der Apache Lucene-Community bspw. gibt es weltweit eine definierte Anzahl an
+            Lucene-Committern, die aktiver Teil des Veränderungs- und Erneuerungsprozesses der Suchmaschine sind und
+            gleichzeitig berechtigt sind diese Prozesse anzustoßen. IntraFind beschäftigt zwei Lucene-Committer.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/information-retrieval</url>
+        <id>785EC534CE9CF7DDD1C931BA9E2E680D</id>
+        <title>Information Retrieval</title>
+        <body>Information Retrieval   This area deals with the IT-supported gathering of information, this means finding
+            existing content.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/wissensnetz</url>
+        <id>1D5AE328F92BD30C87C10539237C41F2</id>
+        <title>Wissensnetz</title>
+        <body>Wissensnetz   Wissensnetze oder semantische Netze dienen der Abbildung von Beziehungen (Relationen)
+            zwischen Objekten.   Im Vergleich zu Wissensnetzen, die oftmals manuell aufgebaut werden und über eine
+            graphische Oberfläche Zugang zur Information bereitstellen, bietet IntraFind das iFinder Erweiterungsmodul
+            Semantisch-Assoziative Suche, das auf statistischen Berechnungen beruht und eine assoziative Suche
+            ermöglicht. Es ermittelt Begriffe, die häufig im Kontext des eingegebenen Suchbegriffes vorkommen und bietet
+            dem Suchenden somit eine wichtige Hilfestellung. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/news/kunden-und-partnertag-2016-praxisbeispiele-und-roadmap</url>
+        <id>F346768413A3B6F56641ACFA9BC877A7</id>
+        <title>04/11/2016 - Kunden- und Partnertag 2016: Praxisbeispiele und Roadmap</title>
+        <body>Kunden- und Partnertag 2016: Praxisbeispiele und Roadmap München, 04.11.2016 - Natürlichsprachlich,
+            umfassend, proaktiv – damit eine Enterprise Search Lösung zukunftsfähig bleiben kann, sollte sie laut
+            Gartner genau diese Eigenschaften aufweisen. IntraFind wollte wissen, was Anwender von einer professionellen
+            Suchlösung erwarten und hat zum jährlichen Kunden- und Partnertag eingeladen. Rund 65 Teilnehmer kamen dazu
+            am 27. Oktober ins Sofitel Bayerpost nach München.   Welche Anforderungen haben Unternehmen an eine
+            professionelle Enterprise Search Lösung? Welche Erfolgsbeispiele gibt es aus der Praxis? Welche neuen
+            Funktionalitäten kommen in den nächsten 12 Monaten im iFinder5 elastic? Vorstand Franz Kögl und
+            Produktmanager Ralf Klinkhammer gaben einen Einblick in die Roadmap vom iFinder5 elastic und erklärten die
+            neuen Funktionalitäten. Von der Enterprise Search Engine zur Insight Engine Die Suchfunktionalitäten sind
+            mittlerweile so umfassend und reichen weit in den Bereich von Content Analytics hinein, dass Gartner nicht
+            mehr von „Enterprise Search“, sondern von einer „Insight Engine“ spricht. Wesentlicher funktionaler
+            Meilenstein ist dabei die Nutzung von natürlichsprachlicher Suche (Natural Language Processing, NLP):
+            Suchanfragen werden dabei wie in der Muttersprache mit den Fragewörtern „Wer“, „Was“, und „Wie“ oder „Wann“
+            gestellt. „Was der Anwender von Siri, Cortana oder Google Now gewohnt ist, erwartet er auch von seiner
+            Enterprise Search Lösung“, betont Franz Kögl. &quot;Umfassend&quot; als zweites Kennzeichen beinhaltet neben
+            der &quot;gewohnten&quot; Anbindung von unstrukturierten Daten  auch struktuierte Daten mit einzubeziehen,
+            um mit dem iFinder als Insight Engine auch BI Anforderungen abdecken zu können. Proaktiv umfasst die
+            Lieferung von Informationen an den Benutzer in seinem Arbeitskontext, im Sinne von &quot;Informationen
+            geliefert bekommen, ohne eine Suchanfrage gestellt zu haben&quot;, so Kögl weiter. Parallel dazu bekommt die
+            Berücksichtigung der nutzungsbezogenen Relevanz eine immer stärkere Bedeutung, betont Ralf Klinkhammer:  So
+            ist die Suchmaschine in der Lage, den Dokumenten in der Trefferliste eine höhere Priorität einzuräumen, nach
+            denen auch schon zuvor die Kollegen gesucht haben. Kundenvorträge: iFinder im Einsatz Anhand von zahlreichen
+            Vorträgen wie z.B. der AUDI AG oder Rohde &amp; Schwarz konnten die Besucher des Kundentags ein genaueres
+            Bild vom iFinder in der Praxis gewinnen: Die Kundenvorträge und auch der abschließende Workshop, in dessen
+            Rahmen viele Usecases vorgestellt wurden, zeigten, dass die Funktionalitäten der im Unternehmen eingesetzten
+            Enterprise Search Lösung weit über die bloße Suche hinausgehen. Weitere Impressionen und Bilder vom
+            Kundentag finden Sie auch auf unserer Facebook-Seite. Über IntraFind Software AG IntraFind entwickelt
+            Produkte und Lösungen für das effiziente Suchen, Finden, Analysieren von strukturierten und unstrukturierten
+            Informationen unter Berücksichtigung aller verfügbaren Datenquellen eines Unternehmens. Volltextsuche und
+            die komplette Bandbreite an Textanalyseverfahren, kombiniert mit den Möglichkeiten von Graphdatenbanken für
+            Big Data Analytics, bilden hierbei den Schwerpunkt. Namhafte Kunden sind: AUDI AG, Bundeswehr, IHK Berlin,
+            Robert Bosch GmbH und Rohde &amp; Schwarz GmbH &amp; Co. KG. Mehr Informationen: www.intrafind.de. Für
+            weitere Informationen wenden Sie sich bitte an IntraFind Software AG Christiane Stagge Landsberger Straße
+            368 D-80687 München Email: christiane.stagge@intrafind.de Internet: http://www.intrafind.de
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/loesungen/e-commerce</url>
+        <id>F7EA401C105C7C60084071F961BC4B98</id>
+        <title>Verbesserung der Suche auf E-Commerce-Plattformen im Internet wie Medienportalen und Online Shops</title>
+        <body>E-Commerce – wie Sie mit einer leistungsfähigen Shop-Suche die Zufriedenheit und die Kauflust Ihrer Kunden
+            steigern können Für Betreiber von E-Commerce-Portalen (wie Online Shops oder Content-Portale von
+            Medienunternehmen und Verlagen) ist es essenziell, dass die Besucher lange auf dem Portal verweilen, dort
+            Einkäufe tätigen, die gekauften Produkte positiv bewerten, weiterempfehlen und das Portal auch künftig
+            erneut aufsuchen. Einen großen Einfluss auf die Kundenzufriedenheit und -treue hat zweifelsohne eine gut
+            funktionierende Portalsuche. Es gilt daher, ein besseres Verständnis für die Bedürfnisse der Suchenden zu
+            entwickeln und diese durch entsprechende Suchfunktionalitäten während des gesamten Portalbesuchs optimal zu
+            unterstützen. In diesem Zusammenhang werden linguistische Features zunehmend wichtiger, welche die
+            bestehenden Workflows und Produktvorschläge (Recommendations) gängiger E-Commerce-Suchmaschinen ergänzen und
+            die Suchergebnisse qualitativ deutlich aufwerten. Den Kunden verstehen: Suche mit verbesserten
+            Sprachfeatures Durch den Einsatz der qualitativ hochwertigen Textanalysekomponenten von IntraFind findet der
+            Portalbesucher sowohl mehr als auch bessere Treffer. So macht es bei der Suche dann keinen Unterschied mehr,
+            ob er nach &quot;Buch&quot; oder &quot;Bücher&quot; sucht. Die linguistische Textanalyse von IntraFind
+            stellt sicher, dass er jeweils auch Treffer mit &quot;Buch&quot;, &quot;Bücher&quot;, &quot;des Buches&quot;,
+            &quot;Kinderbüchern&quot; usw. findet. Hierfür ist keine aufwändige manuelle Pflege von Regeln notwendig -
+            die Linguistik erledigt dies qualitativ hochwertig im Hintergrund. Online Shops, die in mehreren Sprachen
+            zur Verfügung stehen, können durch den Einsatz der crosslingualen Suche ihren Kunden auch Artikel anbieten
+            und vorschlagen, für die keine Artikelbeschreibung in der Landessprache des Kunden vorliegt. Vom Kunden
+            unbemerkt wird im Hintergrund sein eingegebener Suchbegriff auf die Grundform zurückgeführt (z.B. „Bücher“ →
+            „Buch“), übersetzt und für die Suche in anderen Artikelbeschreibungen, z.B. auf Englisch oder Französisch,
+            genutzt. Die Treffermenge enthält dann ebenfalls Artikel, deren Beschreibungstexte „book“ oder „livre“
+            enthalten. Auf diese Art und Weise kann dem Kunden auch für die Suche in einer Fremdsprache eine konstant
+            hohe Trefferqualität und -menge angeboten werden. Zusätzlich wird der Kunde durch Synonymvorschläge in
+            seiner Kaufentscheidung unterstützt, indem die Suche über einen hierarchischen Thesaurus (Verfeinerung,
+            Verallgemeinerung, Synonyme) um relevante Begriffe erweitert wird, z.B. um den Begriff „Laptop“ bei der
+            Suche nach „Notebook“. Marketingkampagnen des Portalbetreibers können einfach mit beliebigen
+            (verschachtelten) Suchanfragen erstellt werden, so dass die Suche nach &quot;Kontakt&quot; oder einem
+            beliebigen Artikel auch genau die vom Portalbetreiber gewünschten Ergebnisse als beste Treffer zurückliefert
+            wie beispielsweise die zuständige Kunden-Hotline oder die Angebotsartikel aus der aktuellen
+            TV-Werbekampagne. Neben Thesauri können auch Taxonomien oder semantische Netze und Wissensmodelle über
+            Standard-Schnittstellen angeschlossen werden. Denn der Kunde interessiert sich nach der Wahl einer Kamera
+            nicht für &quot;ähnliche&quot; Kameras,  sondern für passendes Zubehör wie Objektive, Transporttaschen oder
+            Speicherkarten - und dies wird über ein semantisches Netz ermöglicht und gepflegt. Geführte Suche Neben den
+            dargestellten linguistischen Methoden und der facettierten Suche (Einschränkung der Treffermenge durch
+            Auswahl von Produkteigenschaften wie Preis, Hersteller oder Farbe) hilft eine intelligente
+            Autovervollständigung (z.B. um Vorschläge aus den unterschiedlichen Produktgruppen gruppiert und
+            übersichtlich anzuzeigen), den Shopbesucher schnell zu seinem gewünschten Produkt zu führen.   Hilfe bei der
+            Datenerfassung und -veredelung Die Qualität der Daten (z.B. eine ausführliche und korrekte
+            Produktbeschreibung inklusive Kundenbewertungen) macht oft den entscheidenden Unterschied, ob ein Produkt
+            gekauft wird oder nicht. Die IntraFind Softwareprodukte helfen, die Qualität der Daten (und Metadaten) zu
+            optimieren. Metadaten wie Hersteller/Marke, Farbe, Größe oder Preis eines Artikels ermöglichen es dem
+            Kunden, sich besser in einem System zurecht zu finden und fokussiert zum gewünschten Produkt zu gelangen.
+            Der IntraFind Tagging Service unterstützt umfassend alle Prozesse, in denen Inhalte erstellt werden (z.B.
+            Produktbeschreibungen oder redaktionelle Beiträge und Artikel) und reichert die vorhandenen Daten mit neu
+            generierten Metadaten (z.B. Produkt- und Markennamen, Personen oder Orte) an. Schnelle
+            Auswertungsmöglichkeit für große Datenbestände Die IntraFind Wissenslandkarte ermöglicht eine übersichtliche
+            360°-Sicht auf die vorhandenen Daten. Neben der bereits erwähnten Navigationshilfe für den Kunden bedeutet
+            dies für Betreiber von Online Shops die Möglichkeit, gezielte Auswertungen zu erstellen; so behalten sie
+            immer den Überblick, welche Produkte in einer bestimmten Kategorie verfügbar oder ausverkauft sind. Durch
+            die dynamische Anzeige und Aktualisierung der einzelnen Kategorien bei jedem Mausklick erhalten sie schnell
+            Antworten auf ihre Fragen, ohne weitere Analysetools einsetzen zu müssen. Einfache Integrierbarkeit Die
+            dargestellten Komponenten basieren ausnahmslos auf einfach anzusprechenden Services oder lassen sich als
+            Plugins ohne große Aufwände in bestehende Suchlösungen auf Basis von Lucene, Solr oder Elasticsearch
+            integrieren.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/company/glossary/enterprise-search</url>
+        <id>4FDCAA05BCF4065DF301AE4F87DB4F6F</id>
+        <title>Enterprise Search</title>
+        <body>Enterprise Search   Company-wide search in unstructured and structured data, which can be stored in a
+            variety of different applications and systems (SAP, Microsoft Exchange, SharePoint, DMS, CMS, etc.) . In the
+            corporate environment, the search across departments, locations and languages is relevant - results are
+            displayed to the employee on the basis of their individual user rights.  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/algorithmus</url>
+        <id>81DD60A4DA1B613959F14C3A2A823FFC</id>
+        <title>Algorithmus</title>
+        <body>Algorithmus   Algorithmen für Computer sind heute so vielfältig wie die Anwendungen, die sie ermöglichen
+            sollen. Vom elektronischen Steuergerät für den Einsatz in KFZ über die Rechtschreib- und Satzbau-Kontrolle
+            in einer Textverarbeitung bis hin zur Analyse von Aktienmärkten finden sich tausende von mehr oder minder
+            tauglich arbeitenden Algorithmen. Als Ideen und Grundsätze, die einem Computerprogramm zugrunde liegen, wird
+            Algorithmen in der Regel urheberrechtlicher Schutz versagt. Je nach nationaler Ausgestaltung der
+            Immaterialgüterrechte sind Algorithmen der Informatik jedoch dem Patentschutz zugänglich, so dass
+            urheberrechtlich freie individuelle Werke, als Ergebnis eigener geistiger Schöpfung, wirtschaftlich trotzdem
+            nicht immer frei verwertet werden können. Dies betrifft oder betraf z. B. Algorithmen, die auf der
+            Mathematik der Hough-Transformation (Jahrzehnte alt, aber mehrfach aktualisiertes Konzept mit Neu-Anmeldung)
+            aufbauen, Programme, die das Bildformat GIF lesen und schreiben wollten oder auch Programme im Bereich der
+            Audio- und Video-Verarbeitung, da die zugehörigen Algorithmen, wie sie in den zugehörigen Codecs umgesetzt
+            sind, oftmals nicht frei verfügbar sind. Die entsprechenden Einsparpotentiale für alle Anwender weltweit
+            (für den Rete-Algorithmus wurde einst 1 Million USD auf DEC XCON genannt) dürften heute problemlos die
+            Grenze von einer Milliarde USD im Jahr um ein zigfaches überschreiten.  28.11.2012, www.wikipedia.de   Mehr
+            erfahren &gt;      
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/trainingskorpus</url>
+        <id>431105F274D174B43C0DE2C50396313D</id>
+        <title>Trainingskorpus</title>
+        <body>Trainingskorpus   Ein Korpus an Texten, der für das Training eines Classifiers verwendet wird. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/produkte/iFinder5_elastic/Unternehmensbereiche/kundensupport-customer-service</url>
+        <id>631B7437224166D22464AEB7E475EC4A</id>
+        <title>Nutzenargumente für Kundensupport</title>
+        <body>Kundensupport &amp; Customer Service Erleichtern Sie Ihren Kunden und Mitarbeitern den Zugang zu
+            Service-Informationen, Lösungsansätzen oder FAQ-Hilfen. Mit nur wenigen Klicks kann Ihr Support-Mitarbeiter
+            eine Situation erfassen, bewerten und Lösungen anbieten. Somit sparen Sie mit dem iFinder5 elastic wertvolle
+            Zeit und Ressourcen und steigern darüber hinaus die Produktivität Ihres Kundenservice, Helpdesk oder After
+            Sales Service. Über IntraFind-eigene Konnektoren kann eine Vielzahl an Ticketing-Systemen angebunden werden.
+            Fragen Sie unser Portfolio direkt an &gt;&gt;   &gt;&gt; zurück zu den Unternehmensbereichen
+        </body>
+    </Document>
+    <Document>
+        <url>https://www.intrafind.de/blog/in-der-trefferliste-ganz-oben-relevanz-in-suchanfragen</url>
+        <id>3097BB3E903843A08E6F7A5D90507A66</id>
+        <title>In der Trefferliste ganz oben: Relevanz in Suchanfragen</title>
+        <body>In der Trefferliste ganz oben: Relevanz in Suchanfragen In der Trefferliste ganz oben: Relevanz in
+            Suchanfragen „Lieber User-Support, für einen Vortrag, den ich nächste Woche im Teammeeting halten soll, muss
+            ich nach thematisch passenden Dokumenten auf unseren Unternehmensservern recherchieren. Leider werden mir in
+            der Trefferliste nicht die Ergebnisse aufgelistet, die ich brauche. Die Dokumente sind entweder völlig
+            veraltet oder thematisch unpassend. Funktioniert die Suchmaschine nicht richtig? Warum werden mir keine
+            Suchergebnisse angezeigt, die für mich relevant sind?“ Eine solche Anfrage würde wohl jeder Anwender, der
+            schon einmal eine ähnliche Erfahrung gemacht hat, gerne an seine IT-Abteilung stellen. Wie kommt es, dass
+            die Suchmaschine nicht die gewünschten Ergebnisse anzuzeigen scheint oder man sie erst nach mühsamem
+            Scrollen durch die Trefferliste findet? Wovon hängt die Reihenfolge der Treffer, also deren Relevanz, ab?
+            Wie lässt sich die Relevanz innerhalb der Trefferliste beeinflussen? Wer eine eigene Webseite erstellt,
+            wendet spezielle Suchmaschinenoptimierungsverfahren an, damit die Seite bei Google möglichst weit oben in
+            der Trefferliste erscheint, wenn man nach einem bestimmten Begriff sucht. Die Reihenfolge innerhalb der
+            Trefferliste hängt bei Google unter anderem von der Linkpopularität ab. Darüber hinaus wird die Reihenfolge
+            von Best Bets wie beispielsweise Wikipedia-Artikel oder Bezahlangebote wie Google AdWord beeinflusst. Den
+            vollständigen Algorithmus gibt Google jedoch nicht preis. Anders bei Enterprise Search-Anwendungen: Hier
+            basiert die Reihenfolge innerhalb der Trefferliste auf einer klar definierten Formel. Die Trefferliste kann
+            auch je nach Szenario rechtegeprüft sein. Das bedeutet, dass ein Mitarbeiter aus der Buchhaltung bei der
+            Suche andere Treffer angezeigt bekommt, als sein Kollege aus der Entwicklung. Das Thema Relevanzberechnung
+            gehört neben der Aufbereitung des Indexes und der Verarbeitung von Suchanfragen zu den zentralen
+            Kernaufgaben einer Suchmaschine. Für den Nutzer ist die Antwort auf eine Suchanfrage dann relevant, wenn sie
+            sein Informationsbedürfnis erfüllt. Da die Antwort einer Suchmaschine oft mehrere Objekte enthält, wie
+            Dokumente, Adressen oder Bilder, spricht man von relevanten Treffern. Will man das Thema Relevanz in
+            Suchergebnissen verstehen, muss man sich darüber im Klaren sein, dass eine Suche ein Prozess ist, der
+            mehrere Komponenten umfasst: Die suchende Person, die Suchanfrage, gegebenenfalls voreingestellte Filter,
+            der Ort, von dem aus die Suche stattfindet und der Zeitpunkt der Suche. Die gleiche Person kann mit der
+            gleichen Suchanfrage zu unterschiedlichen Zeitpunkten unterschiedliche Informationsbedürfnisse haben. Aus
+            diesen Gründen hat Relevanz auch immer eine subjektive und kontextsensitive Komponente.   Technische
+            Voraussetzungen Bei der Frage nach Relevanz sind auch die technischen Bedingungen zu klären: Um welche Art
+            der Suchmaschine handelt es sich? Es macht einen Unterschied, ob der Nutzer eine indexbasierte Suchmaschine
+            oder eine Echtzeitsuchmaschine verwendet. Am häufigsten sind indexbasierte Suchmaschinen im Einsatz. Sie
+            halten sämtliche Daten im Index vor. Der Nutzer kann jedoch nur diejenigen Dokumente finden, die sich im
+            Index befinden. Oft fehlen an den Dokumenten die erforderlichen Metadaten. Wurden die Metadaten nicht
+            gepflegt und müssen Daten nachträglich getaggt bzw. verschlagwortet werden, gelangen Dokumente mitunter mit
+            fehlerhaften oder unvollständigen Angaben in den Index und es wird umso schwerer, die richtigen Dokumente
+            aufzufinden. Die sogenannte Echtzeitsuchmaschine startet den Indexierungsvorgang erst nach der Suchanfrage.
+            So sind die Daten zwar aktuell, deren Qualität allerdings mitunter schlechter und es dauert lange, bis einer
+            Trefferliste angezeigt wird. Wie wird die Relevanz eines Dokumentes berechnet? Den Wert, der die Reihenfolge
+            der Treffer innerhalb der Trefferliste bestimmt, falls keine andere Sortieroption (z.B. Aktualität)
+            angegeben wurde, nennt man Scoring. Jedes Trefferdokument muss einen Score größer Null haben, sonst wird es
+            nicht in der Trefferliste angezeigt. Somit könnten theoretisch auch bestimmte Dokumente ganz gezielt aus der
+            Trefferliste ausgeschlossen werden. Inhaltsbasierte Relevanz Bei der inhaltsbasierten Relevanz wird die
+            Suchanfrage inhaltlich mit den im Index sich befindenden Dokumenten verglichen. Ein Beispiel ist das
+            TF/IDF-Verfahren. Gemeint ist damit die Termfrequenz (Term Frequency = TF) und die inverse
+            Dokumentenhäufigkeit (Inverse Document Frequency = IDF). Die Termfrequenz bezeichnet die Häufigkeit, mit der
+            ein Begriff im Dokument vorkommt. Demnach werden Dokumente, in denen der Suchbegriff häufig vorkommt, als
+            relevanter eingestuft als diejenigen, in denen der Begriff nicht so häufig vorkommt. Das Problem, das hier
+            entstehen kann, ist, dass längere Dokumente höher bewertet werden können, weil darin mehr Begriffe
+            vorkommen. Die Suchmaschine kann das jedoch ausgleichen, indem die Termfrequenz bei großen Dokumenten
+            relativ zur Dokumentengröße angepasst wird. Es ist auch möglich, bei der Konfiguration der Suchmaschine die
+            Begriffe nach ihrem Informationswert zu gewichten und zum Beispiel Adverbien niedriger zu bewerten oder
+            Stoppwörter zu verwenden und beispielsweise Begriffe wie „und“ aus dem Index auszuschließen. Über die
+            Feldgewichtung ist es auch möglich, Dokumente höher zu gewichten, wenn der Suchbegriff in bestimmten Feldern
+            vorkommt, denen ein hoher Wert zugeordnet worden ist, wie zum Beispiel im Titel des Dokuments. Die inverse
+            Dokumentenhäufigkeit misst die allgemeine Bedeutung des Terms für die Gesamtmenge der Dokumente. Hier werden
+            Begriffe, die in weniger Dokumenten enthalten sind, höher gewertet. Wichtig ist, dass der TF und IDF
+            zusammenwirken, sodass die Dokumente, die für den Nutzer wirklich relevant sind, im richtigen Maß angezeigt
+            werden. Ein anderes Verfahren ist BM25. Der BM25 basiert auf das TF/IDF-Verfahren, erlaubt jedoch im
+            Gegensatz dazu noch mehr Feinabstimmungen und Konfigurationsmöglichkeiten. Nutzungsbasierte Relevanz Um den
+            Suchkontext bei der Berechnung der Relevanz zu berücksichtigen, müssen zusätzlich zum Inhalt andere
+            Informationen (Signale) gemessen werden. Beispiele sind: Identität des Suchenden samt Profilinformationen,
+            Benutzerinteraktionen mit dem System bei gleichen oder ähnlichen Suchen, Suchort und -zeit, etc. Diese
+            Signale können dann zusammen mit der inhaltlichen Relevanz kombiniert werden, um somit eine verbesserte
+            Relevanz zu erzielen. So gibt es neben der inhaltsbasierten Relevanz auch eine nutzungsbasierte Relevanz.
+            Hier wird die Reihenfolge der Treffer in der Trefferliste von der Gruppenzugehörigkeit des Suchenden und
+            deren Historien beeinflusst – nach dem Motto: Was meine Kollegen interessiert und wonach andere Mitarbeiter
+            der selben Abteilung schon gesucht haben, könnte mich auch interessieren. Dokumente, nach denen also schon
+            die Kollegen gesucht haben, werden demnach in der Trefferliste höher gewichtet. Möglichkeiten die Relevanz
+            anzupassen Die Relevanz kann mithilfe von sogenannten Boost-Faktoren beeinflusst werden. Dabei erhalten
+            Dokumente, welche eine bestimmte Information, wie zum Beispiel einen Produktnamen, beinhalten, einen höheren
+            Relevanzwert. Diese Boosts werden in enger Zusammenarbeit mit dem Kunden und entsprechend seinen
+            Anforderungen ausgearbeitet. Die Relevanz kann auch durch die Vorverarbeitung von Queries verbessert werden,
+            indem der sogenannte &quot;Search Intent&quot; (die Suchintention) aus der Query erfasst wird. Dabei wird
+            die Query umgeschrieben um den Search Intent besser zu repräsentieren. Beispiel: Die Suchanfrage
+            „Präsentationen von letzter Woche für den Kundentag“ kann übersetzt werden in eine Suche, die Präsentationen
+            (also PowerPoint- oder PDF-Dokumente), welche in der vergangenen Woche zuletzt gespeichert wurden und den
+            Begriff &apos;Kundentag&apos; beinhalten, umfasst. Zur Vorverarbeitung von Queries gehört auch die
+            Erweiterung von Queries mittels Thesauri. Boost-Faktoren Das Boosting kann über die verschiedensten
+            Verfahren erfolgen. So kann die Position des Suchbegriffs einen Einfluss auf das Ranking in der Trefferliste
+            haben, also ob er am Anfang oder am Ende eines Dokuments steht. Weiterhin gibt es den formatbasierten Boost,
+            der Dokumente höher gewichtet, in denen der Suchbegriff fett formatiert ist. Auch die Dokumentenqualität
+            kann eine Rolle spielen. Hierbei wird der Contentquelle ein Qualitätswert zugeordnet und dieser wird dann
+            auf alle zugehörigen Dokumente übertragen.  Weitere Boost-Faktoren können die Größe der Dokumente sein sowie
+            deren Popularität, was an Log-Dateien und Anzahl der Klicks gemessen werden kann und auch die eingehenden
+            Links beziehungsweise Verweise auf ein Dokument. Demnach ist das Dokument am hilfreichsten, auf das am
+            häufigsten von anderen Dokumenten aus verwiesen wird. Auch die Aktualität des Dokuments kann als
+            Boost-Faktor für das Ranking innerhalb der Trefferliste verwendet werden oder die Bewertung der Benutzer.
+            Für das Boosting kann auch eine interne Redaktion eingesetzt werden. Redakteure entscheiden darüber, welche
+            Dokumente wichtig sind und welche weniger. Die Reihenfolge der Suchergebnisse in der Trefferliste liegt
+            damit im Ermessen des Redakteurs, der die Dokumente unterschiedlich hoch gewichtet. Dominoeffekt vermeiden
+            Der Boost Faktor wird für jedes Dokument im Index hinterlegt und mit dem eigentlichen Score multipliziert.
+            Bei jeder neuen Indexierung kann der Boost-Faktor wieder geändert und kundenspezifische Wünsche können mit
+            übernommen werden. Das Thema Relevanz von Suchergebnissen ist sehr vielschichtig und hängt von vielen
+            verschiedenen Faktoren und Bedingungen ab. Deshalb ist beim Tuning der Relevanz immer höchste Vorsicht
+            geboten. Schon kleine, auf den ersten Blick sinnvoll erscheinende Anpassungen können Auswirkungen auf andere
+            Use Cases haben, die nicht berücksichtigt wurden. Ein Boost auf das Titel-Feld kann beispielsweise dazu
+            führen, dass sich der Titel unverhältnismäßig hoch auf das Ranking auswirkt, nicht zuletzt dann, wenn er
+            reißerisch formuliert ist und mit den für den Text relevanten Keywords nicht viel zu tun hat. Beispiel: Ein
+            Artikel, in dem es um den US-Präsidenten Donald Trump und seine Partei geht, hat den Titel „Eine
+            zerstörerische Kraft“. Weder das Keyword „Trump“ noch „GOP“ tauchen im Titel auf. Das übermäßiges Boosting
+            des Titelfeldes könnte also in dem Fall dazu führen, dass der Artikel nicht gefunden wird. Weiterführende
+            Links: Blogbeitrag: Schwierige Verwandtschaft - wie Suchmaschinen mit Hilfe von Wortfamilien erweitert
+            werden können Blogbeitrag: New High Quality Search for iFinder5 elastic Der Autor Breno Faria, Head of
+            Development, ist seit 2012 für die IntraFind Software AG tätig. Seit den späten 2000er Jahren beschäftigt er
+            sich intensiv mit den Themen Content Analytics und Information Retrieval. 2015 übernahm er die Rolle des
+            Entwicklungsleiters bei IntraFind.   Im Rahmen von Veranstaltungen, z.B. Berlin Buzzwords 2014 oder &quot;IntraFind
+            Enterprise Search Day 2015&quot;, referiert er regelmäßig über neue Technologien oder präsentiert innovative
+            Lösungen aus IntraFind Kundenprojekten.
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/volltextsuche</url>
+        <id>99346880129875C08CD8BC2967F457BC</id>
+        <title>Volltextsuche</title>
+        <body>Wissensnetz   Beschreibt in erster Linie das Suchen und Auffinden von Texten in einer Menge von Dateien,
+            die auf einem Computer oder Server gespeichert sind. Aus Sicht des Anwenders bedeutet Suche die Eingabe
+            eines oder mehrerer Suchbegriffe, die zu einer Liste an Trefferdokumenten führt. Voraussetzung für die
+            Erstellung einer Trefferliste ist die vorherige Indizierung des gesamten Dokumentenbestandes.   Eine
+            einfache Volltextsuche beinhaltet keine linguistische Vorverarbeitung der Texte, wie sie beispielsweise das
+            iFinder Erweiterungsmodul LISA leistet. Somit müssen die Suchbegriffe präzise eingegeben werden, um den
+            gewünschten Treffer zu erhalten - Tippfehler oder abweichende Schreibweisen führen unter Umständen zum
+            falschen Ergebnis. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/kontaktformular</url>
+        <id>C25FBF67836968DCA0225FB77220100D</id>
+        <title>Kontakt</title>
+        <body>IntraFind Kontaktformular</body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/unternehmen/glossar/linguistik</url>
+        <id>B7BE7CF9C47622D638221B3F0558F429</id>
+        <title>Linguistik</title>
+        <body>Linguistik   Die Wissenschaft, die menschliche Sprache untersucht.Im Bereich von intelligenten
+            Suchmaschinen und der Textanalyse ist die Linguistik ein wichtiger Bestandteil. IntraFind hat eine
+            marktführende deutschsprachige Linguistik, LiSa. Gerade hier zeigt sich die Qualität, da komplexe
+            inhaltliche Zusammenhänge. Weitere Sprachen sind erhältlich. zurück  
+        </body>
+    </Document>
+    <Document>
+        <url>http://www.intrafind.de/blog/ueber-die-vorteile-einer-wissensbasierten-suche-384</url>
+        <id>ACAD73E68C0964AABBC75EDA42F3209E</id>
+        <title>Über die Vorteile einer wissensbasierten Suche</title>
+        <body>Über die Vorteile einer wissensbasierten Suche   Aktuelle Studien besagen, dass 80% unseres Wissens in
+            unstrukturierten Daten vorliegt, also in Form von Word-, PDF-, PowerPoint- oder anderen Dateien, die täglich
+            massenhaft in Unternehmen entstehen. Eine leistungsfähige Suchmaschine, die Daten aus dieser Masse
+            wiederauffindbar macht, ist die Lösung in vielen Fällen, um so festgehaltenes Wissen nicht verloren gehen zu
+            lassen.   Viele Suchmaschinen auf dem Markt bedienen sich verschiedenartiger Technologien, um den Suchenden
+            in seiner Recherche zu unterstützen. Zu nennen ist hier beispielsweise eine linguistische Aufbereitung der
+            Textdaten, um von den Varietäten der natürlichen Sprache (Flexionen, Kompositionen) abstrahieren zu können.
+            Manche Suchmaschinen können Suchanfragen in andere Sprachen übersetzen (crosslinguale Suche), Synonyme in
+            Betracht ziehen (zum Beispiel &quot;Orange&quot; = &quot;Apfelsine&quot;) oder semantische Informationen
+            erkennen und verwerten (&quot;Max Müller&quot; ist eine Person). Was ist nun aber, wenn diese
+            Funktionalitäten nicht ausreichen, um die Suchbedürfnisse zu befriedigen?   Was ist, wenn man bereits über
+            fachliches Wissen verfügen muss, um an die notwendige Information zu gelangen?   Hier kommt nun Wissen ins
+            Spiel, welches in den Köpfen der Mitarbeiter von Unternehmen und Organisationen steckt, und welches für
+            unternehmens- und fachfremde Suchende in der Regel nicht zugänglich ist. Wie kann man hier helfen, um eine
+            Recherche zum Erfolg zu führen?   Betrachten wir zwei Beispiele, um die Vorteile einer wissensbasierten
+            Suche zu verdeutlichen: Produktsuche im Internet Eines der vielen Anwendungsbeispiele einer wissensbasierten
+            Suche ist die Recherche nach Kochrezepten und Lebensmitteln im Internet. Hat man etwa ein Gericht mit Fisch
+            für den Abend geplant, so würde man bei der Suche nach „Fisch“ auf den einschlägigen Portalen von großen,
+            namhaften Lebensmittelhändlern Rezepte und Produkte finden, die das Wort &quot;Fisch&quot; beinhalten (zum
+            Beispiel „Mandel-Fisch mit Erbsen und Kartoffelpüree“).   Man findet jedoch weder das aktuelle
+            Frischfischangebot „Schottischer Lachs“ noch das Tiefkühlprodukt „Seelachsfilet, tiefgefroren“. Der Grund
+            hierfür ist einfach: Weder beinhaltet der Produktname das Wort „Fisch“ noch besitzt die Suchmaschine das
+            Wissen, dass Lachs oder Seelachs Fischarten sind. Stellt man jedoch dieses Wissen zur Verfügung, so kann der
+            Suchende schnell und einfach über das Produktportal auch alle Fischangebote des Händlers finden – ein
+            klarer, monetär messbarer Benefit, wenn man die Suche mit Wissen verbindet. Suchen in Unternehmen und
+            Organisationen Betrachten wir ein weiteres Anwendungsbeispiel, diesmal in einem agileren und komplexeren
+            Umfeld, nämlich der Welt der Unternehmen und Organisationen. Nehmen wir an, dass der Suchende auf einer
+            Messe von einem interessanten Produkt einer Firma gehört hat und nun die entsprechende Ansprechperson des
+            Herstellers sucht. Über die Firmenseite findet er zwar Informationen über das Produkt, jedoch keine
+            Kontaktdaten einer Ansprechperson. Anscheinend weiß die Suchmaschine nichts über den Zusammenhang zwischen
+            Produkten und Mitarbeitern und auch nichts darüber, wem das Produkt im Unternehmen zugeordnet ist.   Die
+            Darstellung des Zusammenhangs zwischen den einzelnen Abteilungen eines Unternehmens hilft hier weiter. Nun
+            kann man aus dem Wissen, das der Suchmaschine zur Verfügung gestellt wird, schließen, dass der
+            Produktverantwortliche für das Produkt Herr Müller aus der Abteilung XY ist, die zuständige Kontaktperson
+            hingegen Herr Petersen aus dem Vertrieb. Der Interessent kann nun in Verbindung mit dieser Person treten und
+            gleichzeitig alle relevanten Dokumente finden, die über das Produkt sowie verwandte und möglicherweise
+            ebenfalls interessante Produkte zur Verfügung stehen – ein echter Vorteil also, wenn eine Firmen- und
+            Produktstruktur nach außen hin implizit über eine Suchmaschine zugänglich gemacht wird. Durch
+            Wissensmodellierung zu semantischen Netzen Aus diesen beiden Beispielen lässt sich sicherlich eine Vielzahl
+            weiterer Anwendungsmöglichkeiten ableiten, bei denen die Kombination aus Wissen und Suche einen Vorteil für
+            die Informationsgewinnung bringt. Dieses Wissen ergibt sich in der Regel nicht von selbst, sondern muss von
+            Experten erstellt bzw. abgebildet werden. Dieser Vorgang nennt sich Wissensmodellierung, das Produkt hiervon
+            ist ein sogenanntes semantisches Netz.   Dank einfach zu bedienender Werkzeuge ist die Erstellung von
+            semantischen Netzen ein simpler Vorgang. Mit dem Semantic Modeller der Firma IntraFind beispielsweise lassen
+            sich Objekte grafisch einfach erstellen, mit Eigenschaften versehen und per Drag &amp; Drop Verknüpfungen
+            zwischen diesen Objekte  herstellen. Es wird die Konsistenz bei der Modellierung überprüft und es wird
+            protokolliert, welche Modellierungsschritte durchgeführt wurden. Mehrere Modellierer können gleichzeitig
+            arbeiten, was den Semantic Modeller zu einem leistungsstarken, kollaborativen Werkzeug macht. Der Semantic
+            Modeller ist in die Produktwelt von IntraFind integriert und lässt sich nahtlos mit der Suchmaschine iFinder
+            kombinieren.   Die Frage stellt sich sofort: Hat man mit der Erstellung eines semantischen Netzes nicht
+            einen unermesslichen Aufwand? Muss man denn alles von der Basis aus und manuell modellieren? Die Antwort
+            lautet: Nein! Sicherlich kann ein qualitativ hochwertiges semantisches Netz nicht komplett automatisch
+            erstellt werden, und es lebt gerade davon, dass es von Fachleuten kontrolliert erstellt wurde.   Es gibt
+            jedoch Strategien, die das Modellieren unterstützen können: In vielen Fällen liegt in einer Organisation
+            oder in einem Unternehmen bereits strukturiertes Wissen vor, beispielsweise in Form von Excel-Tabellen, von
+            LDAP-Servern für die Nutzerverwaltung oder von Organigrammen zur Abbildung der Unternehmensstruktur. Dieses
+            Wissen lässt sich importieren und so zügig in einem semantischen Netz nutzbar machen.   Doch ist man damit
+            vollständig? Hat man alle vorhandenen und relevanten Informationen erfasst? Wenn wir auf die eingangs
+            erwähnte Aussage zurückgreifen, dass 80% des Wissens in unstrukturierter, textueller Form vorliegt, dann
+            müssen wir diese Frage wohl verneinen. Glücklicherweise gibt es jedoch automatische Verfahren, mit denen man
+            wichtige Begriffe und Konzepte aus Texten extrahieren kann (zum Beispiel Named Entity Recognition oder
+            Verschlagwortung).   Der Tagging Service der Firma IntraFind ist eine solche Software, die aus
+            unstrukturierten Unternehmensdaten Objekte (Personenamen, Firmennamen, Namen von Bauteilen und Produkten
+            etc.) erkennt, extrahiert und beispielsweise für die Nutzung in einem semantischen Netz bereitstellt. So
+            wird das manuelle Erstellen eines Wissensnetzes zu einem halbautomatischen Verfahren.   In Zukunft könnte es
+            auch denkbar sein, zusätzlich Zusammenhänge zwischen Objekten aus Texten zu erkennen (beispielsweise dass es
+            im Vertriebsteam einen neuen Mitarbeiter namens Thorsten Müller gibt) und ins semantische Netz zu
+            übernehmen. Das Erstellen eines Wissensnetzes zur Unterstützung der Suche wird somit also fast zu einem
+            Kinderspiel.   Die 80-20-Regel (auch Pareto-Prinzip) ist auch hier zu beobachten: 20% Aufwand durch die
+            Installation und Konfiguration einer leistungsfähigen Suchmaschine führen in 80% der Suchanfragen zu einem
+            erfolgreichen Ergebnis. Für die Erfüllung der restlichen 20% muss eine fachkundige Person verstanden und
+            modelliert haben, worin nun tatsächlich die Zusammenhänge zwischen den Informationen bestehen. Dieser
+            Aufwand lässt sich zwar über automatische Verfahren unterstützen, doch ist sicherlich manuelle Arbeit und
+            Kontrolle notwendig, um die Erfolgsquote bei Suchen zu erhöhen.   Der Autor Michael Poprat studierte
+            Germanistik und Informatik an der Universität Freiburg im Breisgau. Er interessierte sich vor allem für die
+            Schnittmenge der beiden Disziplinen, die Computerlinguistik. Die Verbindung von Sprache und Wissen hat es
+            ihm angetan. Seit 2013 arbeitet Michael als Projektmanager in unserem Unternehmen und ist maßgeblich für das
+            Produkt Semantic Modeller verantwortlich.
+        </body>
+    </Document>
+</documents>

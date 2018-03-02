@@ -1,0 +1,39 @@
+<li class="media ifs-tpl-bestbet {{#if mobilePhoneState}}tpl-mobile{{/if}}" data-favorite="{{favoredString}}" data-index="{{integer}}" data-score="{{score}}">
+
+    <div class="ifs-favorite-label {{#if favoredBool}} state-true {{/if}}">
+        <i class="glyphicons glyphicons-star"></i>
+    </div>
+
+    {{#if mobilePhoneState}}
+    <div class="ifs-swipe-area">
+    {{/if}}
+
+    <div class="media-left">
+        <div class="media-object ifs-avatar-img-rounded ifs-bestbet">
+            <i class="glyphicons glyphicons-comments"></i>
+        </div>
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading ifs-dont-break">
+            <a target="_blank" href="{{url}}">{{{title}}}</a>
+        </h4>
+        <div class="flex-truncate">
+            <p>
+                {{modified}} | {{creator}}
+            </p>
+        </div>
+        {{#if text}}
+            <p class="ifs-textbody">{{{text}}}</p>
+        {{/if}}
+    </div>
+
+    {{#if mobilePhoneState}}
+        </div>
+    {{/if}}
+
+
+    {{#if hitMenu}}
+        {{{hitMenu}}}
+    {{/if}}
+
+</li>

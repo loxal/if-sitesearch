@@ -1,0 +1,32 @@
+<div class="ifs-person-card">
+    <div class="media">
+        <div class="media-left">
+            <img class="media-object  ifs-avatar-img"
+                 src="{{authenticateIfJWTPresent thumbnail}}"
+                 data-opener="person-img"
+                 onerror="this.src='{{rootDir}}/{{iconPath}}/../shared/person-dummy.png'">
+        </div>
+        <div class="media-body">
+            <div class="row">
+                <div class="col-sm-5">
+                    <h4 class="media-heading">{{ firstname }} {{ lastname }}</h4>
+                    <p>{{ jobtitle }}</p>
+                </div>
+
+                <div class="col-sm-7">
+                    <div class="ifs-person-info-short hidden-xs">
+                        {{#if phone }}
+                            <a href="tel:{{ phone }}"><i class="glyphicons glyphicons-earphone"></i> <span data-opener="person-phone">{{ phone }}</span></a>
+                        {{/if}}
+                        {{#if mobile }}
+                            <a href="tel:{{ mobile }}"><i class="glyphicons glyphicons-iphone"></i> <span data-opener="person-mobile">{{ mobile }}</span></a>
+                        {{/if}}
+                        {{#if email }}
+                            <a href="mailto:{{email}}"><i class="glyphicons glyphicons-envelope"></i> <span>{{ email }}</span></a>
+                        {{/if}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
